@@ -24,8 +24,6 @@ table 'Reissued Devices'
 		summarizeBy: none
 		sourceColumn: Date of giving out
 
-		changedProperty = DataType
-
 		annotation SummarizationSetBy = Automatic
 
 		annotation UnderlyingDateTimeDataType = Date

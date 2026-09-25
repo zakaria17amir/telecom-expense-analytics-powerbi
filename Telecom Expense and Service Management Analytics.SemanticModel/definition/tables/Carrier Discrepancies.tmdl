@@ -8,8 +8,6 @@ table 'Carrier Discrepancies'
 		summarizeBy: none
 		sourceColumn: Date
 
-		changedProperty = DataType
-
 		annotation SummarizationSetBy = Automatic
 
 		annotation UnderlyingDateTimeDataType = Date

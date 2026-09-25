@@ -21,8 +21,6 @@ table 'Zero Use Report'
 		summarizeBy: none
 		sourceColumn: Qty
 
-		changedProperty = DataType
-
 		annotation SummarizationSetBy = User
 
 	column 'Monthly Recurring Charges'
@@ -51,8 +49,6 @@ table 'Zero Use Report'
 		lineageTag: 5376f1b1-0ebe-4ad7-882a-5c236c43e457
 		summarizeBy: none
 		sourceColumn: Lines Found
-
-		changedProperty = DataType
 
 		annotation SummarizationSetBy = User
 

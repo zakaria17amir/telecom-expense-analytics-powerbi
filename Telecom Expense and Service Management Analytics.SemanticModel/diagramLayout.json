@@ -11,7 +11,7 @@
         {
           "location": {
             "x": 852,
-            "y": 628.9911689758301
+            "y": 628.99116897583008
           },
           "nodeIndex": "Dim_Calendar",
           "size": {
@@ -23,7 +23,7 @@
         {
           "location": {
             "x": 568,
-            "y": 578.9911689758301
+            "y": 578.99116897583008
           },
           "nodeIndex": "Monthly Billings All",
           "size": {
@@ -35,7 +35,7 @@
         {
           "location": {
             "x": 1704,
-            "y": 578.9911689758301
+            "y": 578.99116897583008
           },
           "nodeIndex": "Device Depot Inventory",
           "nodeLineageTag": "30e2a407-0579-4a9c-9703-38e415a75f91",
@@ -48,7 +48,7 @@
         {
           "location": {
             "x": 1988,
-            "y": 578.9911689758301
+            "y": 578.99116897583008
           },
           "nodeIndex": "Reissued Devices",
           "nodeLineageTag": "8a80ba09-0746-41dc-a50a-342a221e8869",
@@ -61,7 +61,7 @@
         {
           "location": {
             "x": 2606,
-            "y": 590.9911689758301
+            "y": 590.99116897583008
           },
           "nodeIndex": "Exception List",
           "nodeLineageTag": "37b3be2b-9ab6-41d3-aadc-2e44845d5256",
@@ -74,7 +74,7 @@
         {
           "location": {
             "x": 2322,
-            "y": 602.9911689758301
+            "y": 602.99116897583008
           },
           "nodeIndex": "VVIP List",
           "nodeLineageTag": "ce4ca3dc-130d-443d-a8ec-1fbff9a333c0",
@@ -87,7 +87,7 @@
         {
           "location": {
             "x": 3124,
-            "y": 664.4911689758301
+            "y": 664.49116897583008
           },
           "nodeIndex": "All Measures",
           "size": {
@@ -99,7 +99,7 @@
         {
           "location": {
             "x": 3408,
-            "y": 560.2411689758301
+            "y": 560.24116897583008
           },
           "nodeIndex": "Granite Overall",
           "nodeLineageTag": "3c992def-81c3-4a10-a343-2d2275cde3ce",
@@ -112,7 +112,7 @@
         {
           "location": {
             "x": 3976,
-            "y": 574.2411689758301
+            "y": 574.24116897583008
           },
           "nodeIndex": "Tangoe Devices",
           "nodeLineageTag": "f3830346-c4fa-494d-b439-4b17251c164b",
@@ -125,7 +125,7 @@
         {
           "location": {
             "x": 4260,
-            "y": 658.2411689758301
+            "y": 658.24116897583008
           },
           "nodeIndex": "All Carriers",
           "nodeLineageTag": "af499eb4-9573-4df2-8105-cb4351de6b33",
@@ -138,7 +138,7 @@
         {
           "location": {
             "x": 3692,
-            "y": 560.2411689758301
+            "y": 560.24116897583008
           },
           "nodeIndex": "Granite Rock Report",
           "size": {
@@ -150,7 +150,7 @@
         {
           "location": {
             "x": 4544,
-            "y": 555.5536689758301
+            "y": 555.55366897583008
           },
           "nodeIndex": "Returned Devices",
           "nodeLineageTag": "85398c85-221c-4ab4-857c-e1c4ade97885",
@@ -163,7 +163,7 @@
         {
           "location": {
             "x": 4828,
-            "y": 550.8661689758301
+            "y": 550.86616897583008
           },
           "nodeIndex": "Tangoe Activities",
           "size": {
@@ -175,7 +175,7 @@
         {
           "location": {
             "x": 5112,
-            "y": 545.0067939758301
+            "y": 545.00679397583008
           },
           "nodeIndex": "Upgrades and Order Approvals",
           "size": {
@@ -187,7 +187,7 @@
         {
           "location": {
             "x": 5680,
-            "y": 525.9638252258301
+            "y": 525.96382522583008
           },
           "nodeIndex": "ServiceNow Tickets",
           "nodeLineageTag": "f08b9600-1974-4c50-b282-704ecba35662",
@@ -200,7 +200,7 @@
         {
           "location": {
             "x": 5964,
-            "y": 567.4677314758301
+            "y": 567.46773147583008
           },
           "nodeIndex": "Out Of Contract Devices",
           "nodeLineageTag": "210d1a38-424d-4984-ae01-0baa5947b987",
@@ -213,7 +213,7 @@
         {
           "location": {
             "x": 6532,
-            "y": 536.7060127258301
+            "y": 536.70601272583008
           },
           "nodeIndex": "Active Inactive Users",
           "nodeLineageTag": "1ed5bd75-dccc-468a-87ff-f262fb6fba35",
@@ -226,7 +226,7 @@
         {
           "location": {
             "x": 6816,
-            "y": 522.3205146789551
+            "y": 522.32051467895508
           },
           "nodeIndex": "Zero Use Report",
           "nodeLineageTag": "07a32fc3-d273-4660-a94f-88fe242436eb",
@@ -239,7 +239,7 @@
         {
           "location": {
             "x": 7100,
-            "y": 506.7422676086426
+            "y": 506.74226760864258
           },
           "nodeIndex": "Multiple Devices",
           "nodeLineageTag": "918e6e89-53d8-4d31-ad68-029e1a15524d",
@@ -252,7 +252,7 @@
         {
           "location": {
             "x": 7384,
-            "y": 420.7422676086426
+            "y": 420.74226760864258
           },
           "nodeIndex": "Unassigned Lines",
           "nodeLineageTag": "822e9728-adf9-4654-b3b3-7708c2f300a8",
@@ -265,7 +265,7 @@
         {
           "location": {
             "x": 7952,
-            "y": 400.9851875305176
+            "y": 400.98518753051758
           },
           "nodeIndex": "Verizon Activation",
           "size": {
@@ -277,7 +277,7 @@
         {
           "location": {
             "x": 7668,
-            "y": 462.9851875305176
+            "y": 462.98518753051758
           },
           "nodeIndex": "Carrier Discrepancies",
           "size": {

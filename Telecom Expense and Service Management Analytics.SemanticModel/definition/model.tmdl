@@ -9,7 +9,7 @@ model Model
 
 annotation __PBI_TimeIntelligenceEnabled = 0
 
-annotation PBI_QueryOrder = ["Monthly Billings All","Device Depot Inventory","Reissued Devices","VVIP List","Exception List","All Measures","Tangoe Devices","Granite Overall","Granite Rock Report","All Carriers","Returned Devices","Tangoe Activities","ServiceNow Tickets","Out Of Contract Devices","Active Inactive Users","Zero Use Report","Multiple Devices","Unassigned Lines","Carrier Discrepancies","Verizon Activation","Upgrades and Order Approvals","Device Orders","Device Upgrade","All Lines Report"]
+annotation PBI_QueryOrder = ["Monthly Billings All","Device Depot Inventory","Reissued Devices","VVIP List","Exception List","All Measures","Tangoe Devices","Granite Overall","Granite Rock Report","All Carriers","Returned Devices","Tangoe Activities","ServiceNow Tickets","Out Of Contract Devices","Active Inactive Users","Zero Use Report","Multiple Devices","Unassigned Lines","Carrier Discrepancies","Verizon Activation","Upgrades and Order Approvals","Device Orders","Device Upgrade","All Lines Report","DataFolder","LoadCsv"]
 
 annotation PBI_RemovedChildren = [{"remoteItemId":{"foreignKeyRelationship":{"fromTableLocalLineageTag":"37b3be2b-9ab6-41d3-aadc-2e44845d5256","fromColumnLocalLineageTag":"a1eb8434-ecfa-45d5-bb02-5d65b659c6e4","toTableLocalLineageTag":"ce4ca3dc-130d-443d-a8ec-1fbff9a333c0","toColumnLocalLineageTag":"4cacbc9f-eccc-4566-bf7b-7739d085d8aa"}},"objectType":"Relationship"}]
 
@@ -42,4 +42,5 @@ ref table 'Device Upgrade'
 ref table 'All Lines Report'
 ref table 'Dim Device Category'
 
+ref cultureInfo en-US
 

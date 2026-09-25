@@ -80,8 +80,6 @@ table 'Verizon Activation'
 		summarizeBy: none
 		sourceColumn: Chargeback date
 
-		changedProperty = DataType
-
 		annotation SummarizationSetBy = Automatic
 
 		annotation UnderlyingDateTimeDataType = Date
@@ -117,8 +115,6 @@ table 'Verizon Activation'
 		lineageTag: 007fc539-6b43-45ee-b323-0561acc71a31
 		summarizeBy: none
 		sourceColumn: Chargeback amount
-
-		changedProperty = DataType
 
 		annotation SummarizationSetBy = User
 

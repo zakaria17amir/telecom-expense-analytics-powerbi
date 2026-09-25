@@ -24,8 +24,6 @@ table 'Monthly Billings All'
 		summarizeBy: none
 		sourceColumn: Bill Cycle End Date
 
-		changedProperty = DataType
-
 		annotation SummarizationSetBy = Automatic
 
 		annotation UnderlyingDateTimeDataType = Date

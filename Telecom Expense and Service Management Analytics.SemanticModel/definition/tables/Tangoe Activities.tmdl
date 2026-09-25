@@ -79,12 +79,14 @@ table 'Tangoe Activities'
 
 	column 'Completed At'
 		dataType: dateTime
-		formatString: General Date
+		formatString: Long Date
 		lineageTag: d2349495-f073-4982-9e3c-0b2bd96d9c03
 		summarizeBy: none
 		sourceColumn: Completed At
 
 		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
 
 	column 'Activity State'
 		dataType: string
