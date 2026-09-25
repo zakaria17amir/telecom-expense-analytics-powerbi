@@ -305,14 +305,3 @@ text. That makes it diff-able in Git and reviewable in pull requests.
   tooltips, conditional ▲▼ variance indicators
 - **Engineering practices:** PBIP/TMDL source control, reproducible synthetic data, schema-driven generation
 - **Domain:** telecom expense management, carrier billing structures, device lifecycle, IT service management
-
-## Roadmap
-
-- Replace the hard-coded depot savings prices with a what-if parameter or a price table
-- Add row-level security by department/cost center for manager self-service
-- Use incremental refresh on `Monthly Billings All` once history grows
-- Add a carrier contract/rate-plan dimension to benchmark plan pricing
-- Replace text-returning KPI measures (e.g. `"212 (45%)"`) with numeric measures plus card
-  subtitles, so they can be exported and used in conditional formatting
-
-
