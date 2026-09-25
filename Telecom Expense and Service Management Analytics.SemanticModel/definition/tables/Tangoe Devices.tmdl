@@ -1,0 +1,79 @@
+table 'Tangoe Devices'
+	lineageTag: f3830346-c4fa-494d-b439-4b17251c164b
+
+	column Model
+		dataType: string
+		lineageTag: b5f3fa22-8fe6-4e85-a5d2-62c0c0b386f1
+		summarizeBy: none
+		sourceColumn: Model
+
+		annotation SummarizationSetBy = Automatic
+
+	column Person
+		dataType: string
+		lineageTag: 06d47378-9724-4351-a7b3-07b2beb7ae27
+		summarizeBy: none
+		sourceColumn: Person
+
+		annotation SummarizationSetBy = Automatic
+
+	column Group
+		dataType: string
+		lineageTag: 79c00a95-6aad-4e0c-8abe-04bb0c32e266
+		summarizeBy: none
+		sourceColumn: Group
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Cost Center'
+		dataType: string
+		lineageTag: 0fb5d736-3e38-477a-8f27-2f22cfbb23c0
+		summarizeBy: none
+		sourceColumn: Cost Center
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Device Category'
+		dataType: string
+		lineageTag: 343de1e4-34f0-4d82-8f21-7ff4ff3a3d29
+		summarizeBy: none
+		sourceColumn: Device Category
+
+		annotation SummarizationSetBy = Automatic
+
+	column Identifier
+		dataType: string
+		lineageTag: 1054b6ad-937c-46af-bfe6-6a1ee7306da6
+		summarizeBy: none
+		sourceColumn: Identifier
+
+		annotation SummarizationSetBy = Automatic
+
+	column Carrier
+		dataType: string
+		lineageTag: 8f560e2c-220d-4a11-9625-121fa7be08ef
+		summarizeBy: none
+		sourceColumn: Carrier
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Line -> Product Category'
+		dataType: string
+		lineageTag: ccce6196-fecc-472e-a841-7c2de9df2630
+		summarizeBy: none
+		sourceColumn: Line -> Product Category
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Tangoe Devices' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("Tangoe Devices", {{"Model", type text}, {"Person", type text}, {"Group", type text}, {"Cost Center", type text}, {"Device Category", type text}, {"Identifier", type text}, {"Carrier", type text}, {"Line -> Product Category", type text}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

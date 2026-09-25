@@ -1,0 +1,390 @@
+table 'Granite Overall'
+	lineageTag: 3c992def-81c3-4a10-a343-2d2275cde3ce
+
+	column PlanId
+		dataType: int64
+		formatString: 0
+		lineageTag: 49c7a7b0-f3e8-4b22-97f1-2a46c1eec96f
+		summarizeBy: none
+		sourceColumn: PlanId
+
+		annotation SummarizationSetBy = User
+
+	column ConnectionID
+		dataType: int64
+		formatString: 0
+		lineageTag: 3b1c2d5a-ed53-42e9-8b06-db07b97c0e5c
+		summarizeBy: none
+		sourceColumn: ConnectionID
+
+		annotation SummarizationSetBy = User
+
+	column TotalRecords
+		dataType: int64
+		formatString: 0
+		lineageTag: be2d1bbd-fdb6-4db3-8a05-f75bc58d2cb5
+		summarizeBy: none
+		sourceColumn: TotalRecords
+
+		annotation SummarizationSetBy = User
+
+	column AccountNumber
+		dataType: int64
+		formatString: 0
+		lineageTag: d43601b0-f9c2-4fa1-ba6c-7a9339914ac9
+		summarizeBy: none
+		sourceColumn: AccountNumber
+
+		annotation SummarizationSetBy = User
+
+	column AccountName
+		dataType: string
+		lineageTag: 0ffb7a13-0c3b-4122-aef0-36bd076c7925
+		summarizeBy: none
+		sourceColumn: AccountName
+
+		annotation SummarizationSetBy = Automatic
+
+	column ParentAccountNumber
+		dataType: int64
+		formatString: 0
+		lineageTag: 6e2404e0-74fa-45db-87bf-2b37a6908f6d
+		summarizeBy: none
+		sourceColumn: ParentAccountNumber
+
+		annotation SummarizationSetBy = User
+
+	column ParentAccountName
+		dataType: string
+		lineageTag: f8a686ca-0106-4763-9795-f61694ca5cb4
+		summarizeBy: none
+		sourceColumn: ParentAccountName
+
+		annotation SummarizationSetBy = Automatic
+
+	column Iccid
+		dataType: double
+		formatString: 0
+		lineageTag: 3d806b0f-7b5b-430b-a7c3-6f588fa02c04
+		summarizeBy: none
+		sourceColumn: Iccid
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isDecimal":true}
+
+	column Msisdn
+		dataType: int64
+		formatString: 0
+		lineageTag: 6866d1be-92ca-40c0-8fb6-130bfc83f78b
+		summarizeBy: none
+		sourceColumn: Msisdn
+
+		annotation SummarizationSetBy = User
+
+	column Imei
+		dataType: double
+		lineageTag: 37aa28a5-f010-40d6-b820-e3c5cb1c3c10
+		summarizeBy: none
+		sourceColumn: Imei
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column PlanName
+		dataType: string
+		lineageTag: 0f11e8e0-cc4e-47e0-9261-9d8d9a81de44
+		summarizeBy: none
+		sourceColumn: PlanName
+
+		annotation SummarizationSetBy = Automatic
+
+	column PlanType
+		dataType: string
+		lineageTag: 584d4d67-368e-418d-97f7-d45eea4932fc
+		summarizeBy: none
+		sourceColumn: PlanType
+
+		annotation SummarizationSetBy = Automatic
+
+	column PlanLimit
+		dataType: string
+		lineageTag: cd347e7f-59e7-4269-9046-877885469431
+		summarizeBy: none
+		sourceColumn: PlanLimit
+
+		annotation SummarizationSetBy = Automatic
+
+	column PlanUsage
+		dataType: double
+		lineageTag: 348ff76a-f695-4ab9-bfd6-63b097fb61d4
+		summarizeBy: none
+		sourceColumn: PlanUsage
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column PlanUsagePercentage
+		dataType: double
+		lineageTag: 9e203688-ab7e-455b-ac8e-83393a9487e1
+		summarizeBy: none
+		sourceColumn: PlanUsagePercentage
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column SimLimit
+		dataType: string
+		lineageTag: 22e6418d-451c-405e-a65a-a73e967470f5
+		summarizeBy: none
+		sourceColumn: SimLimit
+
+		annotation SummarizationSetBy = Automatic
+
+	column SimUsage
+		dataType: double
+		lineageTag: e549b508-e8cf-4374-b9b0-cae4df4e8596
+		summarizeBy: none
+		sourceColumn: SimUsage
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column SimUsagePercentage
+		dataType: double
+		lineageTag: 59303d85-b3fa-4ce8-b3d1-c7eee0823c1a
+		summarizeBy: none
+		sourceColumn: SimUsagePercentage
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Username
+		dataType: string
+		lineageTag: be7b276d-332f-4bf7-b3ba-972b91a3bd78
+		summarizeBy: none
+		sourceColumn: Username
+
+		annotation SummarizationSetBy = Automatic
+
+	column Status
+		dataType: string
+		lineageTag: e5e297cc-adc4-49d4-b72f-31ff23709e41
+		summarizeBy: none
+		sourceColumn: Status
+
+		annotation SummarizationSetBy = Automatic
+
+	column PlanAlias
+		dataType: string
+		lineageTag: 954526ca-615f-4fe8-94d5-da84f00542ac
+		summarizeBy: none
+		sourceColumn: PlanAlias
+
+		annotation SummarizationSetBy = Automatic
+
+	column SimAlias
+		dataType: string
+		lineageTag: c0e43159-2958-461b-aa4b-16ff7d16cfcf
+		summarizeBy: none
+		sourceColumn: SimAlias
+
+		annotation SummarizationSetBy = Automatic
+
+	column CycleDate
+		dataType: string
+		lineageTag: 6a0effcf-b090-4f88-8f25-4c5d19b9767b
+		summarizeBy: none
+		sourceColumn: CycleDate
+
+		annotation SummarizationSetBy = Automatic
+
+	column Cycle
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: c331faf3-da1a-41bf-9ac5-5c1ab01195b9
+		summarizeBy: none
+		sourceColumn: Cycle
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Manufacturer
+		dataType: string
+		lineageTag: 4a7e0260-8feb-4a2c-8052-16eac7590249
+		summarizeBy: none
+		sourceColumn: Manufacturer
+
+		annotation SummarizationSetBy = Automatic
+
+	column Model
+		dataType: string
+		lineageTag: 86fe35c1-6cb3-4155-8c5a-cab41cc7049a
+		summarizeBy: none
+		sourceColumn: Model
+
+		annotation SummarizationSetBy = Automatic
+
+	column IPType
+		dataType: string
+		lineageTag: 49f74008-536d-46de-90c2-74623da1f893
+		summarizeBy: none
+		sourceColumn: IPType
+
+		annotation SummarizationSetBy = Automatic
+
+	column IPAddress
+		dataType: string
+		lineageTag: c56f862f-4b28-4dd1-a680-7ac04209bade
+		summarizeBy: none
+		sourceColumn: IPAddress
+
+		annotation SummarizationSetBy = Automatic
+
+	column SubnetMask
+		dataType: string
+		lineageTag: ceea1f48-5c44-4754-8d7a-f4276b33fd31
+		summarizeBy: none
+		sourceColumn: SubnetMask
+
+		annotation SummarizationSetBy = Automatic
+
+	column DefaultGateway
+		dataType: string
+		lineageTag: 2c7c3f35-c977-41b3-87a5-d809ad27e543
+		summarizeBy: none
+		sourceColumn: DefaultGateway
+
+		annotation SummarizationSetBy = Automatic
+
+	column CycleDay
+		dataType: string
+		lineageTag: 14f3260f-3f52-4658-ab3f-c827ceb11e82
+		summarizeBy: none
+		sourceColumn: CycleDay
+
+		annotation SummarizationSetBy = Automatic
+
+	column Location
+		dataType: string
+		lineageTag: 71ee3160-8396-4464-ac6d-a79c0bf0ac36
+		summarizeBy: none
+		sourceColumn: Location
+
+		annotation SummarizationSetBy = Automatic
+
+	column ModelNumber
+		dataType: string
+		lineageTag: 66d1efaa-4fd5-49cd-950d-2e44b27b9bbb
+		summarizeBy: none
+		sourceColumn: ModelNumber
+
+		annotation SummarizationSetBy = Automatic
+
+	column BundleType
+		dataType: string
+		lineageTag: 176f5e75-141a-4f21-a09e-5643893edc7b
+		summarizeBy: none
+		sourceColumn: BundleType
+
+		annotation SummarizationSetBy = Automatic
+
+	column EquipmentId
+		dataType: int64
+		formatString: 0
+		lineageTag: ed725d34-b721-43da-a80c-f6422a9ffe4c
+		summarizeBy: none
+		sourceColumn: EquipmentId
+
+		annotation SummarizationSetBy = User
+
+	column EqiupmentProduct
+		dataType: string
+		lineageTag: 62baee15-3992-426b-b8e7-7c60ff98cd07
+		summarizeBy: none
+		sourceColumn: EqiupmentProduct
+
+		annotation SummarizationSetBy = Automatic
+
+	column CustomField1
+		dataType: string
+		lineageTag: efafdb71-d126-4d95-8759-daa4a3068c9c
+		summarizeBy: none
+		sourceColumn: CustomField1
+
+		annotation SummarizationSetBy = Automatic
+
+	column CustomField2
+		dataType: string
+		lineageTag: 0be72692-66c9-41d0-85ca-573618152075
+		summarizeBy: none
+		sourceColumn: CustomField2
+
+		annotation SummarizationSetBy = Automatic
+
+	column GeneralLedger
+		dataType: string
+		lineageTag: b9704453-4ccd-472c-af0a-49b80525a745
+		summarizeBy: none
+		sourceColumn: GeneralLedger
+
+		annotation SummarizationSetBy = Automatic
+
+	column BranchNumber
+		dataType: string
+		lineageTag: 4777e081-b644-4022-806f-ad511da45126
+		summarizeBy: none
+		sourceColumn: BranchNumber
+
+		annotation SummarizationSetBy = Automatic
+
+	column Employer
+		dataType: string
+		lineageTag: 5ad98849-9243-4fb0-b977-2239ff13f895
+		summarizeBy: none
+		sourceColumn: Employer
+
+		annotation SummarizationSetBy = Automatic
+
+	column Carrier = "Granite"
+		lineageTag: 0235005e-8ea1-4311-9d3c-19594dca1e9b
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Device Type' = "Tablet"
+		dataType: string
+		lineageTag: 746d96ec-2c4c-4661-9655-aa99a880ac75
+		summarizeBy: none
+
+		changedProperty = DataType
+
+		annotation SummarizationSetBy = Automatic
+
+	column Length
+		dataType: int64
+		formatString: 0
+		lineageTag: 1a197d85-e4f1-4451-ba60-f4dc0968177f
+		summarizeBy: sum
+		sourceColumn: Length
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Granite Overall' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("Granite Overall", {{"PlanId", Int64.Type}, {"ConnectionID", Int64.Type}, {"TotalRecords", Int64.Type}, {"AccountNumber", Int64.Type}, {"AccountName", type text}, {"ParentAccountNumber", Int64.Type}, {"ParentAccountName", type text}, {"Iccid", type number}, {"Msisdn", Int64.Type}, {"Imei", type number}, {"PlanName", type text}, {"PlanType", type text}, {"PlanLimit", type text}, {"PlanUsage", type number}, {"PlanUsagePercentage", type number}, {"SimLimit", type text}, {"SimUsage", type number}, {"SimUsagePercentage", type number}, {"Username", type text}, {"Status", type text}, {"PlanAlias", type text}, {"SimAlias", type text}, {"CycleDate", type text}, {"Cycle", type date}, {"Manufacturer", type text}, {"Model", type text}, {"IPType", type text}, {"IPAddress", type text}, {"SubnetMask", type text}, {"DefaultGateway", type text}, {"CycleDay", type text}, {"Location", type text}, {"ModelNumber", type text}, {"BundleType", type text}, {"EquipmentId", Int64.Type}, {"EqiupmentProduct", type text}, {"CustomField1", type text}, {"CustomField2", type text}, {"GeneralLedger", type text}, {"BranchNumber", type text}, {"Employer", type text}, {"Length", Int64.Type}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

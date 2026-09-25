@@ -1,0 +1,24 @@
+table 'All Carriers'
+	lineageTag: af499eb4-9573-4df2-8105-cb4351de6b33
+
+	column Carrier
+		dataType: string
+		lineageTag: b302714f-8a6e-4d3d-8e38-aec92bbd9237
+		summarizeBy: none
+		sourceColumn: Carrier
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'All Carriers' = m
+		mode: import
+		source =
+				let
+				    Source = Table.FromRows(Json.Document(Binary.Decompress(Binary.FromText("i45WcgyJKTUwMDILUQjNyyxJTVEILkksSS1WitWJVnJKzclRcE7MS0xJBPOD8tNTi4qRRUJ0ffOTMnNSsWgOSy3KrMrPwyLjXpQIElOKjQUA", BinaryEncoding.Base64), Compression.Deflate)), let _t = ((type nullable text) meta [Serialized.Text = true]) in type table [Carrier = _t]),
+				    #"Changed Type" = Table.TransformColumnTypes(Source,{{"Carrier", type text}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+
+	annotation PBI_NavigationStepName = Navigation
+

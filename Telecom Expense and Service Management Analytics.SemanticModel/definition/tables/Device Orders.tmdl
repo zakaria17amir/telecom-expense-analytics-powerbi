@@ -1,0 +1,67 @@
+table 'Device Orders'
+	lineageTag: 175787a5-6e34-4d3c-afd5-538dcde0c7a1
+
+	column 'Activity Number'
+		dataType: int64
+		formatString: 0
+		lineageTag: 00fcaa67-0957-469f-a2f5-8c10949d0821
+		summarizeBy: sum
+		sourceColumn: Activity Number
+
+		annotation SummarizationSetBy = Automatic
+
+	column Type
+		dataType: string
+		lineageTag: 498ff4af-a9b9-4734-9b19-0715083206b0
+		summarizeBy: none
+		sourceColumn: Type
+
+		annotation SummarizationSetBy = Automatic
+
+	column ' Name'
+		dataType: string
+		lineageTag: 3f1a229f-e732-4ff1-b9ea-bcedec12a123
+		summarizeBy: none
+		sourceColumn: " Name"
+
+		annotation SummarizationSetBy = Automatic
+
+	column Carrier
+		dataType: string
+		lineageTag: 4c387f9a-1564-4bcc-943b-ed3313f92cd4
+		summarizeBy: none
+		sourceColumn: Carrier
+
+		annotation SummarizationSetBy = Automatic
+
+	column Deadline
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: c312118c-6baa-413d-98af-147fd0d18ec4
+		summarizeBy: none
+		sourceColumn: Deadline
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Decision
+		dataType: string
+		lineageTag: a9c09575-9dcf-4b79-a75c-07f5bb5e4abc
+		summarizeBy: none
+		sourceColumn: Decision
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Device Orders' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("Device Orders", {{"Activity Number", Int64.Type}, {"Type", type text}, {" Name", type text}, {"Carrier", type text}, {"Deadline", type date}, {"Decision", type text}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

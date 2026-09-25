@@ -1,0 +1,48 @@
+table 'Exception List'
+	lineageTag: 37b3be2b-9ab6-41d3-aadc-2e44845d5256
+
+	column Name
+		dataType: string
+		lineageTag: 3b029e35-139a-4812-aad4-3f19e23dbefe
+		summarizeBy: none
+		sourceColumn: Name
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Device Number'
+		dataType: int64
+		formatString: 0
+		lineageTag: a1eb8434-ecfa-45d5-bb02-5d65b659c6e4
+		summarizeBy: none
+		sourceColumn: Device Number
+
+		annotation SummarizationSetBy = Automatic
+
+	column Carrier
+		dataType: string
+		lineageTag: 13a36de9-995a-4dab-8224-dbba737dfe06
+		summarizeBy: none
+		sourceColumn: Carrier
+
+		annotation SummarizationSetBy = Automatic
+
+	column Comment
+		dataType: string
+		lineageTag: 1b11bc31-8c52-4ae9-b6aa-7267705c925d
+		summarizeBy: none
+		sourceColumn: Comment
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Exception List' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("Exception List", {{"Name", type text}, {"Device Number", Int64.Type}, {"Carrier", type text}, {"Comment", type text}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

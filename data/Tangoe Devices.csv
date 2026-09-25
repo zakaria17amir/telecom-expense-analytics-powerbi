@@ -1,0 +1,511 @@
+Model,Person,Group,Cost Center,Device Category,Identifier,Carrier,Line -> Product Category
+Kyocera DuraXV Extreme,Ahmed Campbell,Executive Office,42008,Basic Phone,354184968423450,AT&T United States,Basic Phone
+Apple iPhone 15,Carlos King,Executive Office,42009,Smart Phone,359276907846961,AT&T United States,Smart Phone
+Kyocera DuraXV Extreme,Nancy Thomas,Executive Office,42009,Basic Phone,351081853545109,Verizon United States,Basic Phone
+Apple iPhone SE,Daniel Campbell,Executive Office,42005,Smart Phone,351248893649505,AT&T United States,Smart Phone
+Apple iPhone 16,Sarah Patel,Executive Office,42007,Smart Phone,358629312908612,Verizon United States,Smart Phone
+Apple iPhone 15,Joshua Kim,Executive Office,42008,Smart Phone,355499580917036,Verizon United States,Smart Phone
+Apple iPhone 14,Jennifer Young,Operations,41805,Smart Phone,353412486249813,AT&T United States,Smart Phone
+Netgear Nighthawk M6,Thomas Mitchell,Finance,41101,Hotspot,351048251832720,Bell Canada,Hotspot
+Netgear Nighthawk M6,Fatima Chen,Research & Development,41709,Hotspot,352671240069386,AT&T United States,Hotspot
+Apple iPhone 15,Stephanie Taylor,Information Technology,41502,Smart Phone,353328357848660,Verizon United States,Smart Phone
+Apple iPad 10th Gen,Michelle Hill,Marketing,41301,Tablet,356952279828019,AT&T United States,Tablet
+Inseego MiFi X PRO,Sofia Wilson,Sales,41402,Hotspot,359916568361160,Verizon United States,Hotspot
+Samsung Galaxy S23,Emily Davis,Supply Chain,41208,Smart Phone,359945944907456,Rogers Canada,Smart Phone
+Apple iPhone 14,Joseph Roy,Information Technology,41506,Smart Phone,351803615534873,AT&T United States,Smart Phone
+Inseego MiFi X PRO,Sandra Baker,Supply Chain,41207,Hotspot,358928044716913,Verizon United States,Hotspot
+Apple iPhone 15,Kevin Nelson,Finance,41105,Smart Phone,355366961146954,AT&T United States,Smart Phone
+Apple iPhone 13,Melissa Walker,Sales,41408,Smart Phone,359861281231378,Bell Canada,Smart Phone
+Apple iPhone 14,Omar Johnson,Finance,41100,Smart Phone,353573761561636,Bell Canada,Smart Phone
+Apple iPhone 13,Nancy Robinson,Research & Development,41708,Smart Phone,351947264162231,T-Mobile United States,Smart Phone
+Netgear Nighthawk M6,David Flores,Operations,41801,Hotspot,355910988046368,T-Mobile United States,Hotspot
+Inseego MiFi X PRO,Jessica Torres,Sales,41401,Hotspot,356590791921259,Verizon United States,Hotspot
+Apple iPhone 15,James Clark,Sales,41409,Smart Phone,358839801405202,Verizon United States,Smart Phone
+Apple iPhone 15,Priya Nguyen,Information Technology,41503,Smart Phone,358463301985986,AT&T United States,Smart Phone
+Google Pixel 8,Chloe Wright,Operations,41805,Smart Phone,356563842476684,Verizon United States,Smart Phone
+Apple iPhone 16,Omar Singh,Marketing,41301,Smart Phone,359336663888794,AT&T United States,Smart Phone
+Inseego MiFi X PRO,Hiroshi Nelson,Information Technology,41509,Hotspot,357934639828976,AT&T United States,Hotspot
+Apple iPhone 15,Karen Singh,Information Technology,41509,Smart Phone,356111325235792,Verizon United States,Smart Phone
+Apple iPhone SE,Priya Patel,Information Technology,41501,Smart Phone,357410525858937,Verizon United States,Smart Phone
+Apple iPhone 15,Chloe White,Human Resources,41608,Smart Phone,354088548918441,Verizon United States,Smart Phone
+Apple iPhone 13,Chloe Patel,Sales,41407,Smart Phone,357903583623738,T-Mobile United States,Smart Phone
+Apple iPhone 15,Mark Kim,Sales,41406,Smart Phone,359580320189067,T-Mobile United States,Smart Phone
+Apple iPhone 15,Ahmed Young,Marketing,41306,Smart Phone,355941976103103,T-Mobile United States,Smart Phone
+Apple iPhone 14,Mateo Baker,Research & Development,41703,Smart Phone,353367219024486,T-Mobile United States,Smart Phone
+Samsung Galaxy S23,Jennifer Roberts,Information Technology,41503,Smart Phone,353510841483517,Bell Canada,Smart Phone
+Apple iPhone 16,Kevin Carter,Sales,41409,Smart Phone,352636887268911,Verizon United States,Smart Phone
+Apple iPhone 14,Ashley Jones,Information Technology,41504,Smart Phone,352476863388152,Rogers Canada,Smart Phone
+Apple iPhone 15,Susan Carter,Operations,41800,Smart Phone,357431991282325,Verizon United States,Smart Phone
+Apple iPhone 15,Jessica Anderson,Finance,41100,Smart Phone,352761631496127,Verizon United States,Smart Phone
+Apple iPhone 13,Andrew Davis,Sales,41409,Smart Phone,358724474494226,AT&T United States,Smart Phone
+Apple iPhone SE,Richard Kim,Sales,41408,Smart Phone,351268511660324,Verizon United States,Smart Phone
+Apple iPhone 14,Robert Carter,Human Resources,41608,Smart Phone,359073574720690,Verizon United States,Smart Phone
+Apple iPhone 15,Stephanie Brown,Operations,41800,Smart Phone,358018376034143,AT&T United States,Smart Phone
+Samsung Galaxy S23,Melissa Ramirez,Operations,41806,Smart Phone,355393042618588,Verizon United States,Smart Phone
+Apple iPhone 13,Betty Robinson,Sales,41403,Smart Phone,359993300769917,T-Mobile United States,Smart Phone
+Google Pixel 8,Robert Ramirez,Marketing,41301,Smart Phone,356721329146907,Bell Canada,Smart Phone
+Samsung Galaxy S24,Jennifer Nguyen,Sales,41400,Smart Phone,352760138546364,Verizon United States,Smart Phone
+Apple iPhone 15,Yuki Gagnon,Sales,41405,Smart Phone,358005296569678,T-Mobile United States,Smart Phone
+Inseego MiFi X PRO,Mia Clark,Marketing,41308,Hotspot,354068919224047,AT&T United States,Hotspot
+Apple iPhone 15,Ana Thompson,Supply Chain,41201,Smart Phone,355012975314719,AT&T United States,Smart Phone
+Apple iPhone 13,Wei Walker,Operations,41808,Smart Phone,353934367060836,T-Mobile United States,Smart Phone
+Apple iPhone SE,Joshua Anderson,Information Technology,41504,Smart Phone,354001488579048,Verizon United States,Smart Phone
+Apple iPhone 16,Mia Nelson,Legal,41909,Smart Phone,356448311116724,AT&T United States,Smart Phone
+Apple iPhone 15,Elizabeth Green,Supply Chain,41206,Smart Phone,355732232799591,Bell Canada,Smart Phone
+Apple iPhone 14,Priya Lopez,Supply Chain,41206,Smart Phone,354193179965959,Rogers Canada,Smart Phone
+Kyocera DuraXV Extreme,Olga Cohen,Sales,41408,Basic Phone,356686262746483,Verizon United States,Basic Phone
+Apple iPhone 15,Thomas Kim,Marketing,41306,Smart Phone,359360973112747,Rogers Canada,Smart Phone
+Apple iPhone SE,Noah Wright,Sales,41400,Smart Phone,351374490934420,Verizon United States,Smart Phone
+Apple iPhone 13,Robert Smith,Marketing,41302,Smart Phone,358903405654009,AT&T United States,Smart Phone
+Samsung Galaxy S24,Sandra Moore,Information Technology,41500,Smart Phone,353284655452528,Verizon United States,Smart Phone
+Samsung Galaxy S24,Priya Scott,Marketing,41304,Smart Phone,352067896015808,AT&T United States,Smart Phone
+Apple iPhone 16,Charles Allen,Information Technology,41509,Smart Phone,355375097970492,Bell Canada,Smart Phone
+Apple iPhone 15,Jessica Martin,Legal,41907,Smart Phone,356712292975882,Bell Canada,Smart Phone
+Inseego MiFi X PRO,Jessica Ramirez,Sales,41408,Hotspot,353377340029960,T-Mobile United States,Hotspot
+Apple iPhone 14,Michael Scott,Information Technology,41504,Smart Phone,355098471927617,Bell Canada,Smart Phone
+Apple iPad Air,Michael Nguyen,Finance,41104,Tablet,357121764589396,Verizon United States,Tablet
+Apple iPhone 13,Yuki Wright,Legal,41902,Smart Phone,358842485901306,Verizon United States,Smart Phone
+Apple iPhone 16,Richard Thomas,Marketing,41304,Smart Phone,359582195527040,AT&T United States,Smart Phone
+Apple iPhone 14,Hiroshi Carter,Supply Chain,41206,Smart Phone,353566772022691,Verizon United States,Smart Phone
+Apple iPhone SE,Andrew Martinez,Legal,41907,Smart Phone,356836958257669,Verizon United States,Smart Phone
+Samsung Galaxy S24,Emily Jackson,Supply Chain,41205,Smart Phone,356584136295434,AT&T United States,Smart Phone
+Apple iPhone 15,Lisa Lewis,Research & Development,41709,Smart Phone,351460354980840,Rogers Canada,Smart Phone
+Apple iPhone 14,Thomas Gonzalez,Supply Chain,41202,Smart Phone,352160519757487,AT&T United States,Smart Phone
+Apple iPhone 14,Olga Taylor,Marketing,41301,Smart Phone,355325014184440,T-Mobile United States,Smart Phone
+Google Pixel 8,Anthony Lee,Supply Chain,41205,Smart Phone,352591077928059,Bell Canada,Smart Phone
+Apple iPhone 14,Kevin Gonzalez,Sales,41408,Smart Phone,353006141390627,Verizon United States,Smart Phone
+Apple iPhone 14,Joseph Allen,Information Technology,41508,Smart Phone,356417755849902,Verizon United States,Smart Phone
+Apple iPhone 14,Sofia King,Marketing,41308,Smart Phone,358213198881937,Verizon United States,Smart Phone
+Apple iPhone 15,Noah Jones,Legal,41908,Smart Phone,352915766002130,Verizon United States,Smart Phone
+Samsung Galaxy S23,Yuki Lee,Information Technology,41500,Smart Phone,356149944642368,Rogers Canada,Smart Phone
+Samsung Galaxy S23,Stephanie Sanchez,Sales,41405,Smart Phone,356569918880170,Verizon United States,Smart Phone
+Netgear Nighthawk M6,Sofia Patel,Supply Chain,41202,Hotspot,356871415681104,AT&T United States,Hotspot
+Apple iPhone 16,Stephanie Tremblay,Research & Development,41707,Smart Phone,359470258566261,T-Mobile United States,Smart Phone
+Apple iPhone 16,Carlos Harris,Research & Development,41705,Smart Phone,357601294377095,AT&T United States,Smart Phone
+Apple iPhone 15,Lisa Jones,Sales,41405,Smart Phone,352972141662895,AT&T United States,Smart Phone
+Apple iPhone 15,Karen Thomas,Marketing,41302,Smart Phone,353038057952468,T-Mobile United States,Smart Phone
+Samsung Galaxy S23,Susan Baker,Marketing,41301,Smart Phone,355867428743880,Verizon United States,Smart Phone
+Apple iPhone 15,Leila Moore,Research & Development,41704,Smart Phone,358806277337802,Verizon United States,Smart Phone
+Apple iPhone 13,David Williams,Marketing,41307,Smart Phone,359193785827963,Verizon United States,Smart Phone
+Apple iPhone 15,Michelle King,Information Technology,41505,Smart Phone,351530374802880,Verizon United States,Smart Phone
+Apple iPhone 14,Jennifer Thomas,Supply Chain,41206,Smart Phone,358273915964759,AT&T United States,Smart Phone
+Apple iPad Air,Stephanie Jackson,Research & Development,41707,Tablet,354617202844965,Verizon United States,Tablet
+Samsung Galaxy Tab S9,Joseph Brown,Supply Chain,41205,Tablet,358144174682122,Verizon United States,Tablet
+Kyocera DuraXV Extreme,Priya Singh,Marketing,41305,Basic Phone,353414135247076,Verizon United States,Basic Phone
+Apple iPad Air,Wei Johnson,Finance,41107,Tablet,352990152891096,AT&T United States,Tablet
+Apple iPhone 16,Robert Rodriguez,Sales,41409,Smart Phone,351192322309616,AT&T United States,Smart Phone
+Apple iPhone 13,Yuki Campbell,Supply Chain,41206,Smart Phone,359526741946426,T-Mobile United States,Smart Phone
+Apple iPhone 16,Carlos Miller,Operations,41802,Smart Phone,354180358508220,Verizon United States,Smart Phone
+Apple iPad Air,Amanda Campbell,Information Technology,41506,Tablet,359376480589172,AT&T United States,Tablet
+Apple iPhone 15,Ava Carter,Sales,41409,Smart Phone,355755967470734,Verizon United States,Smart Phone
+Kyocera DuraXV Extreme,Liam Hall,Sales,41400,Basic Phone,357182373246121,AT&T United States,Basic Phone
+Apple iPhone SE,Ethan Hall,Operations,41807,Smart Phone,352953763450107,Rogers Canada,Smart Phone
+Samsung Galaxy S24,Ethan Tremblay,Sales,41400,Smart Phone,355540038381811,T-Mobile United States,Smart Phone
+Apple iPhone 14,Andrew Anderson,Supply Chain,41203,Smart Phone,355409761228335,AT&T United States,Smart Phone
+Samsung Galaxy Tab S9,Karen Roberts,Marketing,41303,Tablet,359481614786159,AT&T United States,Tablet
+Apple iPhone 14,Betty White,Research & Development,41705,Smart Phone,352880750977747,Verizon United States,Smart Phone
+Apple iPhone 16,Patricia Martinez,Supply Chain,41209,Smart Phone,356940180522410,AT&T United States,Smart Phone
+Apple iPhone 15,Ava Adams,Information Technology,41504,Smart Phone,354028013641774,T-Mobile United States,Smart Phone
+Apple iPhone 16,Nancy Adams,Supply Chain,41202,Smart Phone,353123106422713,T-Mobile United States,Smart Phone
+Apple iPhone 14,Joshua Harris,Operations,41806,Smart Phone,352419430717071,Verizon United States,Smart Phone
+Apple iPhone 15,Amanda Williams,Sales,41405,Smart Phone,352550269725671,AT&T United States,Smart Phone
+Apple iPad 10th Gen,Yuki Rodriguez,Research & Development,41701,Tablet,354103103197682,AT&T United States,Tablet
+Samsung Galaxy S23,Thomas White,Legal,41907,Smart Phone,358371563920365,Verizon United States,Smart Phone
+Apple iPhone 16,Yuki Thomas,Sales,41408,Smart Phone,353398195857376,Bell Canada,Smart Phone
+Apple iPhone 15,Mia Thomas,Supply Chain,41207,Smart Phone,358241686265479,Verizon United States,Smart Phone
+Apple iPhone 16,Nancy Chen,Supply Chain,41201,Smart Phone,359158096421452,Rogers Canada,Smart Phone
+Samsung Galaxy S24,William Hernandez,Marketing,41303,Smart Phone,356909363242125,Verizon United States,Smart Phone
+Samsung Galaxy S24,Mark Martinez,Sales,41403,Smart Phone,354692395597619,AT&T United States,Smart Phone
+Apple iPhone 13,Zoe Brown,Supply Chain,41209,Smart Phone,354311701653599,AT&T United States,Smart Phone
+Apple iPhone SE,Lisa Sanchez,Marketing,41304,Smart Phone,356393574181449,AT&T United States,Smart Phone
+Apple iPhone SE,Sandra Garcia,Operations,41803,Smart Phone,355183990730022,Rogers Canada,Smart Phone
+Apple iPhone 15,Mark Chen,Information Technology,41503,Smart Phone,359425573239572,AT&T United States,Smart Phone
+Apple iPhone 13,Melissa Martin,Information Technology,41506,Smart Phone,358837668713826,Verizon United States,Smart Phone
+Samsung Galaxy S24,Carlos Adams,Marketing,41308,Smart Phone,358816358604325,Verizon United States,Smart Phone
+Apple iPhone 15,Raj Flores,Marketing,41306,Smart Phone,358337039756557,Bell Canada,Smart Phone
+Apple iPhone 15,Jennifer Moore,Operations,41803,Smart Phone,356675987024716,Verizon United States,Smart Phone
+Apple iPhone 14,Mia Anderson,Operations,41806,Smart Phone,358340588592265,Verizon United States,Smart Phone
+Apple iPhone 13,Joshua Kim,Executive Office,42008,Smart Phone,354988684790723,Bell Canada,Smart Phone
+Samsung Galaxy S23,Amanda Ramirez,Legal,41903,Smart Phone,352164122029855,T-Mobile United States,Smart Phone
+Apple iPhone 15,Anthony Taylor,Operations,41807,Smart Phone,351248091244063,Rogers Canada,Smart Phone
+Inseego MiFi X PRO,Sofia Nelson,Operations,41802,Hotspot,354768507779202,Rogers Canada,Hotspot
+Samsung Galaxy S24,Michael Carter,Supply Chain,41203,Smart Phone,358811862998940,T-Mobile United States,Smart Phone
+Apple iPhone 14,Richard Sanchez,Marketing,41301,Smart Phone,352790905029998,Rogers Canada,Smart Phone
+Apple iPhone 15,Susan Gonzalez,Research & Development,41704,Smart Phone,358116546657334,T-Mobile United States,Smart Phone
+Apple iPhone 16,Ana Nguyen,Operations,41802,Smart Phone,356326415445979,AT&T United States,Smart Phone
+Samsung Galaxy S24,Richard Jackson,Marketing,41300,Smart Phone,357648484265060,AT&T United States,Smart Phone
+Samsung Galaxy Tab S9,Ava Garcia,Supply Chain,41201,Tablet,352720445953171,AT&T United States,Tablet
+Apple iPhone 15,William Clark,Information Technology,41507,Smart Phone,358071979421838,Rogers Canada,Smart Phone
+Apple iPhone 15,Richard Wright,Sales,41406,Smart Phone,358075590602679,AT&T United States,Smart Phone
+Apple iPhone SE,Leila Lewis,Marketing,41309,Smart Phone,359136232606405,Verizon United States,Smart Phone
+Apple iPhone 15,Ethan Mitchell,Finance,41100,Smart Phone,359166066591294,Verizon United States,Smart Phone
+Apple iPhone 15,Karen Hernandez,Sales,41409,Smart Phone,358163812556197,AT&T United States,Smart Phone
+Apple iPad Air,Wei Mitchell,Sales,41402,Tablet,355152133687392,AT&T United States,Tablet
+Apple iPhone 14,Liam Scott,Marketing,41306,Smart Phone,357471294532313,AT&T United States,Smart Phone
+Google Pixel 8,Sandra Miller,Human Resources,41603,Smart Phone,355161251877026,AT&T United States,Smart Phone
+Samsung Galaxy S23,Ava Roberts,Research & Development,41703,Smart Phone,359287103714436,Rogers Canada,Smart Phone
+Apple iPhone SE,Zoe Carter,Sales,41408,Smart Phone,352945973369067,T-Mobile United States,Smart Phone
+Samsung Galaxy S24,Jennifer Martin,Sales,41405,Smart Phone,354489499544123,Verizon United States,Smart Phone
+Apple iPhone 13,Chloe Hall,Supply Chain,41200,Smart Phone,353290858562043,Verizon United States,Smart Phone
+Apple iPhone 14,Ethan Martin,Research & Development,41703,Smart Phone,357746162409288,Bell Canada,Smart Phone
+Inseego MiFi X PRO,Ahmed Moore,Supply Chain,41209,Hotspot,351723957799317,Rogers Canada,Hotspot
+Apple iPhone 16,Yuki Garcia,Sales,41401,Smart Phone,358663566025149,Verizon United States,Smart Phone
+Apple iPhone 15,Amanda Gagnon,Operations,41809,Smart Phone,357272548564782,Verizon United States,Smart Phone
+Apple iPhone 15,Olga Lopez,Sales,41401,Smart Phone,358323694776986,Bell Canada,Smart Phone
+Apple iPhone 15,Elizabeth Nelson,Sales,41406,Smart Phone,356714252561949,Bell Canada,Smart Phone
+Apple iPhone 15,John Sanchez,Sales,41409,Smart Phone,358081453998787,Verizon United States,Smart Phone
+Apple iPhone 16,Richard Martinez,Finance,41103,Smart Phone,358637252244481,Verizon United States,Smart Phone
+Apple iPhone 13,Carlos Clark,Marketing,41304,Smart Phone,356198747522274,Rogers Canada,Smart Phone
+Apple iPhone 13,Matthew Perez,Sales,41408,Smart Phone,351796256688697,AT&T United States,Smart Phone
+Apple iPhone 16,David Carter,Human Resources,41607,Smart Phone,359093767599904,Verizon United States,Smart Phone
+Apple iPhone 16,Ethan Nelson,Operations,41806,Smart Phone,353553996389357,T-Mobile United States,Smart Phone
+Samsung Galaxy S23,Wei Lopez,Research & Development,41707,Smart Phone,351895035679701,Bell Canada,Smart Phone
+Apple iPhone 16,Jessica Campbell,Information Technology,41509,Smart Phone,358887049295989,Verizon United States,Smart Phone
+Samsung Galaxy S24,Michael Patel,Human Resources,41608,Smart Phone,358335631498353,AT&T United States,Smart Phone
+Apple iPhone 16,Mary Flores,Supply Chain,41202,Smart Phone,351827025289688,AT&T United States,Smart Phone
+Apple iPhone 16,David Martinez,Finance,41101,Smart Phone,352832531488102,Verizon United States,Smart Phone
+Apple iPhone 15,Ahmed Baker,Sales,41402,Smart Phone,353160960278130,Bell Canada,Smart Phone
+Apple iPhone 14,Mia Lee,Supply Chain,41203,Smart Phone,358202308054234,AT&T United States,Smart Phone
+Apple iPhone 15,Ava Clark,Sales,41409,Smart Phone,356205382943268,Verizon United States,Smart Phone
+Apple iPhone 14,James Wilson,Operations,41801,Smart Phone,356308068368019,AT&T United States,Smart Phone
+Apple iPhone 14,Joshua Carter,Marketing,41305,Smart Phone,356346264298593,Verizon United States,Smart Phone
+Apple iPhone 13,Leila Davis,Sales,41401,Smart Phone,357159987428576,AT&T United States,Smart Phone
+Apple iPad Air,Yuki Green,Legal,41901,Tablet,357948307144323,AT&T United States,Tablet
+Apple iPhone 15,Lisa Chen,Supply Chain,41200,Smart Phone,359325602686812,Bell Canada,Smart Phone
+Kyocera DuraXV Extreme,Elizabeth Gonzalez,Information Technology,41506,Basic Phone,355990275502301,Verizon United States,Basic Phone
+Samsung Galaxy Tab S9,Stephanie Anderson,Information Technology,41507,Tablet,358914601144695,AT&T United States,Tablet
+Apple iPhone 16,Robert Martin,Marketing,41300,Smart Phone,353180319358806,Verizon United States,Smart Phone
+Inseego MiFi X PRO,Lisa Hall,Supply Chain,41201,Hotspot,356637603513972,Verizon United States,Hotspot
+Netgear Nighthawk M6,Ahmed Martin,Human Resources,41604,Hotspot,356725024431571,Verizon United States,Hotspot
+Apple iPad Air,Olga Walker,Operations,41809,Tablet,355737843198209,Verizon United States,Tablet
+Apple iPhone 13,Ahmed Sanchez,Information Technology,41505,Smart Phone,354579857098263,AT&T United States,Smart Phone
+Apple iPhone 15,Michael Nelson,Sales,41406,Smart Phone,355949994168878,AT&T United States,Smart Phone
+Apple iPhone 15,Betty Wright,Sales,41406,Smart Phone,354703729097999,Bell Canada,Smart Phone
+Samsung Galaxy Tab S9,Jennifer Sanchez,Sales,41403,Tablet,357206757808653,Verizon United States,Tablet
+Apple iPhone 15,Elizabeth Harris,Human Resources,41602,Smart Phone,359688633452084,AT&T United States,Smart Phone
+Apple iPhone 15,Steven Williams,Finance,41104,Smart Phone,353257383978077,Verizon United States,Smart Phone
+Samsung Galaxy S24,Daniel Hernandez,Research & Development,41709,Smart Phone,358607774352507,Verizon United States,Smart Phone
+Apple iPhone 14,Noah Novak,Human Resources,41605,Smart Phone,354462817314386,Verizon United States,Smart Phone
+Apple iPhone 15,Mateo Young,Sales,41401,Smart Phone,358716422281698,Bell Canada,Smart Phone
+Samsung Galaxy S24,Mateo Flores,Operations,41800,Smart Phone,351917230029099,Bell Canada,Smart Phone
+Apple iPhone 14,William Wright,Human Resources,41602,Smart Phone,354386958868411,AT&T United States,Smart Phone
+Apple iPhone 15,Jessica Thomas,Finance,41108,Smart Phone,358669027127513,AT&T United States,Smart Phone
+Apple iPhone 14,Michelle Rivera,Marketing,41309,Smart Phone,359369464730069,Verizon United States,Smart Phone
+Inseego MiFi X PRO,Barbara Williams,Marketing,41307,Hotspot,354240124670583,AT&T United States,Hotspot
+Apple iPhone 16,Hiroshi Nguyen,Marketing,41303,Smart Phone,354096763727974,Verizon United States,Smart Phone
+Apple iPhone 15,John Allen,Marketing,41307,Smart Phone,353538834596889,Verizon United States,Smart Phone
+Apple iPhone 13,Ashley Flores,Supply Chain,41204,Smart Phone,359602329155902,T-Mobile United States,Smart Phone
+Apple iPhone 13,Sofia Roy,Supply Chain,41201,Smart Phone,354862065514592,AT&T United States,Smart Phone
+Apple iPhone 16,Joseph Sanchez,Information Technology,41504,Smart Phone,358934634691334,Verizon United States,Smart Phone
+Apple iPhone 16,Barbara Roberts,Legal,41906,Smart Phone,357335383201848,Verizon United States,Smart Phone
+Samsung Galaxy S23,Sarah Clark,Operations,41807,Smart Phone,359302222853426,Rogers Canada,Smart Phone
+Apple iPhone 14,Charles Lee,Research & Development,41702,Smart Phone,357588609128068,T-Mobile United States,Smart Phone
+Apple iPhone 14,Paul Johnson,Information Technology,41508,Smart Phone,354592230410239,AT&T United States,Smart Phone
+Apple iPhone 16,Stephanie Baker,Information Technology,41502,Smart Phone,354621876417927,Verizon United States,Smart Phone
+Kyocera DuraXV Extreme,Olga Nguyen,Human Resources,41608,Basic Phone,353793767907074,Verizon United States,Basic Phone
+Apple iPad Air,Hiroshi Perez,Research & Development,41701,Tablet,357100813382341,AT&T United States,Tablet
+Apple iPhone 16,Charles Harris,Sales,41405,Smart Phone,358234844439482,AT&T United States,Smart Phone
+Apple iPhone 15,Noah Robinson,Sales,41401,Smart Phone,354422469485292,Verizon United States,Smart Phone
+Apple iPhone SE,Charles Lewis,Operations,41807,Smart Phone,354114282998768,Verizon United States,Smart Phone
+Samsung Galaxy S24,Joshua Baker,Human Resources,41603,Smart Phone,358809574786688,Verizon United States,Smart Phone
+Apple iPhone 16,Paul King,Information Technology,41504,Smart Phone,353940867236179,Verizon United States,Smart Phone
+Apple iPhone 16,James Nelson,Operations,41807,Smart Phone,354871735961334,Rogers Canada,Smart Phone
+Google Pixel 8,Ethan Brown,Research & Development,41708,Smart Phone,354085212647615,AT&T United States,Smart Phone
+Samsung Galaxy S24,John Nelson,Operations,41809,Smart Phone,352398526246883,AT&T United States,Smart Phone
+Apple iPhone 15,Michael Ramirez,Supply Chain,41201,Smart Phone,356827123319488,T-Mobile United States,Smart Phone
+Apple iPhone 16,Barbara Sanchez,Legal,41904,Smart Phone,354598889731795,AT&T United States,Smart Phone
+Apple iPhone 15,Wei Williams,Research & Development,41703,Smart Phone,353952264816633,AT&T United States,Smart Phone
+Apple iPhone 15,Lisa Ramirez,Supply Chain,41208,Smart Phone,356858644370197,AT&T United States,Smart Phone
+Apple iPhone 14,Nancy Patel,Sales,41400,Smart Phone,357132020351297,Rogers Canada,Smart Phone
+Samsung Galaxy S24,Emily Johnson,Marketing,41309,Smart Phone,353842587665938,AT&T United States,Smart Phone
+Apple iPhone 15,Ashley Baker,Human Resources,41606,Smart Phone,352920232089832,AT&T United States,Smart Phone
+Apple iPhone 16,Mateo White,Supply Chain,41209,Smart Phone,353365255872495,Verizon United States,Smart Phone
+Samsung Galaxy Tab S9,Mateo Kim,Information Technology,41508,Tablet,353192055652683,Verizon United States,Tablet
+Netgear Nighthawk M6,Zoe Singh,Research & Development,41703,Hotspot,356930305779224,Verizon United States,Hotspot
+Apple iPhone 14,Ava White,Sales,41402,Smart Phone,355915721622281,AT&T United States,Smart Phone
+Apple iPhone 14,Mateo Adams,Marketing,41306,Smart Phone,358526278785550,Verizon United States,Smart Phone
+Apple iPhone 15,Ava Hall,Research & Development,41702,Smart Phone,354937934999544,T-Mobile United States,Smart Phone
+Apple iPhone 15,Wei Garcia,Operations,41805,Smart Phone,351028934842032,T-Mobile United States,Smart Phone
+Apple iPad Air,Robert Clark,Marketing,41303,Tablet,354151544088977,Verizon United States,Tablet
+Apple iPhone 15,Jennifer Hernandez,Marketing,41308,Smart Phone,352711088223625,AT&T United States,Smart Phone
+Apple iPhone 14,Susan Ramirez,Sales,41403,Smart Phone,353597847178818,AT&T United States,Smart Phone
+Netgear Nighthawk M6,Joseph Tremblay,Research & Development,41700,Hotspot,355842069253554,AT&T United States,Hotspot
+Apple iPhone 13,Susan Nguyen,Supply Chain,41206,Smart Phone,352748589575888,Verizon United States,Smart Phone
+Apple iPhone 16,Mateo Chen,Supply Chain,41200,Smart Phone,358827724365642,Verizon United States,Smart Phone
+Apple iPhone 13,Linda Johnson,Human Resources,41607,Smart Phone,353872919343584,Rogers Canada,Smart Phone
+Apple iPhone 13,Ana King,Operations,41801,Smart Phone,352362567627306,AT&T United States,Smart Phone
+Apple iPhone 15,Thomas Brown,Supply Chain,41206,Smart Phone,356393944251567,T-Mobile United States,Smart Phone
+Apple iPhone 16,Melissa Nguyen,Human Resources,41604,Smart Phone,357515355865705,AT&T United States,Smart Phone
+Apple iPhone 13,Stephanie Green,Sales,41405,Smart Phone,352588473234478,Rogers Canada,Smart Phone
+Apple iPhone 14,Noah Anderson,Marketing,41305,Smart Phone,358130181257647,AT&T United States,Smart Phone
+Apple iPhone 14,Carlos Flores,Operations,41807,Smart Phone,353073858486097,Verizon United States,Smart Phone
+Netgear Nighthawk M6,Susan Harris,Sales,41405,Hotspot,356249861154972,Rogers Canada,Hotspot
+Apple iPhone 13,Mark Perez,Sales,41406,Smart Phone,357585882918007,Verizon United States,Smart Phone
+Apple iPhone 16,Liam Robinson,Operations,41808,Smart Phone,354503259674157,T-Mobile United States,Smart Phone
+Samsung Galaxy S23,Thomas Perez,Marketing,41309,Smart Phone,357052276967824,Verizon United States,Smart Phone
+Apple iPhone 15,Patricia Anderson,Finance,41100,Smart Phone,355637981280566,AT&T United States,Smart Phone
+Apple iPad 10th Gen,Elizabeth Young,Operations,41804,Tablet,354511635987972,Verizon United States,Tablet
+Apple iPhone 14,Patricia Cohen,Finance,41107,Smart Phone,354729413044520,Verizon United States,Smart Phone
+Apple iPhone 16,Lisa Wilson,Sales,41403,Smart Phone,355189189090310,Verizon United States,Smart Phone
+Apple iPhone 14,Anthony Martinez,Research & Development,41703,Smart Phone,353246456063080,Verizon United States,Smart Phone
+Apple iPhone 13,Brian Smith,Marketing,41302,Smart Phone,357995705152669,AT&T United States,Smart Phone
+Apple iPhone 15,Nancy Hernandez,Human Resources,41604,Smart Phone,354006988652411,Verizon United States,Smart Phone
+Google Pixel 8,Ashley Roberts,Marketing,41306,Smart Phone,352461682863285,Verizon United States,Smart Phone
+Netgear Nighthawk M6,Stephanie Lee,Operations,41805,Hotspot,355725856724706,Verizon United States,Hotspot
+Apple iPad Air,Mark Nelson,Sales,41408,Tablet,352472186445256,T-Mobile United States,Tablet
+Apple iPhone 16,Carlos Smith,Operations,41807,Smart Phone,353166998316848,Bell Canada,Smart Phone
+Apple iPhone 14,Sarah Thompson,Information Technology,41506,Smart Phone,353982819656730,Verizon United States,Smart Phone
+Inseego MiFi X PRO,Joseph Gonzalez,Research & Development,41707,Hotspot,356307235943388,Rogers Canada,Hotspot
+Apple iPad 10th Gen,Jessica Martinez,Information Technology,41500,Tablet,358518674584261,T-Mobile United States,Tablet
+Netgear Nighthawk M6,Richard Clark,Information Technology,41506,Hotspot,355049387097010,AT&T United States,Hotspot
+Apple iPhone 14,Raj Carter,Operations,41800,Smart Phone,358408444725486,Verizon United States,Smart Phone
+Samsung Galaxy S24,David Allen,Sales,41400,Smart Phone,353484059809083,T-Mobile United States,Smart Phone
+Samsung Galaxy S23,Ashley Smith,Human Resources,41606,Smart Phone,354052652871528,AT&T United States,Smart Phone
+Apple iPhone 14,Michelle Wright,Sales,41408,Smart Phone,354848531201747,Bell Canada,Smart Phone
+Apple iPhone 15,Patricia Novak,Research & Development,41709,Smart Phone,352874931757545,AT&T United States,Smart Phone
+Apple iPhone 14,Jennifer Flores,Information Technology,41506,Smart Phone,353663572171066,Bell Canada,Smart Phone
+Apple iPhone 15,Elizabeth Smith,Supply Chain,41207,Smart Phone,357336325916718,T-Mobile United States,Smart Phone
+Apple iPhone 16,David Walker,Marketing,41303,Smart Phone,356200922168015,Verizon United States,Smart Phone
+Apple iPhone SE,Patricia Scott,Sales,41404,Smart Phone,354921618582286,AT&T United States,Smart Phone
+Apple iPad Air,Robert Williams,Supply Chain,41205,Tablet,354099401676565,Verizon United States,Tablet
+Apple iPhone 15,Joseph Rodriguez,Sales,41407,Smart Phone,358374209488510,AT&T United States,Smart Phone
+Samsung Galaxy Tab S9,Hiroshi Brown,Legal,41909,Tablet,353598170970571,AT&T United States,Tablet
+Apple iPhone SE,Liam Chen,Information Technology,41504,Smart Phone,357642600471708,AT&T United States,Smart Phone
+Apple iPhone SE,Amanda Scott,Marketing,41301,Smart Phone,358535343269378,AT&T United States,Smart Phone
+Apple iPad Air,Ahmed Rodriguez,Information Technology,41507,Tablet,359853835006458,Rogers Canada,Tablet
+Apple iPad Air,Ahmed Singh,Information Technology,41501,Tablet,351074051912475,Verizon United States,Tablet
+Netgear Nighthawk M6,Mary Rodriguez,Finance,41103,Hotspot,354056848967741,Verizon United States,Hotspot
+Apple iPhone SE,Liam Williams,Human Resources,41608,Smart Phone,352457174878296,Verizon United States,Smart Phone
+Apple iPhone 15,Melissa Brown,Marketing,41301,Smart Phone,351385668484408,Verizon United States,Smart Phone
+Apple iPhone 15,Patricia Smith,Supply Chain,41203,Smart Phone,351088246471576,T-Mobile United States,Smart Phone
+Apple iPhone 14,Chloe Campbell,Marketing,41301,Smart Phone,357129313338855,Verizon United States,Smart Phone
+Apple iPad 10th Gen,Richard Gagnon,Finance,41104,Tablet,358453684491450,AT&T United States,Tablet
+Apple iPhone 15,Yuki King,Sales,41409,Smart Phone,354271866986328,AT&T United States,Smart Phone
+Samsung Galaxy S24,Paul Rivera,Operations,41806,Smart Phone,352809115229911,AT&T United States,Smart Phone
+Apple iPhone 16,Amanda Smith,Supply Chain,41202,Smart Phone,355159172703069,Verizon United States,Smart Phone
+Apple iPhone 13,Anthony Baker,Operations,41805,Smart Phone,358040936702930,Verizon United States,Smart Phone
+Inseego MiFi X PRO,Sarah Hall,Research & Development,41705,Hotspot,353994564333607,Bell Canada,Hotspot
+Google Pixel 8,Jennifer Campbell,Sales,41406,Smart Phone,353426333791573,Verizon United States,Smart Phone
+Samsung Galaxy S24,Linda Jackson,Information Technology,41509,Smart Phone,352615877637986,AT&T United States,Smart Phone
+Apple iPhone 16,Mateo Rodriguez,Finance,41108,Smart Phone,356488729324056,Verizon United States,Smart Phone
+Apple iPad 10th Gen,Ahmed Campbell,Executive Office,42008,Tablet,359109530859434,Rogers Canada,Tablet
+Apple iPhone 16,Linda Taylor,Research & Development,41707,Smart Phone,355795079045774,Verizon United States,Smart Phone
+Apple iPhone 13,Wei Jones,Supply Chain,41207,Smart Phone,351630909472049,AT&T United States,Smart Phone
+Apple iPhone 16,Priya Cohen,Research & Development,41702,Smart Phone,352657870720170,Verizon United States,Smart Phone
+Apple iPhone 15,Mateo Robinson,Finance,41103,Smart Phone,359589938914772,Verizon United States,Smart Phone
+Apple iPhone 15,Steven Thompson,Sales,41405,Smart Phone,355460265526138,AT&T United States,Smart Phone
+Apple iPad 10th Gen,Raj Torres,Finance,41100,Tablet,351722373009092,Rogers Canada,Tablet
+Apple iPhone 14,Richard King,Marketing,41307,Smart Phone,356070152305886,Rogers Canada,Smart Phone
+Samsung Galaxy S24,Joshua Davis,Sales,41404,Smart Phone,353509423414914,AT&T United States,Smart Phone
+Samsung Galaxy Tab S9,Zoe Young,Sales,41407,Tablet,355398903385715,Verizon United States,Tablet
+Apple iPad 10th Gen,Lisa Allen,Sales,41405,Tablet,358397937511683,Verizon United States,Tablet
+Apple iPhone 15,David Thomas,Research & Development,41708,Smart Phone,358087236928713,AT&T United States,Smart Phone
+Apple iPhone 16,Zoe Thompson,Operations,41806,Smart Phone,353398719068461,Verizon United States,Smart Phone
+Apple iPhone 16,Barbara Ramirez,Sales,41408,Smart Phone,355135281575697,Verizon United States,Smart Phone
+Samsung Galaxy S23,Yuki Flores,Operations,41807,Smart Phone,357787728472581,Verizon United States,Smart Phone
+Apple iPhone SE,Mia Brown,Supply Chain,41206,Smart Phone,357292807044354,Verizon United States,Smart Phone
+Apple iPad 10th Gen,Zoe Rodriguez,Operations,41804,Tablet,359302010958171,AT&T United States,Tablet
+Apple iPad 10th Gen,Yuki Ramirez,Supply Chain,41206,Tablet,352852147167659,Verizon United States,Tablet
+Apple iPad Air,Mark Hill,Supply Chain,41206,Tablet,359638263689787,AT&T United States,Tablet
+Apple iPad Air,Olga Gonzalez,Supply Chain,41206,Tablet,354343615613712,Verizon United States,Tablet
+Apple iPhone 13,Michelle Wilson,Sales,41407,Smart Phone,354938581829648,Bell Canada,Smart Phone
+Inseego MiFi X PRO,Jessica Mitchell,Finance,41107,Hotspot,356944373356554,Bell Canada,Hotspot
+Samsung Galaxy S24,Robert Lewis,Marketing,41301,Smart Phone,352421330793912,Rogers Canada,Smart Phone
+Apple iPad Air,Emily Gonzalez,Supply Chain,41201,Tablet,351320996937506,Verizon United States,Tablet
+Apple iPhone SE,Priya Kim,Sales,41401,Smart Phone,354994362748221,Verizon United States,Smart Phone
+Apple iPhone 16,Betty Taylor,Research & Development,41703,Smart Phone,354877748847796,Rogers Canada,Smart Phone
+Apple iPhone SE,Chloe Flores,Supply Chain,41208,Smart Phone,353156978831290,AT&T United States,Smart Phone
+Apple iPhone 13,Hiroshi Clark,Sales,41403,Smart Phone,358809902660206,Verizon United States,Smart Phone
+Inseego MiFi X PRO,Yuki Scott,Marketing,41307,Hotspot,358524206070138,Rogers Canada,Hotspot
+Samsung Galaxy S24,Kevin Patel,Finance,41108,Smart Phone,355827332646562,AT&T United States,Smart Phone
+Apple iPhone 13,Chloe Cohen,Human Resources,41600,Smart Phone,357313455404438,Verizon United States,Smart Phone
+Apple iPhone 15,Joshua Singh,Finance,41101,Smart Phone,353011044015112,AT&T United States,Smart Phone
+Apple iPad Air,Emily White,Operations,41808,Tablet,352363699513672,Verizon United States,Tablet
+Apple iPhone 14,Liam Adams,Sales,41408,Smart Phone,352868420447004,Verizon United States,Smart Phone
+Apple iPhone 13,Brian Sanchez,Legal,41905,Smart Phone,358356136307367,Verizon United States,Smart Phone
+Apple iPhone 15,Anthony Smith,Human Resources,41603,Smart Phone,352401713606257,Bell Canada,Smart Phone
+Apple iPhone 15,Charles Anderson,Marketing,41304,Smart Phone,358185830351636,Rogers Canada,Smart Phone
+Apple iPad Air,Carlos Patel,Research & Development,41702,Tablet,358193686569521,Verizon United States,Tablet
+Apple iPhone 16,Ethan Campbell,Finance,41101,Smart Phone,352704127086101,Verizon United States,Smart Phone
+Apple iPhone 14,Mia Davis,Human Resources,41604,Smart Phone,352749401887145,Verizon United States,Smart Phone
+Samsung Galaxy S23,Michelle Hernandez,Information Technology,41502,Smart Phone,351699661087348,Rogers Canada,Smart Phone
+Apple iPhone 13,Olga Hernandez,Marketing,41308,Smart Phone,352525843209297,T-Mobile United States,Smart Phone
+Apple iPhone 15,Carlos Young,Operations,41807,Smart Phone,356585696437527,T-Mobile United States,Smart Phone
+Apple iPhone 15,John Roy,Marketing,41306,Smart Phone,358636465586365,Verizon United States,Smart Phone
+Apple iPhone SE,Charles Thomas,Marketing,41300,Smart Phone,357281809899050,AT&T United States,Smart Phone
+Apple iPhone 15,Daniel Nelson,Supply Chain,41202,Smart Phone,353253590036805,Rogers Canada,Smart Phone
+Apple iPhone 14,Ethan Wright,Supply Chain,41205,Smart Phone,358874000096707,AT&T United States,Smart Phone
+Apple iPhone 16,Ethan Anderson,Marketing,41302,Smart Phone,357960147828406,T-Mobile United States,Smart Phone
+Apple iPhone 16,Raj Thomas,Operations,41802,Smart Phone,351593767669809,Verizon United States,Smart Phone
+Samsung Galaxy S24,Liam Thomas,Supply Chain,41209,Smart Phone,357883941885195,AT&T United States,Smart Phone
+Apple iPhone 14,Michael Torres,Sales,41402,Smart Phone,351302290142046,Verizon United States,Smart Phone
+Apple iPhone 15,Sarah Gonzalez,Legal,41907,Smart Phone,354651449149367,Verizon United States,Smart Phone
+Apple iPhone 14,Carlos Martin,Finance,41106,Smart Phone,355715898021593,Verizon United States,Smart Phone
+Apple iPad 10th Gen,Daniel Novak,Supply Chain,41205,Tablet,354471047385737,AT&T United States,Tablet
+Apple iPhone 16,Sarah Green,Information Technology,41503,Smart Phone,356103028961107,Verizon United States,Smart Phone
+Samsung Galaxy S24,Robert Hill,Supply Chain,41207,Smart Phone,356821650330516,Verizon United States,Smart Phone
+Inseego MiFi X PRO,Fatima Tremblay,Sales,41401,Hotspot,355483663711689,AT&T United States,Hotspot
+Apple iPhone 13,Mark Scott,Sales,41406,Smart Phone,355079288490612,T-Mobile United States,Smart Phone
+Apple iPhone 14,Liam Torres,Information Technology,41505,Smart Phone,356577109461750,AT&T United States,Smart Phone
+Apple iPhone 14,Michael Baker,Marketing,41305,Smart Phone,358463487040337,AT&T United States,Smart Phone
+Apple iPhone 15,Betty Rodriguez,Information Technology,41504,Smart Phone,359420891869248,Verizon United States,Smart Phone
+Apple iPhone SE,Stephanie Gagnon,Operations,41809,Smart Phone,353696008139665,Rogers Canada,Smart Phone
+Apple iPhone 13,William King,Information Technology,41509,Smart Phone,358093844991434,Verizon United States,Smart Phone
+Samsung Galaxy S23,Carlos Moore,Human Resources,41601,Smart Phone,359147253484693,Verizon United States,Smart Phone
+Google Pixel 8,Kevin Roy,Information Technology,41500,Smart Phone,353335337402065,T-Mobile United States,Smart Phone
+Apple iPhone 15,Sofia Nguyen,Information Technology,41502,Smart Phone,354001459427663,Bell Canada,Smart Phone
+Google Pixel 8,Melissa Garcia,Information Technology,41505,Smart Phone,359216872939311,Verizon United States,Smart Phone
+Apple iPhone 15,Nancy Garcia,Sales,41402,Smart Phone,358652319602252,AT&T United States,Smart Phone
+Samsung Galaxy Tab S9,Zoe Miller,Human Resources,41602,Tablet,356291066219927,T-Mobile United States,Tablet
+Apple iPhone 14,Jennifer Davis,Research & Development,41702,Smart Phone,353711175481957,Verizon United States,Smart Phone
+Apple iPad Air,Ahmed Novak,Marketing,41306,Tablet,355981724068149,AT&T United States,Tablet
+Apple iPhone 16,Nancy Lee,Operations,41801,Smart Phone,358659223502258,AT&T United States,Smart Phone
+Apple iPhone 14,Sandra Rodriguez,Operations,41802,Smart Phone,351218214041006,Rogers Canada,Smart Phone
+Apple iPhone 15,Melissa Hill,Information Technology,41507,Smart Phone,356895753247656,T-Mobile United States,Smart Phone
+Apple iPad Air,Yuki Walker,Marketing,41309,Tablet,357496938564026,Verizon United States,Tablet
+Apple iPhone 16,Yuki Young,Operations,41804,Smart Phone,358582736630316,Verizon United States,Smart Phone
+Apple iPhone 15,Linda Chen,Marketing,41306,Smart Phone,358431590441978,Verizon United States,Smart Phone
+Apple iPhone 13,Karen Torres,Information Technology,41509,Smart Phone,358687714341105,T-Mobile United States,Smart Phone
+Apple iPhone 14,Raj Harris,Finance,41104,Smart Phone,354888339587200,Verizon United States,Smart Phone
+Apple iPhone 15,Mary Lee,Operations,41805,Smart Phone,351568666289588,Verizon United States,Smart Phone
+Apple iPhone 16,John Rodriguez,Legal,41901,Smart Phone,355131714215712,AT&T United States,Smart Phone
+Kyocera DuraXV Extreme,Emily Anderson,Marketing,41307,Basic Phone,352858132885235,T-Mobile United States,Basic Phone
+Apple iPad 10th Gen,Daniel Lopez,Sales,41408,Tablet,358355789072115,Verizon United States,Tablet
+Apple iPhone 15,Leila Scott,Sales,41402,Smart Phone,357848987276838,Rogers Canada,Smart Phone
+Samsung Galaxy S24,Ava Lopez,Operations,41800,Smart Phone,358806546511501,AT&T United States,Smart Phone
+Samsung Galaxy Tab S9,Brian Patel,Marketing,41306,Tablet,359272087833138,Bell Canada,Tablet
+Samsung Galaxy S24,Nancy Rodriguez,Finance,41108,Smart Phone,357447471560922,Verizon United States,Smart Phone
+Samsung Galaxy S24,Thomas Adams,Research & Development,41709,Smart Phone,353603351566927,AT&T United States,Smart Phone
+Apple iPhone 15,Noah Tremblay,Supply Chain,41200,Smart Phone,357759673567553,AT&T United States,Smart Phone
+Samsung Galaxy Tab S9,Ava Wright,Marketing,41300,Tablet,354085856918202,AT&T United States,Tablet
+Apple iPhone 15,Omar Young,Information Technology,41500,Smart Phone,358009527676095,AT&T United States,Smart Phone
+Apple iPhone 16,Linda Moore,Sales,41402,Smart Phone,354120105045667,Rogers Canada,Smart Phone
+Apple iPhone 16,Ashley White,Information Technology,41508,Smart Phone,359414684575385,AT&T United States,Smart Phone
+Apple iPad 10th Gen,David Thompson,Operations,41803,Tablet,351012851563022,AT&T United States,Tablet
+Apple iPhone 15,Amanda Harris,Sales,41409,Smart Phone,359278590471098,Bell Canada,Smart Phone
+Apple iPhone 16,Karen Moore,Sales,41401,Smart Phone,353721600032094,Verizon United States,Smart Phone
+Apple iPhone 15,Michael Johnson,Supply Chain,41208,Smart Phone,357921611610548,Verizon United States,Smart Phone
+Apple iPhone 16,Anthony Harris,Information Technology,41507,Smart Phone,357729315760944,T-Mobile United States,Smart Phone
+Inseego MiFi X PRO,Mia Taylor,Sales,41404,Hotspot,351983983191925,Rogers Canada,Hotspot
+Samsung Galaxy S23,Jennifer Allen,Information Technology,41509,Smart Phone,353469700048009,Rogers Canada,Smart Phone
+Samsung Galaxy S23,Ava Young,Information Technology,41504,Smart Phone,357569205142709,Verizon United States,Smart Phone
+Google Pixel 8,Noah Green,Operations,41801,Smart Phone,358939099794414,AT&T United States,Smart Phone
+Apple iPhone 15,John Thomas,Information Technology,41504,Smart Phone,354524731061988,Verizon United States,Smart Phone
+Apple iPhone 13,William Jones,Sales,41401,Smart Phone,354822176773192,T-Mobile United States,Smart Phone
+Apple iPhone 14,Priya Hill,Research & Development,41702,Smart Phone,353865265900076,Verizon United States,Smart Phone
+Apple iPhone 14,Andrew Lee,Supply Chain,41201,Smart Phone,352150349156942,AT&T United States,Smart Phone
+Samsung Galaxy Tab S9,Melissa Mitchell,Sales,41405,Tablet,351686173801411,T-Mobile United States,Tablet
+Apple iPad Air,Joshua Rodriguez,Marketing,41300,Tablet,357565395724985,T-Mobile United States,Tablet
+Apple iPhone 14,Amanda Patel,Human Resources,41600,Smart Phone,352168180387425,Verizon United States,Smart Phone
+Apple iPhone 14,Anthony Thomas,Sales,41404,Smart Phone,353212751204121,Verizon United States,Smart Phone
+Samsung Galaxy S23,Ethan Sanchez,Operations,41802,Smart Phone,358423111996291,Verizon United States,Smart Phone
+Apple iPhone 15,William Sanchez,Information Technology,41504,Smart Phone,358972382015789,Bell Canada,Smart Phone
+Apple iPhone 15,Sarah Kim,Research & Development,41705,Smart Phone,352109230551869,Rogers Canada,Smart Phone
+Apple iPhone 16,Zoe Harris,Marketing,41306,Smart Phone,354559919270902,Verizon United States,Smart Phone
+Samsung Galaxy S23,Anthony Miller,Marketing,41305,Smart Phone,352176646129796,Verizon United States,Smart Phone
+Apple iPhone 15,Fatima Green,Sales,41401,Smart Phone,354621309605012,Verizon United States,Smart Phone
+Apple iPhone 13,Michael Lewis,Sales,41409,Smart Phone,357007456685539,T-Mobile United States,Smart Phone
+Samsung Galaxy S24,Wei Hall,Sales,41403,Smart Phone,358419265996107,Bell Canada,Smart Phone
+Apple iPhone 16,Steven Young,Supply Chain,41209,Smart Phone,351740377574540,Verizon United States,Smart Phone
+Samsung Galaxy S24,Joshua Taylor,Research & Development,41701,Smart Phone,354796861215081,T-Mobile United States,Smart Phone
+Apple iPhone 15,Sarah Wilson,Research & Development,41701,Smart Phone,354681476710548,Bell Canada,Smart Phone
+Apple iPhone SE,Carlos Ramirez,Sales,41400,Smart Phone,354557876589556,Verizon United States,Smart Phone
+Apple iPhone 15,Sandra Scott,Sales,41405,Smart Phone,352641530571817,Verizon United States,Smart Phone
+Netgear Nighthawk M6,Linda Roberts,Sales,41408,Hotspot,354949198775981,AT&T United States,Hotspot
+Apple iPhone 15,Mateo Scott,Finance,41107,Smart Phone,356517037361381,Verizon United States,Smart Phone
+Apple iPhone 14,Michael Thompson,Operations,41805,Smart Phone,359635451532321,Verizon United States,Smart Phone
+Apple iPhone 13,Noah Johnson,Marketing,41301,Smart Phone,352119327964612,Verizon United States,Smart Phone
+Apple iPhone 16,John Brown,Supply Chain,41204,Smart Phone,358171757496117,Bell Canada,Smart Phone
+Apple iPhone 13,Charles Martin,Sales,41406,Smart Phone,353722633948352,T-Mobile United States,Smart Phone
+Apple iPad Air,Stephanie Baker,Information Technology,41502,Tablet,352599960546249,Verizon United States,Tablet
+Apple iPhone 14,Stephanie Baker,Information Technology,41502,Smart Phone,354307303628339,Verizon United States,Smart Phone
+Apple iPhone 15,Stephanie Baker,Information Technology,41502,Smart Phone,351788981983800,Verizon United States,Smart Phone
+Apple iPhone 13,Olga Walker,Operations,41809,Smart Phone,357537921074040,AT&T United States,Smart Phone
+Apple iPad 10th Gen,Olga Walker,Operations,41809,Tablet,357956526416459,Verizon United States,Tablet
+Apple iPhone 15,Olga Walker,Operations,41809,Smart Phone,352908088609915,Verizon United States,Smart Phone
+Apple iPhone 15,Sandra Scott,Sales,41405,Smart Phone,358774503949738,Verizon United States,Smart Phone
+Samsung Galaxy S24,David Martinez,Finance,41101,Smart Phone,352829233098068,Verizon United States,Smart Phone
+Apple iPhone 16,David Martinez,Finance,41101,Smart Phone,355182216112663,T-Mobile United States,Smart Phone
+Apple iPad 10th Gen,David Martinez,Finance,41101,Tablet,351368250519935,AT&T United States,Tablet
+Apple iPhone 15,Mateo Kim,Information Technology,41508,Smart Phone,353342470366036,Bell Canada,Smart Phone
+Apple iPhone 15,Mateo Kim,Information Technology,41508,Smart Phone,356940872543360,Verizon United States,Smart Phone
+Apple iPhone 13,Paul Lewis,Marketing,41303,Smart Phone,351622237323674,AT&T United States,Smart Phone
+Samsung Galaxy Tab S9,Paul Lewis,Marketing,41303,Tablet,359355629596238,Verizon United States,Tablet
+Apple iPhone SE,Paul Lewis,Marketing,41303,Smart Phone,358829335332413,AT&T United States,Smart Phone
+Apple iPhone 15,Betty White,Research & Development,41705,Smart Phone,357421702215365,Rogers Canada,Smart Phone
+Apple iPad Air,Mateo Adams,Marketing,41306,Tablet,355691313926714,Verizon United States,Tablet
+Apple iPhone 15,Mateo Adams,Marketing,41306,Smart Phone,353744786393866,Verizon United States,Smart Phone
+Samsung Galaxy S24,Mateo Adams,Marketing,41306,Smart Phone,359371718636323,Verizon United States,Smart Phone
+Apple iPhone 16,Karen Hernandez,Sales,41409,Smart Phone,354290753255211,Verizon United States,Smart Phone
+Apple iPad Air,Karen Hernandez,Sales,41409,Tablet,357053730303400,AT&T United States,Tablet
+Samsung Galaxy S23,Karen Hernandez,Sales,41409,Smart Phone,355012316722554,AT&T United States,Smart Phone
+Samsung Galaxy Tab S9,Brian Sanchez,Legal,41905,Tablet,353626940266288,AT&T United States,Tablet
+Apple iPhone 16,Brian Sanchez,Legal,41905,Smart Phone,354342462689111,Verizon United States,Smart Phone
+Apple iPhone 15,Brian Sanchez,Legal,41905,Smart Phone,356420063428572,Verizon United States,Smart Phone
+Apple iPad 10th Gen,Brian Smith,Marketing,41302,Tablet,355108944882701,T-Mobile United States,Tablet
+Apple iPhone 13,Brian Smith,Marketing,41302,Smart Phone,356659150300495,AT&T United States,Smart Phone
+Google Pixel 8,Brian Smith,Marketing,41302,Smart Phone,356630516013932,Verizon United States,Smart Phone
+Apple iPad Air,Anthony Thomas,Sales,41404,Tablet,357481443705135,AT&T United States,Tablet
+Apple iPhone 13,Anthony Thomas,Sales,41404,Smart Phone,357487449752373,Verizon United States,Smart Phone
+Apple iPhone 15,Richard King,Marketing,41307,Smart Phone,353663480638591,AT&T United States,Smart Phone
+Apple iPhone SE,Richard King,Marketing,41307,Smart Phone,355210044609133,AT&T United States,Smart Phone
+Apple iPhone 15,William Wright,Human Resources,41602,Smart Phone,352196363273811,AT&T United States,Smart Phone
+Apple iPad Air,William Wright,Human Resources,41602,Tablet,359986679191996,AT&T United States,Tablet
+Apple iPhone 15,Melissa Brown,Marketing,41301,Smart Phone,354518461188505,Verizon United States,Smart Phone
+Apple iPhone 15,Melissa Brown,Marketing,41301,Smart Phone,353906635690308,AT&T United States,Smart Phone
+Apple iPhone 14,Mia Nelson,Legal,41909,Smart Phone,352110921680976,Verizon United States,Smart Phone
+Apple iPhone 14,Daniel Campbell,Executive Office,42005,Smart Phone,357405026819950,Verizon United States,Smart Phone
+Apple iPhone SE,Daniel Campbell,Executive Office,42005,Smart Phone,357336828359999,Verizon United States,Smart Phone
+Apple iPad 10th Gen,Daniel Campbell,Executive Office,42005,Tablet,353454890316935,T-Mobile United States,Tablet
+Apple iPhone 13,Patricia Anderson,Finance,41100,Smart Phone,354854272726507,Verizon United States,Smart Phone
+Samsung Galaxy Tab S9,Patricia Anderson,Finance,41100,Tablet,355253334270737,Bell Canada,Tablet
+Apple iPhone 14,Hiroshi Clark,Sales,41403,Smart Phone,357683086485994,Rogers Canada,Smart Phone
+Samsung Galaxy S23,Wei Hall,Sales,41403,Smart Phone,351180796449755,AT&T United States,Smart Phone
+Apple iPhone 16,Wei Hall,Sales,41403,Smart Phone,352930273114184,Verizon United States,Smart Phone
+Apple iPhone 16,Wei Hall,Sales,41403,Smart Phone,353890949091410,T-Mobile United States,Smart Phone
+Apple iPhone 16,Fatima Green,Sales,41401,Smart Phone,358058669768415,AT&T United States,Smart Phone
+Apple iPhone 14,Fatima Green,Sales,41401,Smart Phone,357874960481069,AT&T United States,Smart Phone
+Apple iPad Air,Fatima Green,Sales,41401,Tablet,352740381403969,Verizon United States,Tablet
+Samsung Galaxy S23,Ahmed Martin,Human Resources,41604,Smart Phone,351702834461792,AT&T United States,Smart Phone
+Apple iPad 10th Gen,Ahmed Martin,Human Resources,41604,Tablet,359255516701662,Bell Canada,Tablet
+Apple iPad 10th Gen,Patricia Scott,Sales,41404,Tablet,356896241635871,Rogers Canada,Tablet
+Apple iPhone 13,Patricia Scott,Sales,41404,Smart Phone,354218379506701,AT&T United States,Smart Phone
+Apple iPhone 15,Patricia Scott,Sales,41404,Smart Phone,359990556650154,AT&T United States,Smart Phone
+Apple iPhone 15,Olga Gonzalez,Supply Chain,41206,Smart Phone,353238830791838,AT&T United States,Smart Phone
+Apple iPhone 15,Olga Gonzalez,Supply Chain,41206,Smart Phone,354020306353461,Verizon United States,Smart Phone
+Apple iPhone 16,Olga Gonzalez,Supply Chain,41206,Smart Phone,355200491623501,T-Mobile United States,Smart Phone
+Samsung Galaxy S23,Paul Rivera,Operations,41806,Smart Phone,356666531982359,AT&T United States,Smart Phone
+Apple iPhone 15,Paul Rivera,Operations,41806,Smart Phone,351429327744479,T-Mobile United States,Smart Phone
+Samsung Galaxy S23,Paul Rivera,Operations,41806,Smart Phone,357414024462789,AT&T United States,Smart Phone
+Apple iPhone 15,Ahmed Campbell,Executive Office,42008,Smart Phone,352622947066496,AT&T United States,Smart Phone
+Apple iPhone 16,Ahmed Campbell,Executive Office,42008,Smart Phone,354147022217518,AT&T United States,Smart Phone
+Google Pixel 8,,,,Smart Phone,353039642668524,Verizon United States,Smart Phone
+Apple iPhone 15,,,,Smart Phone,352034241871226,AT&T United States,Smart Phone
+Samsung Galaxy S23,,,,Smart Phone,351887540524190,Verizon United States,Smart Phone
+Kyocera DuraXV Extreme,,,,Basic Phone,352601501957057,Verizon United States,Basic Phone
+Apple iPhone 14,,,,Smart Phone,356267050248445,Verizon United States,Smart Phone
+Apple iPhone 14,,,,Smart Phone,358310470689760,Verizon United States,Smart Phone
+Apple iPhone 16,,,,Smart Phone,351831181088598,Verizon United States,Smart Phone
+Apple iPhone 16,,,,Smart Phone,353807256310366,AT&T United States,Smart Phone
+Apple iPhone 13,,,,Smart Phone,358365268977585,AT&T United States,Smart Phone
+Apple iPhone 13,,,,Smart Phone,359428689007749,Verizon United States,Smart Phone
+Apple iPhone 16,,,,Smart Phone,353220153883436,Verizon United States,Smart Phone
+Apple iPad Air,,,,Tablet,354623157668146,Verizon United States,Tablet
+Apple iPhone 13,,,,Smart Phone,357778894430230,Rogers Canada,Smart Phone
+Apple iPhone 15,,,,Smart Phone,358842197833398,Verizon United States,Smart Phone
+Kyocera DuraXV Extreme,,,,Basic Phone,353216470561453,Verizon United States,Basic Phone
+Inseego MiFi X PRO,,,,Hotspot,358676552522329,Bell Canada,Hotspot
+Apple iPhone 15,,,,Smart Phone,353420655983028,Verizon United States,Smart Phone
+Samsung Galaxy S24,,,,Smart Phone,351821886139177,T-Mobile United States,Smart Phone
+Google Pixel 8,,,,Smart Phone,352478713808616,T-Mobile United States,Smart Phone
+Samsung Galaxy S24,,,,Smart Phone,351974345525708,AT&T United States,Smart Phone
+Samsung Galaxy S24,,,,Smart Phone,355299058809857,Verizon United States,Smart Phone
+Apple iPhone 15,,,,Smart Phone,352789879283473,Verizon United States,Smart Phone
+Apple iPhone 14,,,,Smart Phone,352233028185998,Verizon United States,Smart Phone
+Kyocera DuraXV Extreme,,,,Basic Phone,359471387548628,AT&T United States,Basic Phone
+Apple iPad 10th Gen,,,,Tablet,353999531471228,Rogers Canada,Tablet
+Apple iPhone 16,,,,Smart Phone,355461896300740,Verizon United States,Smart Phone
+Inseego MiFi X PRO,,,,Hotspot,356507995064503,AT&T United States,Hotspot
+Apple iPhone SE,,,,Smart Phone,351942179053136,Verizon United States,Smart Phone
+Apple iPhone 15,,,,Smart Phone,352257688940740,Verizon United States,Smart Phone
+Apple iPhone 15,,,,Smart Phone,351693367403447,Verizon United States,Smart Phone

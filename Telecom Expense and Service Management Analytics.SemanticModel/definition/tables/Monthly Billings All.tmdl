@@ -1,0 +1,495 @@
+table 'Monthly Billings All'
+	lineageTag: 0596c316-f782-4b02-b8c6-ac1503445eac
+
+	column Carrier
+		dataType: string
+		lineageTag: 73417359-d6f3-4029-bb11-840b2bceada0
+		summarizeBy: none
+		sourceColumn: Carrier
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Carrier Account'
+		dataType: string
+		lineageTag: 5cc3e9ed-2574-4269-9b26-71e57be9fce4
+		summarizeBy: none
+		sourceColumn: Carrier Account
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Bill Cycle End Date'
+		dataType: dateTime
+		formatString: mm/dd/yy
+		lineageTag: d5f337de-7555-4d53-83b2-2657f4c95c23
+		summarizeBy: none
+		sourceColumn: Bill Cycle End Date
+
+		changedProperty = DataType
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+		annotation PBI_FormatHint = {"isDateTimeCustom":true}
+
+	column 'International Number'
+		dataType: string
+		lineageTag: 3b055444-ba6b-4c44-8309-1a117f9347ff
+		summarizeBy: none
+		sourceColumn: International Number
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Carrier Label'
+		dataType: string
+		lineageTag: 691c4bc1-74ed-4d01-9a32-fd60063a41e4
+		summarizeBy: none
+		sourceColumn: Carrier Label
+
+		annotation SummarizationSetBy = Automatic
+
+	column Person
+		dataType: string
+		lineageTag: 1f09b485-f552-4cbd-8c9a-c51bd25a0ac4
+		summarizeBy: none
+		sourceColumn: Person
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Cost Center'
+		dataType: string
+		lineageTag: 4f4c8c97-08e9-4c1f-8978-f57b40e10591
+		summarizeBy: none
+		sourceColumn: Cost Center
+
+		annotation SummarizationSetBy = Automatic
+
+	column Group
+		dataType: string
+		lineageTag: a7263bed-be1c-4723-92a0-7df83fa4aaff
+		summarizeBy: none
+		sourceColumn: Group
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Ref Device -> Platform'
+		dataType: string
+		lineageTag: adbda508-b663-41e7-a784-77d1a468a15b
+		summarizeBy: none
+		sourceColumn: Ref Device -> Platform
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Ref Device'
+		dataType: string
+		lineageTag: cb2bd0ff-8720-451d-8ac7-dca529c85c49
+		summarizeBy: none
+		sourceColumn: Ref Device
+
+		annotation SummarizationSetBy = Automatic
+
+	column Plan
+		dataType: string
+		lineageTag: 0cdeb18a-dc91-4084-8413-5dac3f43ec11
+		summarizeBy: none
+		sourceColumn: Plan
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Data Plan Name'
+		dataType: string
+		lineageTag: bcc8bac1-69ce-4b46-8357-4f4d5a72ec71
+		summarizeBy: none
+		sourceColumn: Data Plan Name
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Text Plan Name'
+		dataType: string
+		lineageTag: cd64e694-f05b-4704-a891-55b3599461b6
+		summarizeBy: none
+		sourceColumn: Text Plan Name
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Line Bill -> Total Rebilled Charges'
+		dataType: double
+		lineageTag: 6b3dd064-e5cc-4174-8bdb-71c5a7d6a879
+		summarizeBy: none
+		sourceColumn: Line Bill -> Total Rebilled Charges
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Rebilled Primary Plan MRC'
+		dataType: double
+		lineageTag: 76d77876-1363-48d1-b2d2-a56e2fe5d530
+		summarizeBy: none
+		sourceColumn: Line Bill -> Rebilled Primary Plan MRC
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Carrier Data MRC'
+		dataType: double
+		lineageTag: 1f4a23d1-5f76-4278-8e77-402ea731f0dc
+		summarizeBy: none
+		sourceColumn: Line Bill -> Carrier Data MRC
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Carrier Text MRC'
+		dataType: double
+		lineageTag: cce8b795-4b8e-4568-9d76-c194a5468495
+		summarizeBy: none
+		sourceColumn: Line Bill -> Carrier Text MRC
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Carrier Feature MRC'
+		dataType: double
+		lineageTag: f401145d-d33e-4c77-bd10-5ae127482450
+		summarizeBy: none
+		sourceColumn: Line Bill -> Carrier Feature MRC
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Additional Airtime Charges'
+		dataType: double
+		lineageTag: fb13a751-6529-48c2-b901-080e3caf0965
+		summarizeBy: none
+		sourceColumn: Line Bill -> Additional Airtime Charges
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Long Distance Charges'
+		dataType: double
+		lineageTag: ae95d02d-cb73-49ac-816b-5a696b723a79
+		summarizeBy: none
+		sourceColumn: Line Bill -> Long Distance Charges
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Voice Roaming Charges'
+		dataType: double
+		lineageTag: 26f5fc74-73f8-4dbd-9bcc-d7570386da2e
+		summarizeBy: none
+		sourceColumn: Line Bill -> Voice Roaming Charges
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Data Roaming Charges'
+		dataType: double
+		lineageTag: 87865048-8734-4c20-ace0-e1b91b9102cb
+		summarizeBy: none
+		sourceColumn: Line Bill -> Data Roaming Charges
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Data Usage Charges'
+		dataType: double
+		lineageTag: 8f4a58e4-ea2b-4105-909d-53a7bef88f49
+		summarizeBy: none
+		sourceColumn: Line Bill -> Data Usage Charges
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Messaging Charges'
+		dataType: double
+		lineageTag: 0ed09b89-db35-4d6e-a4d4-fb9d5aa06640
+		summarizeBy: none
+		sourceColumn: Line Bill -> Messaging Charges
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Roaming Messaging Charges'
+		dataType: double
+		lineageTag: 46d96588-a930-4368-b93f-7ccb706e5956
+		summarizeBy: none
+		sourceColumn: Line Bill -> Roaming Messaging Charges
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Directory Assistance Charges'
+		dataType: double
+		lineageTag: a4a6e764-8dd6-43f4-9f1f-adb8ba9792c3
+		summarizeBy: none
+		sourceColumn: Line Bill -> Directory Assistance Charges
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Equipment Charges'
+		dataType: double
+		lineageTag: 4a680f63-419e-4888-b686-c48d22ae3303
+		summarizeBy: none
+		sourceColumn: Line Bill -> Equipment Charges
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Miscellaneous Charges'
+		dataType: double
+		lineageTag: f6e485e7-3a19-4aac-b257-9f2fe0726ddc
+		summarizeBy: none
+		sourceColumn: Line Bill -> Miscellaneous Charges
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Adjustment'
+		dataType: double
+		lineageTag: 9fa5401f-5906-4717-b121-eeca12fbbe17
+		summarizeBy: none
+		sourceColumn: Line Bill -> Adjustment
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Credits'
+		dataType: double
+		lineageTag: f352ab7b-e26b-4960-a5b3-30560e927bc5
+		summarizeBy: none
+		sourceColumn: Line Bill -> Credits
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Fees'
+		dataType: double
+		lineageTag: 42f8996a-9f75-4927-8d2b-aaba9d634a0a
+		summarizeBy: none
+		sourceColumn: Line Bill -> Fees
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Taxes'
+		dataType: double
+		lineageTag: bc625a0f-619e-4fec-8032-e3ecaeb5b71e
+		summarizeBy: none
+		sourceColumn: Line Bill -> Taxes
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Surcharges'
+		dataType: double
+		lineageTag: 30e300bf-6ae6-40d7-933b-5b45c8353dce
+		summarizeBy: none
+		sourceColumn: Line Bill -> Surcharges
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Included Minute Plan Allowance'
+		dataType: double
+		lineageTag: 094d28a2-3aa9-4b42-9b61-7b9b6534b2f6
+		summarizeBy: none
+		sourceColumn: Line Bill -> Included Minute Plan Allowance
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Total Minutes Used'
+		dataType: double
+		lineageTag: 4bccf8f3-7bc8-4441-a5b5-73f454fb068f
+		summarizeBy: none
+		sourceColumn: Line Bill -> Total Minutes Used
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Plan Minutes Used'
+		dataType: double
+		lineageTag: 7c591a64-b43a-4a19-b323-4c8d8160b452
+		summarizeBy: none
+		sourceColumn: Line Bill -> Plan Minutes Used
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Nights And Weekends Minutes Used'
+		dataType: double
+		lineageTag: a3c0bd40-851f-4ac1-873f-3c2b4df2584d
+		summarizeBy: none
+		sourceColumn: Line Bill -> Nights And Weekends Minutes Used
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Mobile To Mobile Minutes Used'
+		dataType: double
+		lineageTag: 685bfc81-55d3-47ad-9106-1e432b440c2c
+		summarizeBy: none
+		sourceColumn: Line Bill -> Mobile To Mobile Minutes Used
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> PTT Minutes Used'
+		dataType: double
+		lineageTag: 6d8b5720-0849-4e59-95cb-baf266fcd521
+		summarizeBy: none
+		sourceColumn: Line Bill -> PTT Minutes Used
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Long Distance Minutes Used'
+		dataType: double
+		lineageTag: 6dcb8fa5-a1d7-4a92-a1bc-7c6bf6b27ead
+		summarizeBy: none
+		sourceColumn: Line Bill -> Long Distance Minutes Used
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Roaming Minutes Used'
+		dataType: double
+		lineageTag: 124e57eb-8ff3-4fd2-897e-06c421e8510a
+		summarizeBy: none
+		sourceColumn: Line Bill -> Roaming Minutes Used
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Other Minutes Used'
+		dataType: double
+		lineageTag: 7bf013b7-9fdc-41f8-b6ab-dd0f26f46a19
+		summarizeBy: none
+		sourceColumn: Line Bill -> Other Minutes Used
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Directory Assistance Calls'
+		dataType: double
+		lineageTag: 914782c3-2cba-4afa-9293-cf14592d5650
+		summarizeBy: none
+		sourceColumn: Line Bill -> Directory Assistance Calls
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Messages Used'
+		dataType: double
+		lineageTag: 0a32b452-7fdc-4061-8873-cf75f9252e43
+		summarizeBy: none
+		sourceColumn: Line Bill -> Messages Used
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Roaming Messages Used'
+		dataType: double
+		lineageTag: 0caff901-7d0f-4f12-b4da-73e84c5ea60c
+		summarizeBy: none
+		sourceColumn: Line Bill -> Roaming Messages Used
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Domestic Data KBs Used'
+		dataType: double
+		lineageTag: eae587cb-e1e9-4bb4-92ec-94cd1c6bc3f7
+		summarizeBy: none
+		sourceColumn: Line Bill -> Domestic Data KBs Used
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Roaming Data KBs Used'
+		dataType: double
+		lineageTag: d0adb16e-6f33-4700-bd3e-0596435c1f38
+		summarizeBy: none
+		sourceColumn: Line Bill -> Roaming Data KBs Used
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Product Category'
+		dataType: string
+		lineageTag: 4180e1bd-dc8d-4d44-b142-78c1c2c1eb70
+		summarizeBy: none
+		sourceColumn: Product Category
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Device Manufacturer'
+		dataType: string
+		lineageTag: 0a2442ff-9fda-4889-adf1-f07c0bba9e31
+		summarizeBy: none
+		sourceColumn: Device Manufacturer
+
+		annotation SummarizationSetBy = Automatic
+
+	column Label =
+			
+			VAR In_VVIP = COUNTROWS( RELATEDTABLE('VVIP List') ) > 0
+			VAR In_exception_list = COUNTROWS( RELATEDTABLE('Exception List') ) > 0
+			RETURN
+			IF( In_VVIP, "VVIP",
+			    IF( In_exception_list, "Exceptions", "Others" )
+			)
+		lineageTag: a75794d8-7c15-4ca5-b6b4-a2359c78b81a
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Monthly Billings All' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("Monthly Billings All", {{"Carrier", type text}, {"Carrier Account", type text}, {"Bill Cycle End Date", type date}, {"International Number", type text}, {"Carrier Label", type text}, {"Person", type text}, {"Cost Center", type text}, {"Group", type text}, {"Ref Device -> Platform", type text}, {"Ref Device", type text}, {"Plan", type text}, {"Data Plan Name", type text}, {"Text Plan Name", type text}, {"Line Bill -> Total Rebilled Charges", type number}, {"Line Bill -> Rebilled Primary Plan MRC", type number}, {"Line Bill -> Carrier Data MRC", type number}, {"Line Bill -> Carrier Text MRC", type number}, {"Line Bill -> Carrier Feature MRC", type number}, {"Line Bill -> Additional Airtime Charges", type number}, {"Line Bill -> Long Distance Charges", type number}, {"Line Bill -> Voice Roaming Charges", type number}, {"Line Bill -> Data Roaming Charges", type number}, {"Line Bill -> Data Usage Charges", type number}, {"Line Bill -> Messaging Charges", type number}, {"Line Bill -> Roaming Messaging Charges", type number}, {"Line Bill -> Directory Assistance Charges", type number}, {"Line Bill -> Equipment Charges", type number}, {"Line Bill -> Miscellaneous Charges", type number}, {"Line Bill -> Adjustment", type number}, {"Line Bill -> Credits", type number}, {"Line Bill -> Fees", type number}, {"Line Bill -> Taxes", type number}, {"Line Bill -> Surcharges", type number}, {"Line Bill -> Included Minute Plan Allowance", type number}, {"Line Bill -> Total Minutes Used", type number}, {"Line Bill -> Plan Minutes Used", type number}, {"Line Bill -> Nights And Weekends Minutes Used", type number}, {"Line Bill -> Mobile To Mobile Minutes Used", type number}, {"Line Bill -> PTT Minutes Used", type number}, {"Line Bill -> Long Distance Minutes Used", type number}, {"Line Bill -> Roaming Minutes Used", type number}, {"Line Bill -> Other Minutes Used", type number}, {"Line Bill -> Directory Assistance Calls", type number}, {"Line Bill -> Messages Used", type number}, {"Line Bill -> Roaming Messages Used", type number}, {"Line Bill -> Domestic Data KBs Used", type number}, {"Line Bill -> Roaming Data KBs Used", type number}, {"Product Category", type text}, {"Device Manufacturer", type text}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Exception
+

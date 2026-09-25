@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Telecom Expense and Service Management Analytics"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1eaef116-9161-47ae-af58-fd7d5476885d"
+  }
+}

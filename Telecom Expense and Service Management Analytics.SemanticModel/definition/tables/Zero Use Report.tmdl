@@ -1,0 +1,70 @@
+table 'Zero Use Report'
+	lineageTag: 07a32fc3-d273-4660-a94f-88fe242436eb
+
+	column Date
+		dataType: dateTime
+		formatString: mm/dd/yyyy
+		lineageTag: 5d15fb5d-3d26-4bf9-8aa6-b3721baebf9d
+		summarizeBy: none
+		sourceColumn: Date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+		annotation PBI_FormatHint = {"isDateTimeCustom":true}
+
+	column Qty
+		dataType: double
+		formatString: 0
+		lineageTag: 10b574b3-f5ba-422a-9e6f-395e106de2a7
+		summarizeBy: none
+		sourceColumn: Qty
+
+		changedProperty = DataType
+
+		annotation SummarizationSetBy = User
+
+	column 'Monthly Recurring Charges'
+		dataType: double
+		lineageTag: c5f6baed-9bd0-4498-91f3-5a2615856f78
+		summarizeBy: none
+		sourceColumn: Monthly Recurring Charges
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Annual Saving'
+		dataType: double
+		lineageTag: f4951d07-5502-42e1-ae19-d458815c4195
+		summarizeBy: none
+		sourceColumn: Annual Saving
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Lines Found'
+		dataType: double
+		formatString: 0
+		lineageTag: 5376f1b1-0ebe-4ad7-882a-5c236c43e457
+		summarizeBy: none
+		sourceColumn: Lines Found
+
+		changedProperty = DataType
+
+		annotation SummarizationSetBy = User
+
+	partition 'Zero Use Report' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("Zero Use Report", {{"Date", type date}, {"Qty", type number}, {"Monthly Recurring Charges", type number}, {"Annual Saving", type number}, {"Lines Found", type number}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

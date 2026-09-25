@@ -1,0 +1,132 @@
+table 'Returned Devices'
+	lineageTag: 85398c85-221c-4ab4-857c-e1c4ade97885
+
+	column Device
+		dataType: string
+		lineageTag: 558cb37f-3a31-4bb0-9bd7-7ee743be25dc
+		summarizeBy: none
+		sourceColumn: Device
+
+		annotation SummarizationSetBy = Automatic
+
+	column ESN/IMEI
+		dataType: string
+		lineageTag: 6cfea0ea-e5d3-4876-8780-190bc777e340
+		summarizeBy: none
+		sourceColumn: ESN/IMEI
+
+		annotation SummarizationSetBy = Automatic
+
+	column Serial#
+		dataType: string
+		lineageTag: 1b849065-c81f-4428-81cb-93ee25c20c56
+		summarizeBy: none
+		sourceColumn: Serial#
+
+		annotation SummarizationSetBy = Automatic
+
+	column Value
+		dataType: double
+		lineageTag: 3da76a4e-a21a-4db7-88a7-bdbb4f8f2540
+		summarizeBy: none
+		sourceColumn: Value
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Condition
+		dataType: string
+		lineageTag: 402227ed-b7c9-423d-9a73-8b391db7c699
+		summarizeBy: none
+		sourceColumn: Condition
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Powers Up'
+		dataType: string
+		lineageTag: bbc1a371-6eb3-4930-a3ca-a638a6c14838
+		summarizeBy: none
+		sourceColumn: Powers Up
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Damaged Screen'
+		dataType: string
+		lineageTag: 0a099247-9ca6-420f-a289-3499f83ac3db
+		summarizeBy: none
+		sourceColumn: Damaged Screen
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Lock Type'
+		dataType: string
+		lineageTag: 41ff8a3b-aabe-4e4a-86c0-1cf207365b41
+		summarizeBy: none
+		sourceColumn: Lock Type
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Data Cleared'
+		dataType: string
+		lineageTag: 25dfc4f6-b2a3-4bd1-bbe0-ea5ccc73b052
+		summarizeBy: none
+		sourceColumn: Data Cleared
+
+		annotation SummarizationSetBy = Automatic
+
+	column Order
+		dataType: int64
+		formatString: 0
+		lineageTag: 723e7538-5309-4bc0-a9c2-1de62cdda7d9
+		summarizeBy: none
+		sourceColumn: Order
+
+		annotation SummarizationSetBy = User
+
+	column 'Device ID'
+		dataType: int64
+		formatString: 0
+		lineageTag: 93b53a06-a433-4977-b1aa-2adf6c3146bd
+		summarizeBy: none
+		sourceColumn: Device ID
+
+		annotation SummarizationSetBy = User
+
+	column Date
+		dataType: dateTime
+		formatString: mm/dd/yyyy
+		lineageTag: 4d8a35b2-78a1-4c48-8ea7-f8e91d66d419
+		summarizeBy: none
+		sourceColumn: Date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+		annotation PBI_FormatHint = {"isDateTimeCustom":true}
+
+	column 'Credit Status' =
+			
+			IF(
+			    COALESCE('Returned Devices'[Value], 0) = 0,
+			    "Without Value",
+			    "With Value"
+			)
+		lineageTag: 56505090-3086-4014-8c67-45a4f5f55d4c
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Returned Devices' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("Returned Devices", {{"Device", type text}, {"ESN/IMEI", type text}, {"Serial#", type text}, {"Value", type number}, {"Condition", type text}, {"Powers Up", type text}, {"Damaged Screen", type text}, {"Lock Type", type text}, {"Data Cleared", type text}, {"Order", Int64.Type}, {"Device ID", Int64.Type}, {"Date", type date}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

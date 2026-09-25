@@ -1,0 +1,406 @@
+/// Central measure table. All report KPIs live here, grouped into display folders:
+/// 0 Date Context · 1 Spend · 2 Savings · 3 Fleet & Lines · 4 Data Quality · 5 Service Desk
+table 'All Measures'
+	lineageTag: 786e07d6-b926-4a12-9263-3337c316e0c7
+
+	/// Most recent billing period available across ALL spend sources (carrier bills + Granite invoices).
+	/// Used as the anchor for every "latest month" and month-over-month calculation.
+	measure 'Latest Month' =
+			-- Stack the billing dates of both spend sources into one column, then take the latest
+			MAXX(
+			    UNION(
+			        SELECTCOLUMNS('Monthly Billings All', "D", 'Monthly Billings All'[Bill Cycle End Date]),
+			        SELECTCOLUMNS('Granite Rock Report', "D", 'Granite Rock Report'[Invoice Date])
+			    ),
+			    [D]
+			)
+		formatString: General Date
+		displayFolder: 0 Date Context
+		lineageTag: 668e0811-d748-4c06-a5f0-d280043f565b
+
+	/// The billing period one month before [Latest Month].
+	measure 'Previous Month' = EDATE([Latest Month], -1)
+		formatString: mm/dd/yyyy
+		displayFolder: 0 Date Context
+		lineageTag: c04fdd24-2b6f-417b-bc12-1b7a107d6bdc
+
+		annotation PBI_FormatHint = {"isDateTimeCustom":true}
+
+	/// Human-readable label of the fiscal period selected in the slicers, e.g. "FY26 July to FY27 August".
+	/// Fiscal year runs July–June (see Dim_Calendar).
+	measure 'Selected Date Range' =
+			VAR MinDate = MINX(ALLSELECTED(Dim_Calendar), Dim_Calendar[Date])
+			VAR MaxDate = MAXX(ALLSELECTED(Dim_Calendar), Dim_Calendar[Date])
+			-- Last two digits of the fiscal year label ("FY26" -> "26") for both ends of the range
+			VAR StartFY = RIGHT(FORMAT(CALCULATE(MAX(Dim_Calendar[FiscalYear]), Dim_Calendar[Date] = MinDate), "0"), 2)
+			VAR EndFY   = RIGHT(FORMAT(CALCULATE(MAX(Dim_Calendar[FiscalYear]), Dim_Calendar[Date] = MaxDate), "0"), 2)
+			RETURN
+			    "FY" & StartFY & " " & FORMAT(MinDate, "MMMM")
+			    & " to FY" & EndFY & " " & FORMAT(MaxDate, "MMMM")
+		displayFolder: 0 Date Context
+		lineageTag: 7c85800f-9f67-4db9-a22b-47cc0c50aba0
+
+	/// Total spend (carrier bills + Granite) for the calendar month of [Latest Month].
+	/// Ignores the date slicers on purpose so the KPI always shows the most recent month.
+	measure 'Latest Month Total' =
+			VAR LM = [Latest Month]
+			VAR LMYear = YEAR(LM)
+			VAR LMMonth = MONTH(LM)
+			RETURN
+			    -- Carrier spend in that month (ALL removes any date filter coming from slicers)
+			    CALCULATE(
+			        SUM('Monthly Billings All'[Line Bill -> Total Rebilled Charges]),
+			        FILTER(ALL(Dim_Calendar), Dim_Calendar[Year] = LMYear && Dim_Calendar[MonthNumber] = LMMonth)
+			    )
+			    -- + Granite (tablet/IoT provider) invoices for the same month
+			    + CALCULATE(
+			        [Granite Charges],
+			        FILTER(ALL(Dim_Calendar), Dim_Calendar[Year] = LMYear && Dim_Calendar[MonthNumber] = LMMonth)
+			    )
+		formatString: \$#,0
+		displayFolder: 1 Spend\Month-over-Month
+		lineageTag: cc8a828a-2673-47b1-9034-8859391f1840
+
+		annotation PBI_FormatHint = {"currencyCulture":"en-US"}
+
+	/// Total spend (carrier bills + Granite) for the month before [Latest Month].
+	measure 'Previous Month Total' =
+			VAR LM = [Latest Month]
+			VAR PMYear = YEAR(EDATE(LM, -1))
+			VAR PMMonth = MONTH(EDATE(LM, -1))
+			RETURN
+			    CALCULATE(
+			        SUM('Monthly Billings All'[Line Bill -> Total Rebilled Charges]),
+			        FILTER(ALL(Dim_Calendar), Dim_Calendar[Year] = PMYear && Dim_Calendar[MonthNumber] = PMMonth)
+			    )
+			    + CALCULATE(
+			        [Granite Charges],
+			        FILTER(ALL(Dim_Calendar), Dim_Calendar[Year] = PMYear && Dim_Calendar[MonthNumber] = PMMonth)
+			    )
+		formatString: \$#,0
+		displayFolder: 1 Spend\Month-over-Month
+		lineageTag: 530524dd-bcfc-45f8-b3f5-b37d02d16d3d
+
+		annotation PBI_FormatHint = {"currencyCulture":"en-US"}
+
+	/// Month-over-month change in total spend, in dollars (positive = spend went up).
+	measure 'MoM Spend Variance $' = [Latest Month Total] - [Previous Month Total]
+		formatString: \$#,0
+		displayFolder: 1 Spend\Month-over-Month
+		lineageTag: ae3a2076-8191-45b3-9b0c-a8707acb0883
+
+		annotation PBI_FormatHint = {"currencyCulture":"en-US"}
+
+	/// Month-over-month change in total spend, in percent (already multiplied by 100, one decimal).
+	measure 'MoM Spend Variance %' = ROUND([MoM Spend Variance $] * 100 / [Previous Month Total], 1)
+		displayFolder: 1 Spend\Month-over-Month
+		lineageTag: ae5d3d86-126b-422a-a45f-85c8e2f6538f
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	/// ▲ when spend increased versus the previous month, ▼ when it decreased. Used in KPI cards.
+	measure 'Variance Arrow' = IF([MoM Spend Variance $] >= 0, "▲", "▼")
+		displayFolder: 1 Spend\Month-over-Month
+		lineageTag: 79e19cbe-428a-4ce5-b19e-162d8be3518f
+
+	/// KPI card text: arrow + absolute dollar change, e.g. "▲ 1,234".
+	/// Card colour is driven by conditional formatting on [MoM Spend Variance $].
+	measure 'Variance Display' = [Variance Arrow] & " " & FORMAT(ABS([MoM Spend Variance $]), "#,##0")
+		displayFolder: 1 Spend\Month-over-Month
+		lineageTag: 67a3c39b-98d0-4429-8cde-d7df1949018f
+
+	/// KPI card text: arrow + absolute percentage change, e.g. "▼ 2.4%".
+	measure 'Variance Display %' = [Variance Arrow] & " " & ABS([MoM Spend Variance %]) & "%"
+		displayFolder: 1 Spend\Month-over-Month
+		lineageTag: 1adadf76-0e98-4b6e-91c6-5f8508b834c1
+
+	/// Fiscal-year-to-date spend (July 1 up to [Latest Month]) for the fiscal year that contains [Latest Month].
+	measure 'FYTD Spend' =
+			VAR LM = [Latest Month]
+			-- Which fiscal year (e.g. "FY27") does the latest billing month belong to?
+			VAR LMFiscalYear =
+			    CALCULATE(SELECTEDVALUE(Dim_Calendar[FiscalYear]), FILTER(ALL(Dim_Calendar), Dim_Calendar[Date] = LM))
+			RETURN
+			    CALCULATE(
+			        SUM('Monthly Billings All'[Line Bill -> Total Rebilled Charges]),
+			        FILTER(ALL(Dim_Calendar), Dim_Calendar[FiscalYear] = LMFiscalYear && Dim_Calendar[Date] <= LM)
+			    )
+			    + CALCULATE(
+			        [Granite Charges],
+			        FILTER(ALL(Dim_Calendar), Dim_Calendar[FiscalYear] = LMFiscalYear && Dim_Calendar[Date] <= LM)
+			    )
+		formatString: \$#,0
+		displayFolder: 1 Spend
+		lineageTag: 6ff6051d-5544-4d23-adde-795e29b1dbab
+
+		annotation PBI_FormatHint = {"currencyCulture":"en-US"}
+
+	/// Recurring plan charges (monthly recurring charge, MRC) billed in [Latest Month].
+	measure 'Latest Month Recurring Total' =
+			VAR LM = [Latest Month]
+			VAR LMYear = YEAR(LM)
+			VAR LMMonth = MONTH(LM)
+			RETURN
+			    CALCULATE(
+			        SUM('Monthly Billings All'[Line Bill -> Rebilled Primary Plan MRC]),
+			        FILTER(ALL(Dim_Calendar), Dim_Calendar[Year] = LMYear && Dim_Calendar[MonthNumber] = LMMonth)
+			    )
+		formatString: \$#,0
+		displayFolder: 1 Spend\Month-over-Month
+		lineageTag: ed581e47-9082-4dfd-8cca-e56361cfd404
+
+		annotation PBI_FormatHint = {"currencyCulture":"en-US"}
+
+	/// Carrier bill total (excluding Granite) for [Latest Month].
+	measure 'Latest Month Billings' =
+			VAR LM = [Latest Month]
+			VAR LMYear = YEAR(LM)
+			VAR LMMonth = MONTH(LM)
+			RETURN
+			    CALCULATE(
+			        SUM('Monthly Billings All'[Line Bill -> Total Rebilled Charges]),
+			        FILTER(ALL(Dim_Calendar), Dim_Calendar[Year] = LMYear && Dim_Calendar[MonthNumber] = LMMonth)
+			    )
+		formatString: \$#,0
+		displayFolder: 1 Spend\Month-over-Month
+		lineageTag: 063aac0c-64fe-446d-9886-652606dbafcf
+
+		annotation PBI_FormatHint = {"currencyCulture":"en-US"}
+
+	/// Granite invoice total for [Latest Month].
+	measure 'Latest Month Granite' =
+			VAR LM = [Latest Month]
+			VAR LMYear = YEAR(LM)
+			VAR LMMonth = MONTH(LM)
+			RETURN
+			    CALCULATE(
+			        SUM('Granite Rock Report'[New Charges]),
+			        FILTER(ALL(Dim_Calendar), Dim_Calendar[Year] = LMYear && Dim_Calendar[MonthNumber] = LMMonth)
+			    )
+		formatString: \$#,0
+		displayFolder: 1 Spend\Month-over-Month
+		lineageTag: 73376d91-02eb-4607-8903-f0b1dd9c8b39
+
+		annotation PBI_FormatHint = {"currencyCulture":"en-US"}
+
+	/// Granite charges, made slicer-aware. Granite only bills for store tablets, and its invoices carry no
+	/// line-level detail, so the charges are hidden (BLANK) when the user filters on a VVIP/Exception label
+	/// or on any device category other than "Tablet". Without this, Granite spend would leak into
+	/// smartphone or VVIP views.
+	measure 'Granite Charges' =
+			VAR ProductCategory = SELECTEDVALUE('Monthly Billings All'[Product Category])
+			RETURN
+			    IF(
+			        ISFILTERED('Monthly Billings All'[Label])
+			            || (ISFILTERED('Monthly Billings All'[Product Category]) && ProductCategory <> "Tablet"),
+			        BLANK(),
+			        SUM('Granite Rock Report'[New Charges])
+			    )
+		formatString: \$#,0
+		displayFolder: 1 Spend
+		lineageTag: d6aa4689-ce4a-4827-b848-fa9d0ddbac58
+
+		annotation PBI_FormatHint = {"currencyCulture":"en-US"}
+
+	/// Total spend across every carrier plus Granite, respecting all slicers. Main measure for the spend trend charts.
+	measure 'Total Spend of All Carriers' = SUM('Monthly Billings All'[Line Bill -> Total Rebilled Charges]) + [Granite Charges]
+		formatString: \$#,0
+		displayFolder: 1 Spend
+		lineageTag: e49dd99d-c0aa-47b8-b00f-46ac77b1264b
+
+		annotation PBI_FormatHint = {"currencyCulture":"en-US"}
+
+	/// Headline total spend: carrier bills + Granite invoices (raw, not slicer-adjusted like [Granite Charges]).
+	measure 'Total Recurring Charges' =
+			SUM('Monthly Billings All'[Line Bill -> Total Rebilled Charges])
+			    + SUM('Granite Rock Report'[New Charges])
+		formatString: \$#,0
+		displayFolder: 1 Spend
+		lineageTag: 9892e567-f3db-49fa-a270-429e81494694
+
+		annotation PBI_FormatHint = {"currencyCulture":"en-US"}
+
+	/// All travel-related charges: voice, data and messaging roaming plus international long distance.
+	measure 'Total Roaming Charges' =
+			SUM('Monthly Billings All'[Line Bill -> Roaming Messaging Charges])
+			    + SUM('Monthly Billings All'[Line Bill -> Voice Roaming Charges])
+			    + SUM('Monthly Billings All'[Line Bill -> Data Roaming Charges])
+			    + SUM('Monthly Billings All'[Line Bill -> Long Distance Charges])
+		formatString: \$#,0
+		displayFolder: 1 Spend
+		lineageTag: c888da4f-f016-43b7-b226-7649a461202d
+
+		annotation PBI_FormatHint = {"currencyCulture":"en-US"}
+
+	/// Everything on the carrier bill that is not plan, equipment or roaming:
+	/// taxes, fees, surcharges, features, overages, credits and adjustments.
+	measure 'Other Charges' =
+			SUM('Monthly Billings All'[Line Bill -> Total Rebilled Charges])
+			    - (
+			        SUM('Monthly Billings All'[Line Bill -> Equipment Charges])
+			        + SUM('Monthly Billings All'[Line Bill -> Rebilled Primary Plan MRC])
+			        + [Total Roaming Charges]
+			    )
+		formatString: \$#,0
+		displayFolder: 1 Spend
+		lineageTag: 0c67a877-86b0-448d-8649-2735e777d9eb
+
+		annotation PBI_FormatHint = {"currencyCulture":"en-US"}
+
+	/// Average cost per billed line per month = total spend / number of line-month bill records
+	/// (carrier bill rows + Granite SIMs).
+	measure 'Average Recurring Cost Per Line' =
+			DIVIDE(
+			    SUM('Monthly Billings All'[Line Bill -> Total Rebilled Charges]) + SUM('Granite Rock Report'[New Charges]),
+			    COUNT('Monthly Billings All'[International Number]) + COUNT('Granite Overall'[PlanId])
+			)
+		formatString: \$#,0.00
+		displayFolder: 1 Spend
+		lineageTag: 8d4fde28-6e03-49db-8dcd-d500fcab3eda
+
+		annotation PBI_FormatHint = {"currencyCulture":"en-US"}
+
+	/// Cost avoided by reissuing refurbished depot devices instead of buying new ones.
+	/// Assumed avoided cost per device: $400 phone / $450 iPad before July 2025 (FY26),
+	/// $500 phone / $550 iPad from FY26 onward (updated procurement prices).
+	measure 'Reissued Savings' =
+			SUMX(
+			    'Reissued Devices',
+			    VAR IsIpad = CONTAINSSTRING(LOWER('Reissued Devices'[Model]), "ipad")
+			    RETURN
+			        IF(
+			            ISBLANK('Reissued Devices'[Date of giving out])
+			                || 'Reissued Devices'[Date of giving out] < DATE(2025, 7, 1),
+			            IF(IsIpad, 450, 400),   -- FY25 and earlier price list
+			            IF(IsIpad, 550, 500)    -- FY26+ price list
+			        )
+			)
+		formatString: \$#,0
+		displayFolder: 2 Savings
+		lineageTag: 361149c7-9886-44de-882e-f9b194a660b1
+
+		annotation PBI_FormatHint = {"currencyCulture":"en-US"}
+
+	/// Total annualized savings delivered by the mobility team across all five initiatives.
+	measure 'Total Savings' =
+			SUM('Active Inactive Users'[Annual Saving])          -- lines suspended because the owner left the company
+			    + SUM('Zero Use Report'[Annual Saving])          -- lines suspended for zero usage
+			    + SUM('Verizon Activation'[Chargeback amount])   -- carrier chargebacks avoided by activating ordered devices
+			    + SUM('Returned Devices'[Value])                 -- credit received for devices returned to the recycler
+			    + [Reissued Savings]                             -- depot devices reissued instead of bought new
+		formatString: \$#,0
+		displayFolder: 2 Savings
+		lineageTag: 881d49dc-2cec-4cbd-ac8f-61394f24893a
+
+		annotation PBI_FormatHint = {"currencyCulture":"en-US"}
+
+	/// Share of zero-usage lines found that were actually suspended (Qty suspended / Lines found),
+	/// averaged across reporting months.
+	measure 'Zero Use Efficiency' =
+			AVERAGEX(
+			    FILTER('Zero Use Report', NOT ISBLANK('Zero Use Report'[Lines Found])),
+			    DIVIDE('Zero Use Report'[Qty], 'Zero Use Report'[Lines Found])
+			)
+		formatString: 0.0%;-0.0%;0.0%
+		displayFolder: 2 Savings
+		lineageTag: 41455836-9560-483b-a1fe-beb608c50108
+
+	/// Active and suspended carrier lines plus Granite store-tablet SIMs.
+	/// (The report card applies the Line Status = Active/Suspended filter.)
+	measure 'Total Lines' = COUNT('Granite Overall'[Msisdn]) + COUNT('All Lines Report'[Formula])
+		formatString: #,0
+		displayFolder: 3 Fleet & Lines
+		lineageTag: 69452d9f-3cce-4e57-9f97-5d626cce5f9d
+
+	/// Device fleet size: devices managed in Tangoe plus Granite store tablets.
+	measure 'Total Devices incl Granite' = COUNT('Tangoe Devices'[Device Category]) + COUNT('Granite Overall'[Msisdn])
+		formatString: #,0
+		displayFolder: 3 Fleet & Lines
+		lineageTag: 95236416-c4e6-4851-89c0-e1f897d08dfd
+
+	/// Card text: number of devices past their contract end date and their share of the fleet, e.g. "212 (45%)".
+	measure '% Out of Contract Devices' =
+			VAR TotalDevices = COUNTROWS('Out Of Contract Devices')
+			VAR OutOfContractDevices =
+			    CALCULATE(COUNTROWS('Out Of Contract Devices'), 'Out Of Contract Devices'[Contract Status] = "Out of Contract")
+			VAR Pct = DIVIDE(OutOfContractDevices, TotalDevices)
+			RETURN
+			    OutOfContractDevices & " (" & FORMAT(Pct, "0%") & ")"
+		displayFolder: 3 Fleet & Lines
+		lineageTag: 8045cdcd-0278-4c16-9862-2712d5dbcdfc
+
+	/// Card text: number of devices still under contract and their share of ALL devices, e.g. "240 (51%)".
+	/// ALL() keeps the denominator fixed even when the card is filtered to "In Contract".
+	measure '% In Contract Devices' =
+			VAR TotalDevices = CALCULATE(COUNTROWS('Out Of Contract Devices'), ALL('Out Of Contract Devices'))
+			VAR InContractDevices =
+			    CALCULATE(COUNTROWS('Out Of Contract Devices'), 'Out Of Contract Devices'[Contract Status] = "In Contract")
+			VAR Pct = DIVIDE(InContractDevices, TotalDevices)
+			RETURN
+			    InContractDevices & " (" & FORMAT(Pct, "0%") & ")"
+		displayFolder: 3 Fleet & Lines
+		lineageTag: 88a10abd-09ad-4a55-b650-5dc0232505f6
+
+	/// Most recent month in the carrier-vs-Tangoe data reconciliation log.
+	measure 'Latest Month Carrier Discrepancy' = MAXX(SELECTCOLUMNS('Carrier Discrepancies', "D", 'Carrier Discrepancies'[Date]), [D])
+		displayFolder: 4 Data Quality
+		lineageTag: 82a4b479-c91b-40b2-a5bc-0a0b45e61c3c
+
+	/// Number of open data mismatches (carrier bill vs. Tangoe inventory) found in the latest reconciliation month.
+	measure 'Latest Month Carrier Discrepancy Count' =
+			VAR LM = [Latest Month Carrier Discrepancy]
+			VAR LMYear = YEAR(LM)
+			VAR LMMonth = MONTH(LM)
+			RETURN
+			    CALCULATE(
+			        SUM('Carrier Discrepancies'[Count]),
+			        FILTER(ALL(Dim_Calendar), Dim_Calendar[Year] = LMYear && Dim_Calendar[MonthNumber] = LMMonth)
+			    )
+		formatString: #,0
+		displayFolder: 4 Data Quality
+		lineageTag: 2abda9cd-c2cc-44ff-9333-08f5ec7fa332
+
+	/// Average ServiceNow ticket resolution time in business days (weekends excluded), closed tickets only.
+	measure 'Avg Resolution Time (Business Days)' =
+			AVERAGEX(
+			    FILTER('ServiceNow Tickets', NOT ISBLANK('ServiceNow Tickets'[closed_at])),
+			    VAR CreatedDate = DATEVALUE('ServiceNow Tickets'[sys_created_on])
+			    VAR ClosedDate  = DATEVALUE('ServiceNow Tickets'[closed_at])
+			    RETURN
+			        -- Count Mon–Fri calendar days between open and close; -1 so a same-day fix counts as 0 days
+			        CALCULATE(
+			            COUNTROWS('Dim_Calendar'),
+			            FILTER(
+			                'Dim_Calendar',
+			                'Dim_Calendar'[Date] >= CreatedDate
+			                    && 'Dim_Calendar'[Date] <= ClosedDate
+			                    && WEEKDAY('Dim_Calendar'[Date], 2) <= 5
+			            )
+			        ) - 1
+			)
+		formatString: 0.0
+		displayFolder: 5 Service Desk
+		lineageTag: 13ab0691-8850-449d-a47c-cbeb048262b2
+
+	column Column1
+		dataType: string
+		isHidden
+		lineageTag: 5b09b50b-1f5d-4213-b9eb-a8a9feb12666
+		summarizeBy: none
+		sourceColumn: Column1
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'All Measures' = m
+		mode: import
+		source =
+				let
+				    Source = Table.FromRows(Json.Document(Binary.Decompress(Binary.FromText("i44FAA==", BinaryEncoding.Base64), Compression.Deflate)), let _t = ((type nullable text) meta [Serialized.Text = true]) in type table [Column1 = _t]),
+				    #"Changed Type" = Table.TransformColumnTypes(Source,{{"Column1", type text}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

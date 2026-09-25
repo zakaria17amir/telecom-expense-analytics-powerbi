@@ -1,0 +1,67 @@
+table 'Device Upgrade'
+	lineageTag: a190b1f0-0262-477e-b3fb-cc74f530eed9
+
+	column 'Activity Number'
+		dataType: int64
+		formatString: 0
+		lineageTag: 06ef1c32-c7ac-46bc-9744-088a3c18e692
+		summarizeBy: sum
+		sourceColumn: Activity Number
+
+		annotation SummarizationSetBy = Automatic
+
+	column Type
+		dataType: string
+		lineageTag: 0f3976b7-b95b-42d3-8014-3b778e7d6cee
+		summarizeBy: none
+		sourceColumn: Type
+
+		annotation SummarizationSetBy = Automatic
+
+	column ' Name'
+		dataType: string
+		lineageTag: cd42d1a2-6e6b-4a33-a118-975dc4c17484
+		summarizeBy: none
+		sourceColumn: " Name"
+
+		annotation SummarizationSetBy = Automatic
+
+	column Carrier
+		dataType: string
+		lineageTag: bec169d6-f2e9-46a7-9fb4-7d9853aab970
+		summarizeBy: none
+		sourceColumn: Carrier
+
+		annotation SummarizationSetBy = Automatic
+
+	column Deadline
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: fe0301cb-a566-4f3c-818e-54a994d73aa9
+		summarizeBy: none
+		sourceColumn: Deadline
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Decision
+		dataType: string
+		lineageTag: bd44650e-ce5b-41c7-9058-212305fd0344
+		summarizeBy: none
+		sourceColumn: Decision
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Device Upgrade' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("Device Upgrade", {{"Activity Number", Int64.Type}, {"Type", type text}, {" Name", type text}, {"Carrier", type text}, {"Deadline", type date}, {"Decision", type text}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

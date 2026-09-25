@@ -1,0 +1,1551 @@
+Activity Type,Created,ID,Person Activity For,Line,Carrier,Departure Date,Return Date,Completed At,Activity State
+Travel Request,2025-07-21,2600000,Emily Gonzalez,9738226215,Verizon United States,2025-08-06,2025-08-21,,Cancelled
+Suspend Service,2026-01-20,2600001,Amanda Ramirez,4803214145,T-Mobile United States,,,2026-01-26,Complete
+Order New Device and Service,2024-11-05,2600002,Wei Hall,4158286727,AT&T United States,,,2024-11-08,Complete
+Upgrade Device,2026-09-11,2600003,Ethan Tremblay,2065916366,T-Mobile United States,,,,In Progress
+Travel Request,2026-06-30,2600004,Sofia Nelson,5145636219,Rogers Canada,2026-07-11,2026-07-29,2026-07-03,Complete
+Disconnect Service,2025-10-06,2600005,Stephanie Taylor,2018642732,Verizon United States,,,2025-10-10,Complete
+Disconnect Service,2026-07-23,2600006,Sarah Gonzalez,2122979189,Verizon United States,,,2026-07-24,Complete
+Lost / Stolen Device,2026-04-08,2600007,Paul Rivera,4043612761,AT&T United States,,,2026-04-08,Complete
+Order New Device and Service,2026-02-06,2600008,Hiroshi Clark,5146329619,Rogers Canada,,,2026-02-13,Complete
+Lost / Stolen Device,2024-01-09,2600009,Karen Hernandez,3102631028,AT&T United States,,,2024-01-16,Complete
+Order New Device and Service,2024-06-24,2600010,Liam Thomas,3109539636,AT&T United States,,,2024-06-27,Complete
+Travel Request,2026-07-22,2600011,Lisa Ramirez,3058207878,AT&T United States,2026-08-13,2026-08-22,2026-07-30,Complete
+Order New Device and Service,2024-11-15,2600012,Ethan Brown,4048942177,AT&T United States,,,2024-11-25,Complete
+Travel Request,2025-04-21,2600013,Sandra Garcia,4378822514,Rogers Canada,2025-04-27,2025-05-08,2025-04-23,Complete
+Disconnect Service,2025-10-30,2600014,Fatima Garcia,2126938858,Verizon United States,,,2025-11-06,Complete
+Suspend Service,2025-04-22,2600015,Betty Rodriguez,9172344504,Verizon United States,,,2025-04-29,Complete
+Change Plan / Feature,2026-04-10,2600016,Linda Johnson,4374614270,Rogers Canada,,,2026-04-16,Complete
+Disconnect Service,2026-02-27,2600017,Amanda Williams,2142389769,AT&T United States,,,2026-03-03,Complete
+Disconnect Service,2025-11-23,2600018,Ashley Flores,7023298327,T-Mobile United States,,,2025-11-28,Complete
+Travel Request,2026-07-29,2600019,Paul Lewis,9735239559,Verizon United States,2026-08-07,2026-08-27,2026-07-30,Complete
+Order New Device and Service,2025-07-17,2600020,Betty Rodriguez,9172344504,Verizon United States,,,2025-07-22,Complete
+Upgrade Device,2024-07-31,2600021,Ashley White,3105261196,AT&T United States,,,2024-08-08,Complete
+Change Plan / Feature,2025-02-01,2600022,Joseph Roy,3128484783,AT&T United States,,,2025-02-07,Complete
+Order New Device and Service,2024-01-02,2600023,Hiroshi Nelson,3102059383,AT&T United States,,,2024-01-10,Complete
+Suspend Service,2025-05-06,2600024,Ava Carter,2018254466,Verizon United States,,,2025-05-07,Complete
+Travel Request,2026-06-25,2600025,Carlos Miller,6464673869,Verizon United States,2026-06-30,2026-07-13,2026-06-29,Complete
+Suspend Service,2025-11-27,2600026,Charles Martin,5035531588,T-Mobile United States,,,2025-12-03,Complete
+Upgrade Device,2026-09-20,2600027,Steven Williams,9733791070,Verizon United States,,,2026-09-20,Complete
+Disconnect Service,2024-07-23,2600028,Mia Taylor,4375840971,Rogers Canada,,,2024-07-24,Complete
+Travel Request,2025-02-27,2600029,Thomas Adams,2144649309,AT&T United States,2025-03-19,2025-03-22,,In Progress
+Disconnect Service,2024-09-26,2600030,Brian Sanchez,9177624549,Verizon United States,,,2024-09-30,Complete
+Order New Device and Service,2026-05-28,2600031,Michael Patel,2149286395,AT&T United States,,,2026-05-29,Complete
+Travel Request,2026-08-18,2600032,Lisa Wilson,6319979648,Verizon United States,2026-08-21,2026-09-05,2026-08-20,Complete
+Disconnect Service,2024-09-20,2600033,Emily Jackson,4049882378,AT&T United States,,,2024-09-23,Complete
+Disconnect Service,2024-01-03,2600034,Wei Johnson,3102389308,AT&T United States,,,2024-01-09,Complete
+Suspend Service,2026-01-28,2600035,Liam Torres,2146855816,AT&T United States,,,2026-02-05,Complete
+Travel Request,2024-04-27,2600036,Yuki Scott,5145497111,Rogers Canada,2024-05-15,2024-05-28,2024-05-01,Complete
+Suspend Service,2024-01-13,2600037,Karen Moore,2129014916,Verizon United States,,,2024-01-15,Complete
+Travel Request,2026-08-06,2600038,Sofia King,9738757794,Verizon United States,2026-08-30,2026-09-04,2026-08-06,Complete
+Order New Device and Service,2025-05-15,2600039,Amanda Campbell,4046087802,AT&T United States,,,2025-05-19,Complete
+Travel Request,2026-06-02,2600040,Jessica Martinez,4802681854,T-Mobile United States,2026-06-21,2026-07-11,2026-06-05,Complete
+Lost / Stolen Device,2024-10-19,2600041,Karen Hernandez,3105219856,AT&T United States,,,2024-10-19,Complete
+Order New Device and Service,2025-02-19,2600042,Ahmed Singh,6314705036,Verizon United States,,,,Cancelled
+Disconnect Service,2024-08-02,2600043,Carlos Ramirez,2128546652,Verizon United States,,,2024-08-02,Complete
+Upgrade Device,2025-08-21,2600044,Robert Williams,2014764129,Verizon United States,,,2025-08-26,Complete
+Disconnect Service,2025-06-12,2600045,Karen Moore,2129014916,Verizon United States,,,2025-06-13,Complete
+Transfer of Liability,2024-09-22,2600046,Michael Torres,9737184007,Verizon United States,,,2024-09-22,Complete
+Suspend Service,2025-12-28,2600047,Nancy Thomas,9178462897,Verizon United States,,,2026-01-02,Complete
+Order New Device and Service,2026-04-03,2600048,Lisa Jones,4157374953,AT&T United States,,,2026-04-10,Complete
+Disconnect Service,2025-08-01,2600049,Melissa Brown,4049375363,AT&T United States,,,2025-08-04,Complete
+Upgrade Device,2024-03-05,2600050,Elizabeth Gonzalez,2012494999,Verizon United States,,,2024-03-13,Complete
+Lost / Stolen Device,2026-07-05,2600051,Michelle Wright,4169603471,Bell Canada,,,2026-07-08,Complete
+Change Plan / Feature,2026-01-23,2600052,Sandra Scott,2018306076,Verizon United States,,,,Cancelled
+Transfer of Liability,2024-11-21,2600053,Stephanie Anderson,3058517551,AT&T United States,,,2024-11-26,Complete
+Upgrade Device,2024-09-21,2600054,Mia Lee,4156396773,AT&T United States,,,2024-09-26,Complete
+Upgrade Device,2026-03-17,2600055,Jennifer Walker,6046106701,Rogers Canada,,,2026-03-24,Complete
+Upgrade Device,2024-03-09,2600056,Hiroshi Nguyen,6463823211,Verizon United States,,,2024-03-14,Complete
+Upgrade Device,2025-03-04,2600057,Lisa Hall,2012868741,Verizon United States,,,2025-03-05,Complete
+Suspend Service,2024-06-26,2600058,Yuki Rodriguez,3103527772,AT&T United States,,,2024-06-27,Complete
+Order New Device and Service,2025-06-19,2600059,Paul King,2128802750,Verizon United States,,,2025-06-27,Complete
+Change Plan / Feature,2025-06-19,2600060,Richard Jackson,3127069683,AT&T United States,,,2025-06-25,Complete
+Change Plan / Feature,2025-03-05,2600061,Yuki Walker,2015750820,Verizon United States,,,2025-03-13,Complete
+Order New Device and Service,2026-05-21,2600062,Richard Wright,3055203278,AT&T United States,,,2026-05-21,Complete
+Change Plan / Feature,2026-02-23,2600063,Jessica Martin,6475605163,Bell Canada,,,2026-02-23,Complete
+Upgrade Device,2024-01-24,2600064,Mateo Kim,2125001404,Verizon United States,,,2024-01-29,Complete
+Disconnect Service,2025-09-12,2600065,Ashley Baker,2145919602,AT&T United States,,,2025-09-15,Complete
+Travel Request,2024-07-08,2600066,Yuki Garcia,2014894312,Verizon United States,2024-07-29,2024-08-14,,Cancelled
+Disconnect Service,2025-12-03,2600067,Priya Cohen,9178524718,Verizon United States,,,2025-12-09,Complete
+Travel Request,2025-02-12,2600068,Priya Patel,9733569266,Verizon United States,2025-02-19,2025-02-27,2025-02-13,Complete
+Lost / Stolen Device,2024-01-10,2600069,Karen Roberts,3054310054,AT&T United States,,,,Cancelled
+Suspend Service,2025-04-21,2600070,Charles Lee,5036497372,T-Mobile United States,,,2025-04-21,Complete
+Travel Request,2025-12-20,2600071,Michael Torres,9737184007,Verizon United States,2026-01-10,2026-01-29,2025-12-20,Complete
+Upgrade Device,2026-07-15,2600072,Fatima Green,2016897843,Verizon United States,,,2026-07-22,Complete
+Disconnect Service,2025-11-20,2600073,Mia Nelson,3056458576,AT&T United States,,,,Cancelled
+Disconnect Service,2026-09-18,2600074,Patricia Scott,2144523370,AT&T United States,,,2026-09-25,Complete
+Upgrade Device,2026-05-27,2600075,Olga Walker,3122043938,AT&T United States,,,2026-06-01,Complete
+Upgrade Device,2026-07-26,2600076,Emily White,9736541854,Verizon United States,,,2026-07-26,Complete
+Disconnect Service,2024-09-05,2600077,Robert Anderson,6318755901,Verizon United States,,,2024-09-11,Complete
+Lost / Stolen Device,2025-10-11,2600078,John Thomas,9174289574,Verizon United States,,,2025-10-11,Complete
+Suspend Service,2025-12-02,2600079,Chloe Cohen,2126770606,Verizon United States,,,2025-12-08,Complete
+Suspend Service,2025-03-22,2600080,Daniel Campbell,4159486112,AT&T United States,,,2025-03-31,Complete
+Change Plan / Feature,2024-02-19,2600081,Hiroshi Nguyen,6463823211,Verizon United States,,,2024-02-23,Complete
+Order New Device and Service,2024-09-23,2600082,Jessica Patel,6468154643,Verizon United States,,,2024-09-24,Complete
+Travel Request,2025-06-04,2600083,Ahmed Campbell,3052683798,AT&T United States,2025-06-29,2025-07-17,2025-06-04,Complete
+Travel Request,2025-08-08,2600084,Brian Sanchez,6467788249,Verizon United States,2025-08-28,2025-09-15,2025-08-12,Complete
+Order New Device and Service,2025-03-13,2600085,Ethan Tremblay,2065916366,T-Mobile United States,,,2025-03-20,Complete
+Order New Device and Service,2026-08-20,2600086,Anthony Lee,9053457595,Bell Canada,,,2026-08-28,Complete
+Travel Request,2026-08-23,2600087,Mark Nelson,2063354068,T-Mobile United States,2026-09-12,2026-09-17,2026-08-23,Complete
+Travel Request,2026-02-03,2600088,Robert Anderson,6318755901,Verizon United States,2026-02-19,2026-02-23,2026-02-09,Complete
+Upgrade Device,2024-02-23,2600089,Sandra Garcia,4378822514,Rogers Canada,,,2024-02-27,Complete
+Suspend Service,2025-12-30,2600090,Karen Thomas,2066706350,T-Mobile United States,,,2026-01-07,Complete
+Transfer of Liability,2026-01-14,2600091,Stephanie Jackson,9737917326,Verizon United States,,,2026-01-22,Complete
+Change Plan / Feature,2024-05-04,2600092,Ahmed Campbell,6047911672,Rogers Canada,,,2024-05-13,Complete
+Suspend Service,2024-04-17,2600093,Hiroshi Perez,3052401492,AT&T United States,,,2024-04-17,Complete
+Upgrade Device,2026-04-29,2600094,Michael Nguyen,2129980916,Verizon United States,,,2026-04-30,Complete
+Travel Request,2026-06-14,2600095,Ahmed Campbell,6047911672,Rogers Canada,2026-07-07,2026-07-28,2026-06-19,Complete
+Travel Request,2024-04-18,2600096,Yuki Walker,2015750820,Verizon United States,2024-05-17,2024-05-28,2024-04-19,Complete
+Upgrade Device,2024-02-17,2600097,Betty White,5145781128,Rogers Canada,,,2024-02-22,Complete
+Disconnect Service,2024-04-18,2600098,Ana King,4045880424,AT&T United States,,,2024-04-19,Complete
+Lost / Stolen Device,2024-02-01,2600099,Patricia Anderson,9179496116,Verizon United States,,,2024-02-09,Complete
+Disconnect Service,2024-06-04,2600100,Ethan Nelson,2064147882,T-Mobile United States,,,2024-06-11,Complete
+Suspend Service,2026-06-11,2600101,Mark Kim,7022413585,T-Mobile United States,,,,Cancelled
+Order New Device and Service,2025-10-06,2600102,Yuki Ramirez,9179783793,Verizon United States,,,2025-10-06,Complete
+Upgrade Device,2025-09-26,2600103,Ahmed Martin,9057739915,Bell Canada,,,2025-09-30,Complete
+Change Plan / Feature,2026-05-22,2600104,Nancy Thomas,9178462897,Verizon United States,,,2026-06-01,Complete
+Order New Device and Service,2026-07-17,2600105,Chloe Patel,4808692435,T-Mobile United States,,,2026-07-17,Complete
+Suspend Service,2024-11-28,2600106,Linda Roberts,2144800431,AT&T United States,,,2024-12-03,Complete
+Order New Device and Service,2024-02-02,2600107,Mateo Flores,4163040914,Bell Canada,,,,Cancelled
+Order New Device and Service,2024-11-28,2600108,Paul Lewis,4045238693,AT&T United States,,,2024-12-03,Complete
+Disconnect Service,2026-05-15,2600109,William Hernandez,9737893393,Verizon United States,,,2026-05-25,Complete
+Upgrade Device,2024-04-05,2600110,Sarah Gonzalez,2122979189,Verizon United States,,,2024-04-10,Complete
+Upgrade Device,2024-11-19,2600111,Patricia Martinez,3102375558,AT&T United States,,,2024-11-19,Complete
+Order New Device and Service,2024-10-14,2600112,Melissa Brown,4049375363,AT&T United States,,,2024-10-14,Complete
+Order New Device and Service,2025-03-14,2600113,Richard King,4042651112,AT&T United States,,,2025-03-21,Complete
+Disconnect Service,2026-03-21,2600114,Noah Jones,9175391436,Verizon United States,,,2026-03-27,Complete
+Travel Request,2024-06-17,2600115,Yuki Flores,2015764508,Verizon United States,2024-07-16,2024-07-30,2024-06-17,Complete
+Travel Request,2024-01-22,2600116,Amanda Smith,9735349685,Verizon United States,2024-01-25,2024-02-15,2024-01-25,Complete
+Travel Request,2024-12-01,2600117,Raj Thomas,9175080397,Verizon United States,2024-12-18,2025-01-08,2024-12-06,Complete
+Travel Request,2026-01-19,2600118,Barbara Williams,2145843363,AT&T United States,2026-01-25,2026-01-29,2026-01-20,Complete
+Lost / Stolen Device,2024-07-22,2600119,Zoe Harris,9738246947,Verizon United States,,,2024-07-26,Complete
+Upgrade Device,2026-01-20,2600120,Betty Rodriguez,9172344504,Verizon United States,,,2026-01-20,Complete
+Travel Request,2026-07-20,2600121,John Thomas,9174289574,Verizon United States,2026-07-26,2026-08-07,2026-07-20,Complete
+Lost / Stolen Device,2025-02-27,2600122,Chloe Hall,9174948096,Verizon United States,,,2025-02-27,Complete
+Travel Request,2026-02-27,2600123,Raj Lee,9177090506,Verizon United States,2026-03-18,2026-04-01,2026-03-05,Complete
+Upgrade Device,2026-05-20,2600124,Hiroshi Clark,5146329619,Rogers Canada,,,2026-05-25,Complete
+Disconnect Service,2024-04-30,2600125,Anthony Thomas,2017049359,Verizon United States,,,2024-05-01,Complete
+Suspend Service,2024-07-02,2600126,Kevin Gonzalez,6319502024,Verizon United States,,,2024-07-08,Complete
+Suspend Service,2026-02-03,2600127,Stephanie Baker,6462716322,Verizon United States,,,,Cancelled
+Suspend Service,2024-07-08,2600128,Hiroshi Perez,3052401492,AT&T United States,,,2024-07-09,Complete
+Change Plan / Feature,2026-06-18,2600129,Amanda Ramirez,4803214145,T-Mobile United States,,,2026-06-23,Complete
+Disconnect Service,2025-03-11,2600130,Nancy Patel,6047792660,Rogers Canada,,,2025-03-11,Complete
+Change Plan / Feature,2024-01-27,2600131,Jessica Mitchell,6474690491,Bell Canada,,,2024-01-30,Complete
+Order New Device and Service,2026-07-01,2600132,Susan Harris,5148307542,Rogers Canada,,,2026-07-09,Complete
+Order New Device and Service,2025-02-05,2600133,Joshua Baker,6318781684,Verizon United States,,,2025-02-10,Complete
+Disconnect Service,2025-02-10,2600134,Melissa Nguyen,3059534380,AT&T United States,,,,Cancelled
+Travel Request,2025-07-20,2600135,Joseph Sanchez,9738365511,Verizon United States,2025-08-03,2025-08-16,2025-07-20,Complete
+Upgrade Device,2026-01-14,2600136,Carlos Young,7022397100,T-Mobile United States,,,2026-01-21,Complete
+Suspend Service,2024-12-09,2600137,Ahmed Campbell,3052683798,AT&T United States,,,2024-12-17,Complete
+Disconnect Service,2026-04-01,2600138,Omar Johnson,4164044374,Bell Canada,,,2026-04-02,Complete
+Lost / Stolen Device,2025-01-10,2600139,Sarah Clark,6046159501,Rogers Canada,,,2025-01-14,Complete
+Transfer of Liability,2024-03-15,2600140,Stephanie Taylor,2018642732,Verizon United States,,,2024-03-18,Complete
+Travel Request,2026-06-10,2600141,Zoe Harris,9738246947,Verizon United States,2026-06-18,2026-06-28,2026-06-11,Complete
+Order New Device and Service,2025-10-11,2600142,Mia Taylor,4375840971,Rogers Canada,,,2025-10-16,Complete
+Upgrade Device,2025-05-12,2600143,Wei Hall,4158286727,AT&T United States,,,2025-05-12,Complete
+Change Plan / Feature,2025-01-29,2600144,Andrew Davis,4046108536,AT&T United States,,,2025-02-05,Complete
+Travel Request,2025-08-07,2600145,Amanda Smith,9735349685,Verizon United States,2025-09-03,2025-09-18,2025-08-15,Complete
+Upgrade Device,2024-02-08,2600146,William Jones,5036344441,T-Mobile United States,,,2024-02-14,Complete
+Change Plan / Feature,2024-06-05,2600147,Jessica Thomas,3103305106,AT&T United States,,,2024-06-11,Complete
+Travel Request,2024-08-10,2600148,Paul Rivera,4158898053,AT&T United States,2024-08-28,2024-09-15,2024-08-14,Complete
+Transfer of Liability,2024-12-30,2600149,Stephanie Baker,6319249685,Verizon United States,,,2024-12-31,Complete
+Travel Request,2024-03-07,2600150,Mia Nelson,2127900721,Verizon United States,2024-04-03,2024-04-08,2024-03-07,Complete
+Upgrade Device,2024-10-24,2600151,Ahmed Campbell,3052683798,AT&T United States,,,2024-11-01,Complete
+Travel Request,2024-07-28,2600152,Stephanie Tremblay,5035385536,T-Mobile United States,2024-08-24,2024-08-31,2024-08-02,Complete
+Disconnect Service,2025-05-18,2600153,Patricia Scott,6045133143,Rogers Canada,,,,Cancelled
+Order New Device and Service,2024-12-14,2600154,Mark Scott,5033720043,T-Mobile United States,,,2024-12-20,Complete
+Travel Request,2024-09-22,2600155,Ethan Nelson,2064147882,T-Mobile United States,2024-10-08,2024-10-13,2024-09-25,Complete
+Order New Device and Service,2025-01-05,2600156,Anthony Thomas,2148596904,AT&T United States,,,2025-01-09,Complete
+Suspend Service,2025-09-07,2600157,Ava Young,2127410987,Verizon United States,,,2025-09-09,Complete
+Lost / Stolen Device,2025-11-25,2600158,William Jones,5036344441,T-Mobile United States,,,2025-12-02,Complete
+Travel Request,2025-08-09,2600159,William Hernandez,9737893393,Verizon United States,2025-08-29,2025-09-15,2025-08-15,Complete
+Travel Request,2024-12-04,2600160,Barbara Roberts,6463001942,Verizon United States,2024-12-19,2025-01-08,,In Progress
+Suspend Service,2024-01-28,2600161,John Thomas,9174289574,Verizon United States,,,2024-02-01,Complete
+Travel Request,2025-08-06,2600162,Joshua Kim,6318660612,Verizon United States,2025-08-18,2025-08-31,2025-08-08,Complete
+Travel Request,2024-08-30,2600163,Sarah Hall,9059417138,Bell Canada,2024-09-25,2024-09-29,2024-09-04,Complete
+Upgrade Device,2024-04-18,2600164,Joshua Baker,6318781684,Verizon United States,,,2024-04-18,Complete
+Change Plan / Feature,2025-09-17,2600165,Yuki Gagnon,7026984915,T-Mobile United States,,,,In Progress
+Upgrade Device,2026-08-17,2600166,Olga Gonzalez,3104841760,AT&T United States,,,2026-08-20,Complete
+Order New Device and Service,2025-02-01,2600167,Richard Clark,3057468070,AT&T United States,,,,In Progress
+Order New Device and Service,2025-05-23,2600168,Leila Lewis,2127343287,Verizon United States,,,2025-06-02,Complete
+Travel Request,2024-07-28,2600169,Ava Hall,4802925452,T-Mobile United States,2024-08-09,2024-08-20,2024-07-29,Complete
+Upgrade Device,2024-03-15,2600170,Richard Kim,2018003281,Verizon United States,,,2024-03-22,Complete
+Disconnect Service,2024-04-01,2600171,Priya Nguyen,3052071072,AT&T United States,,,2024-04-09,Complete
+Change Plan / Feature,2026-07-01,2600172,Priya Lopez,6042738899,Rogers Canada,,,2026-07-02,Complete
+Change Plan / Feature,2025-01-13,2600173,Jennifer Roberts,4164246730,Bell Canada,,,,Cancelled
+Upgrade Device,2025-04-27,2600174,Mateo Young,4162749829,Bell Canada,,,2025-04-28,Complete
+Travel Request,2024-01-28,2600175,Yuki Campbell,7029550447,T-Mobile United States,2024-02-02,2024-02-16,2024-02-02,Complete
+Transfer of Liability,2024-09-19,2600176,Susan Baker,9174053154,Verizon United States,,,2024-09-26,Complete
+Upgrade Device,2024-04-29,2600177,Mateo Kim,2012523267,Verizon United States,,,2024-04-29,Complete
+Travel Request,2026-05-18,2600178,Priya Hill,6467189474,Verizon United States,2026-06-17,2026-07-03,2026-05-20,Complete
+Travel Request,2024-11-06,2600179,Anthony Thomas,2017049359,Verizon United States,2024-11-09,2024-11-18,,In Progress
+Disconnect Service,2025-01-01,2600180,Mia Nelson,2127900721,Verizon United States,,,2025-01-01,Complete
+Travel Request,2025-01-01,2600181,Jennifer Sanchez,2127510507,Verizon United States,2025-01-24,2025-01-29,2025-01-09,Complete
+Disconnect Service,2024-09-26,2600182,Mia Taylor,4375840971,Rogers Canada,,,2024-10-03,Complete
+Travel Request,2025-09-25,2600183,Patricia Scott,6045133143,Rogers Canada,2025-10-22,2025-11-06,2025-09-29,Complete
+Travel Request,2024-01-20,2600184,Mateo Kim,6475725534,Bell Canada,2024-02-17,2024-03-01,2024-01-20,Complete
+Upgrade Device,2026-06-25,2600185,Hiroshi Brown,3103547514,AT&T United States,,,2026-06-25,Complete
+Transfer of Liability,2024-01-03,2600186,Andrew Davis,4046108536,AT&T United States,,,2024-01-08,Complete
+Order New Device and Service,2024-03-25,2600187,Ashley Roberts,6318196047,Verizon United States,,,,Cancelled
+Travel Request,2025-01-18,2600188,Sandra Garcia,4378822514,Rogers Canada,2025-01-26,2025-02-03,2025-01-23,Complete
+Upgrade Device,2025-01-25,2600189,Patricia Scott,2144523370,AT&T United States,,,2025-01-30,Complete
+Change Plan / Feature,2024-09-18,2600190,Emily Johnson,4154604053,AT&T United States,,,2024-09-24,Complete
+Order New Device and Service,2025-07-30,2600191,Anthony Miller,6318279731,Verizon United States,,,2025-07-31,Complete
+Change Plan / Feature,2025-03-09,2600192,Stephanie Tremblay,5035385536,T-Mobile United States,,,2025-03-13,Complete
+Upgrade Device,2025-04-20,2600193,Carlos Moore,6312889276,Verizon United States,,,2025-04-24,Complete
+Order New Device and Service,2025-01-27,2600194,Robert Ramirez,4168903452,Bell Canada,,,2025-01-29,Complete
+Lost / Stolen Device,2025-09-12,2600195,Joseph Sanchez,9738365511,Verizon United States,,,2025-09-16,Complete
+Change Plan / Feature,2026-03-08,2600196,Michael Patel,2149286395,AT&T United States,,,2026-03-12,Complete
+Travel Request,2025-06-08,2600197,Elizabeth Green,9059014454,Bell Canada,2025-06-11,2025-06-14,2025-06-16,Complete
+Suspend Service,2024-02-10,2600198,James Wilson,2146143232,AT&T United States,,,,Cancelled
+Disconnect Service,2024-01-10,2600199,Charles Harris,3054981093,AT&T United States,,,2024-01-10,Complete
+Upgrade Device,2025-12-18,2600200,Charles Thomas,4048456425,AT&T United States,,,2025-12-19,Complete
+Upgrade Device,2024-09-09,2600201,Jennifer Moore,2128132738,Verizon United States,,,2024-09-11,Complete
+Lost / Stolen Device,2026-01-22,2600202,Wei Lopez,4165019329,Bell Canada,,,2026-01-23,Complete
+Travel Request,2024-06-14,2600203,Ana Walker,9178992955,Verizon United States,2024-07-04,2024-07-12,2024-06-14,Complete
+Change Plan / Feature,2026-08-07,2600204,Ethan Campbell,9739399635,Verizon United States,,,2026-08-14,Complete
+Travel Request,2025-06-09,2600205,Michael Carter,4808145111,T-Mobile United States,2025-06-30,2025-07-11,2025-06-16,Complete
+Travel Request,2025-01-21,2600206,Patricia Scott,6045133143,Rogers Canada,2025-01-27,2025-02-13,2025-01-23,Complete
+Order New Device and Service,2025-04-29,2600207,Kevin Nelson,4046289977,AT&T United States,,,2025-04-29,Complete
+Upgrade Device,2026-06-14,2600208,Kevin Roy,7028973130,T-Mobile United States,,,2026-06-17,Complete
+Change Plan / Feature,2024-05-18,2600209,Betty White,6465066391,Verizon United States,,,2024-05-21,Complete
+Change Plan / Feature,2024-08-20,2600210,Robert Williams,2014764129,Verizon United States,,,2024-08-23,Complete
+Order New Device and Service,2024-07-18,2600211,Charles Lewis,6462189944,Verizon United States,,,2024-07-26,Complete
+Travel Request,2025-02-09,2600212,Brian Smith,4049682430,AT&T United States,2025-02-23,2025-03-14,2025-02-14,Complete
+Travel Request,2025-10-13,2600213,William Jones,5036344441,T-Mobile United States,2025-10-21,2025-10-26,2025-10-21,Complete
+Travel Request,2024-10-04,2600214,David Martinez,3123646030,AT&T United States,2024-10-31,2024-11-05,2024-10-09,Complete
+Lost / Stolen Device,2025-11-10,2600215,Ahmed Nelson,9733357764,Verizon United States,,,2025-11-17,Complete
+Travel Request,2025-09-14,2600216,Ashley White,3105261196,AT&T United States,2025-10-12,2025-10-25,2025-09-18,Complete
+Upgrade Device,2025-06-22,2600217,Raj Carter,6465017543,Verizon United States,,,2025-06-30,Complete
+Travel Request,2024-04-29,2600218,Anthony Lee,9053457595,Bell Canada,2024-05-16,2024-06-06,2024-05-03,Complete
+Transfer of Liability,2025-05-24,2600219,Zoe Young,9177922280,Verizon United States,,,2025-05-30,Complete
+Order New Device and Service,2025-12-15,2600220,Stephanie Baker,6462716322,Verizon United States,,,2025-12-15,Complete
+Lost / Stolen Device,2026-02-19,2600221,Stephanie Green,6046165123,Rogers Canada,,,2026-02-20,Complete
+Order New Device and Service,2024-02-03,2600222,Sofia Roy,3058650599,AT&T United States,,,2024-02-08,Complete
+Lost / Stolen Device,2025-03-22,2600223,Sarah Green,9177772718,Verizon United States,,,2025-03-27,Complete
+Change Plan / Feature,2025-05-25,2600224,Joshua Singh,3058710812,AT&T United States,,,2025-05-27,Complete
+Upgrade Device,2024-10-15,2600225,Joshua Baker,6318781684,Verizon United States,,,2024-10-15,Complete
+Upgrade Device,2026-01-08,2600226,Stephanie Jackson,9737917326,Verizon United States,,,2026-01-12,Complete
+Order New Device and Service,2025-11-18,2600227,David Martinez,4804896336,T-Mobile United States,,,2025-11-18,Complete
+Travel Request,2025-03-04,2600228,Ahmed Singh,6314705036,Verizon United States,2025-03-12,2025-03-15,2025-03-10,Complete
+Upgrade Device,2025-05-13,2600229,Andrew Anderson,3102729360,AT&T United States,,,2025-05-16,Complete
+Disconnect Service,2025-10-01,2600230,Liam Torres,2146855816,AT&T United States,,,2025-10-06,Complete
+Suspend Service,2025-03-10,2600231,Daniel Campbell,7027532612,T-Mobile United States,,,2025-03-10,Complete
+Travel Request,2024-05-27,2600232,Mia Nelson,4162990877,Bell Canada,2024-06-20,2024-07-01,,Cancelled
+Upgrade Device,2024-05-06,2600233,Stephanie Taylor,2018642732,Verizon United States,,,2024-05-10,Complete
+Disconnect Service,2025-12-04,2600234,Joseph Sanchez,9738365511,Verizon United States,,,2025-12-09,Complete
+Upgrade Device,2026-06-27,2600235,Joshua Singh,3058710812,AT&T United States,,,2026-06-29,Complete
+Upgrade Device,2024-01-03,2600236,Ahmed Martin,9057739915,Bell Canada,,,2024-01-10,Complete
+Order New Device and Service,2025-09-22,2600237,Mia Taylor,4375840971,Rogers Canada,,,,Cancelled
+Order New Device and Service,2026-02-19,2600238,Ava Wright,4046962770,AT&T United States,,,2026-02-26,Complete
+Travel Request,2025-01-12,2600239,Ana Walker,9178992955,Verizon United States,2025-01-15,2025-01-23,2025-01-14,Complete
+Order New Device and Service,2024-05-30,2600240,Lisa Wilson,6319979648,Verizon United States,,,2024-05-30,Complete
+Disconnect Service,2026-05-17,2600241,David Thomas,3122546433,AT&T United States,,,2026-05-18,Complete
+Travel Request,2024-08-03,2600242,Brian Smith,4049682430,AT&T United States,2024-09-02,2024-09-07,2024-08-12,Complete
+Transfer of Liability,2026-03-04,2600243,Sofia Nguyen,6475578569,Bell Canada,,,2026-03-09,Complete
+Lost / Stolen Device,2024-03-16,2600244,John Roy,9739403509,Verizon United States,,,2024-03-25,Complete
+Disconnect Service,2026-05-11,2600245,Olga Cohen,2015985113,Verizon United States,,,2026-05-11,Complete
+Upgrade Device,2026-08-12,2600246,James Clark,2017740144,Verizon United States,,,,Cancelled
+Travel Request,2024-06-23,2600247,Robert Carter,9177509419,Verizon United States,2024-07-19,2024-08-07,2024-06-23,Complete
+Upgrade Device,2026-07-03,2600248,Betty White,5145781128,Rogers Canada,,,2026-07-03,Complete
+Change Plan / Feature,2025-01-11,2600249,Zoe Young,9177922280,Verizon United States,,,2025-01-20,Complete
+Travel Request,2025-12-21,2600250,Chloe Campbell,9174807890,Verizon United States,2026-01-13,2026-01-17,2025-12-29,Complete
+Transfer of Liability,2026-03-20,2600251,Noah Green,2146414536,AT&T United States,,,2026-03-27,Complete
+Lost / Stolen Device,2025-03-28,2600252,Omar Johnson,4164044374,Bell Canada,,,2025-04-04,Complete
+Lost / Stolen Device,2025-07-24,2600253,Mateo Adams,2016091333,Verizon United States,,,2025-07-30,Complete
+Travel Request,2024-11-19,2600254,Mark Perez,9174317711,Verizon United States,2024-12-04,2024-12-14,2024-11-21,Complete
+Lost / Stolen Device,2024-05-24,2600255,Linda Roberts,2144800431,AT&T United States,,,2024-05-30,Complete
+Disconnect Service,2024-12-07,2600256,Carlos Harris,3122315556,AT&T United States,,,2024-12-09,Complete
+Travel Request,2024-09-05,2600257,Daniel Novak,4157321990,AT&T United States,2024-09-18,2024-10-09,2024-09-13,Complete
+Order New Device and Service,2024-01-02,2600258,William Clark,6044710778,Rogers Canada,,,2024-01-09,Complete
+Order New Device and Service,2025-09-15,2600259,Olga Gonzalez,6468988653,Verizon United States,,,2025-09-22,Complete
+Travel Request,2026-02-09,2600260,Steven Thompson,4049525747,AT&T United States,2026-02-13,2026-02-28,2026-02-13,Complete
+Disconnect Service,2026-02-10,2600261,Ashley Smith,2142329898,AT&T United States,,,2026-02-16,Complete
+Change Plan / Feature,2025-02-04,2600262,Jennifer Roberts,4164246730,Bell Canada,,,2025-02-11,Complete
+Travel Request,2026-02-01,2600263,Sofia King,9738757794,Verizon United States,2026-02-07,2026-02-26,2026-02-01,Complete
+Travel Request,2025-06-03,2600264,Jessica Campbell,2016841915,Verizon United States,2025-06-26,2025-07-13,2025-06-04,Complete
+Travel Request,2024-09-11,2600265,Thomas Kim,5142090688,Rogers Canada,2024-10-11,2024-10-21,2024-09-11,Complete
+Disconnect Service,2026-07-20,2600266,Mary Walker,5034533844,T-Mobile United States,,,2026-07-27,Complete
+Lost / Stolen Device,2026-07-04,2600267,Kevin Thomas,9178113788,Verizon United States,,,,Cancelled
+Travel Request,2024-04-16,2600268,Joshua Kim,4169102332,Bell Canada,2024-04-23,2024-05-11,2024-04-17,Complete
+Upgrade Device,2025-12-13,2600269,Nancy Hernandez,9175103609,Verizon United States,,,2025-12-19,Complete
+Travel Request,2024-05-28,2600270,Betty White,5148369671,Rogers Canada,2024-06-21,2024-07-10,2024-05-31,Complete
+Travel Request,2024-08-18,2600271,Patricia Anderson,4154871884,AT&T United States,2024-09-16,2024-09-22,2024-08-22,Complete
+Disconnect Service,2025-06-06,2600272,Mary Walker,5034533844,T-Mobile United States,,,2025-06-13,Complete
+Change Plan / Feature,2025-02-24,2600273,Ashley Smith,2142329898,AT&T United States,,,2025-02-25,Complete
+Order New Device and Service,2024-09-05,2600274,Anthony Martinez,6467462517,Verizon United States,,,2024-09-10,Complete
+Upgrade Device,2024-06-17,2600275,Wei Johnson,3102389308,AT&T United States,,,2024-06-17,Complete
+Order New Device and Service,2025-03-27,2600276,Patricia Anderson,6473471183,Bell Canada,,,2025-04-03,Complete
+Transfer of Liability,2024-08-19,2600277,Linda Johnson,4374614270,Rogers Canada,,,2024-08-20,Complete
+Transfer of Liability,2024-10-17,2600278,Andrew Davis,4046108536,AT&T United States,,,2024-10-22,Complete
+Upgrade Device,2024-12-29,2600279,William Wright,2149316798,AT&T United States,,,2025-01-03,Complete
+Suspend Service,2026-01-26,2600280,Ahmed Martin,3052316837,AT&T United States,,,2026-02-02,Complete
+Upgrade Device,2025-05-27,2600281,Liam Scott,4155717786,AT&T United States,,,2025-06-03,Complete
+Change Plan / Feature,2024-05-22,2600282,Mary Lee,6315994189,Verizon United States,,,2024-05-27,Complete
+Change Plan / Feature,2024-12-06,2600283,Leila Davis,2148428737,AT&T United States,,,2024-12-11,Complete
+Change Plan / Feature,2025-12-28,2600284,Andrew Davis,4046108536,AT&T United States,,,2025-12-30,Complete
+Change Plan / Feature,2026-04-22,2600285,Mateo Robinson,6464701261,Verizon United States,,,2026-04-22,Complete
+Lost / Stolen Device,2026-04-25,2600286,Mateo Chen,2124544925,Verizon United States,,,2026-04-25,Complete
+Upgrade Device,2026-01-24,2600287,Noah Johnson,9733221163,Verizon United States,,,2026-01-30,Complete
+Suspend Service,2024-01-03,2600288,Ava White,2146112275,AT&T United States,,,2024-01-03,Complete
+Travel Request,2025-06-04,2600289,Charles Lee,5036497372,T-Mobile United States,2025-06-12,2025-06-30,2025-06-04,Complete
+Suspend Service,2024-02-14,2600290,Carlos Harris,3122315556,AT&T United States,,,2024-02-19,Complete
+Transfer of Liability,2024-07-26,2600291,Nancy Rodriguez,9179769499,Verizon United States,,,2024-08-01,Complete
+Upgrade Device,2025-11-07,2600292,James Wilson,2146143232,AT&T United States,,,2025-11-12,Complete
+Travel Request,2025-04-01,2600293,Yuki Scott,5145497111,Rogers Canada,2025-04-19,2025-04-28,2025-04-09,Complete
+Travel Request,2026-05-23,2600294,Anthony Baker,6315084500,Verizon United States,2026-06-05,2026-06-17,2026-05-25,Complete
+Order New Device and Service,2024-05-10,2600295,David Williams,9174028740,Verizon United States,,,2024-05-16,Complete
+Suspend Service,2024-01-24,2600296,Linda Chen,9739421290,Verizon United States,,,2024-01-30,Complete
+Order New Device and Service,2024-10-31,2600297,Michael Patel,2149286395,AT&T United States,,,2024-11-05,Complete
+Transfer of Liability,2024-12-19,2600298,Melissa Hill,7029997758,T-Mobile United States,,,2024-12-20,Complete
+Change Plan / Feature,2026-04-16,2600299,Ethan Nelson,2064147882,T-Mobile United States,,,2026-04-22,Complete
+Transfer of Liability,2025-01-07,2600300,Richard King,4373664974,Rogers Canada,,,2025-01-15,Complete
+Order New Device and Service,2026-08-26,2600301,Ethan Tremblay,2065916366,T-Mobile United States,,,2026-09-02,Complete
+Upgrade Device,2026-01-01,2600302,Raj Torres,6044825067,Rogers Canada,,,2026-01-02,Complete
+Order New Device and Service,2025-09-08,2600303,Melissa Martin,2122858821,Verizon United States,,,2025-09-12,Complete
+Suspend Service,2026-04-23,2600304,Joseph Tremblay,3053766150,AT&T United States,,,2026-05-01,Complete
+Lost / Stolen Device,2024-08-04,2600305,Richard Thomas,4156929163,AT&T United States,,,,Cancelled
+Travel Request,2026-05-28,2600306,Robert Anderson,6318755901,Verizon United States,2026-06-10,2026-06-28,,In Progress
+Travel Request,2024-06-20,2600307,Raj Harris,2124263683,Verizon United States,2024-07-18,2024-07-25,2024-06-25,Complete
+Upgrade Device,2024-03-28,2600308,Liam Hall,4043008605,AT&T United States,,,2024-04-04,Complete
+Change Plan / Feature,2025-11-11,2600309,Mateo Kim,2012523267,Verizon United States,,,2025-11-17,Complete
+Travel Request,2024-08-20,2600310,Mary Rodriguez,9736392111,Verizon United States,2024-09-10,2024-09-27,2024-08-28,Complete
+Upgrade Device,2024-11-13,2600311,Charles Allen,4163978621,Bell Canada,,,,In Progress
+Upgrade Device,2024-09-10,2600312,Mia Nelson,2127900721,Verizon United States,,,2024-09-18,Complete
+Order New Device and Service,2025-04-09,2600313,Yuki Lee,5149767001,Rogers Canada,,,2025-04-14,Complete
+Disconnect Service,2024-10-29,2600314,Thomas Adams,2144649309,AT&T United States,,,2024-11-01,Complete
+Disconnect Service,2026-01-18,2600315,Yuki Lee,5149767001,Rogers Canada,,,2026-01-23,Complete
+Order New Device and Service,2025-05-28,2600316,Hiroshi Perez,3052401492,AT&T United States,,,2025-06-04,Complete
+Upgrade Device,2026-05-07,2600317,Paul Lewis,9735239559,Verizon United States,,,2026-05-11,Complete
+Change Plan / Feature,2026-08-04,2600318,Michelle Hernandez,5142289804,Rogers Canada,,,2026-08-12,Complete
+Change Plan / Feature,2026-03-24,2600319,William Wright,4047295377,AT&T United States,,,2026-03-26,Complete
+Disconnect Service,2026-05-14,2600320,Zoe Singh,9176977753,Verizon United States,,,,In Progress
+Suspend Service,2025-10-14,2600321,Sandra Rodriguez,6049021661,Rogers Canada,,,2025-10-22,Complete
+Travel Request,2026-07-26,2600322,Raj Flores,6475077742,Bell Canada,2026-08-21,2026-09-10,2026-07-27,Complete
+Disconnect Service,2024-01-03,2600323,Stephanie Baker,6462716322,Verizon United States,,,2024-01-09,Complete
+Travel Request,2024-11-26,2600324,David Martinez,3123646030,AT&T United States,2024-12-22,2025-01-06,2024-11-29,Complete
+Change Plan / Feature,2024-11-14,2600325,Raj Thomas,9175080397,Verizon United States,,,2024-11-20,Complete
+Travel Request,2024-10-12,2600326,Melissa Martinez,4808722248,T-Mobile United States,2024-10-20,2024-10-30,2024-10-14,Complete
+Travel Request,2025-08-06,2600327,Paul Rivera,4158898053,AT&T United States,2025-08-14,2025-08-21,2025-08-06,Complete
+Disconnect Service,2026-04-25,2600328,Carlos Ramirez,2128546652,Verizon United States,,,2026-05-01,Complete
+Travel Request,2025-11-16,2600329,Michael Thompson,6315621071,Verizon United States,2025-11-28,2025-12-12,2025-11-24,Complete
+Lost / Stolen Device,2024-01-27,2600330,Chloe Cohen,2126770606,Verizon United States,,,2024-01-30,Complete
+Travel Request,2024-09-19,2600331,Mateo Adams,2015288672,Verizon United States,2024-10-04,2024-10-14,2024-09-27,Complete
+Suspend Service,2026-03-08,2600332,Mia Davis,6466408505,Verizon United States,,,2026-03-12,Complete
+Upgrade Device,2025-06-18,2600333,Mark Perez,9174317711,Verizon United States,,,,Cancelled
+Lost / Stolen Device,2024-06-16,2600334,Mary Rodriguez,9736392111,Verizon United States,,,2024-06-18,Complete
+Upgrade Device,2024-01-21,2600335,Anthony Lee,9053457595,Bell Canada,,,,In Progress
+Order New Device and Service,2024-05-28,2600336,Jennifer Martin,2017843677,Verizon United States,,,2024-06-04,Complete
+Change Plan / Feature,2024-06-17,2600337,Kevin Patel,4152154598,AT&T United States,,,2024-06-17,Complete
+Change Plan / Feature,2025-10-21,2600338,Mary Flores,3124403431,AT&T United States,,,2025-10-24,Complete
+Travel Request,2024-02-21,2600339,Lisa Wilson,6319979648,Verizon United States,2024-03-19,2024-03-22,2024-02-26,Complete
+Upgrade Device,2024-05-12,2600340,Ethan Anderson,2067313448,T-Mobile United States,,,2024-05-20,Complete
+Disconnect Service,2024-03-30,2600341,Ashley Roberts,6318196047,Verizon United States,,,,In Progress
+Travel Request,2024-06-18,2600342,Sarah Wilson,6479154311,Bell Canada,2024-07-10,2024-07-18,2024-06-20,Complete
+Travel Request,2025-07-03,2600343,Ana Nguyen,4048195356,AT&T United States,2025-08-02,2025-08-17,2025-07-11,Complete
+Travel Request,2026-07-11,2600344,Ana Walker,9178992955,Verizon United States,2026-08-03,2026-08-14,2026-07-17,Complete
+Order New Device and Service,2026-05-01,2600345,Sarah Patel,9176668524,Verizon United States,,,2026-05-04,Complete
+Upgrade Device,2025-03-25,2600346,Noah Jones,9175391436,Verizon United States,,,2025-04-02,Complete
+Suspend Service,2024-06-18,2600347,Ava White,2146112275,AT&T United States,,,2024-06-21,Complete
+Lost / Stolen Device,2025-06-02,2600348,Sofia Nguyen,6475578569,Bell Canada,,,2025-06-02,Complete
+Suspend Service,2024-09-19,2600349,Jennifer Campbell,2014762790,Verizon United States,,,2024-09-24,Complete
+Suspend Service,2026-05-26,2600350,Emily White,9736541854,Verizon United States,,,2026-05-29,Complete
+Order New Device and Service,2026-03-06,2600351,Andrew Martinez,9176607719,Verizon United States,,,2026-03-12,Complete
+Lost / Stolen Device,2024-09-10,2600352,Daniel Campbell,2014370774,Verizon United States,,,2024-09-13,Complete
+Disconnect Service,2025-04-18,2600353,Carlos Martin,6317789809,Verizon United States,,,,In Progress
+Lost / Stolen Device,2026-01-18,2600354,Lisa Sanchez,4045119293,AT&T United States,,,2026-01-22,Complete
+Travel Request,2026-06-05,2600355,Kevin Carter,9732982906,Verizon United States,2026-06-20,2026-06-23,2026-06-09,Complete
+Upgrade Device,2025-02-01,2600356,Mark Harris,9172955056,Verizon United States,,,2025-02-04,Complete
+Order New Device and Service,2026-09-05,2600357,Jessica Anderson,2129653764,Verizon United States,,,2026-09-07,Complete
+Change Plan / Feature,2025-05-18,2600358,Yuki Wright,2128896436,Verizon United States,,,2025-05-26,Complete
+Upgrade Device,2024-02-10,2600359,David Martinez,9172392350,Verizon United States,,,2024-02-13,Complete
+Upgrade Device,2024-12-16,2600360,Ava Carter,2018254466,Verizon United States,,,,Cancelled
+Suspend Service,2024-11-01,2600361,John Allen,9736441071,Verizon United States,,,2024-11-08,Complete
+Travel Request,2025-06-14,2600362,Yuki Wright,2128896436,Verizon United States,2025-06-26,2025-07-15,,Cancelled
+Travel Request,2025-08-06,2600363,Stephanie Lee,6466523614,Verizon United States,2025-08-30,2025-09-15,2025-08-12,Complete
+Upgrade Device,2026-08-16,2600364,Wei Lopez,4165019329,Bell Canada,,,2026-08-20,Complete
+Disconnect Service,2026-04-19,2600365,Ethan Martin,9056073476,Bell Canada,,,2026-04-19,Complete
+Order New Device and Service,2025-07-28,2600366,Brian Smith,4049682430,AT&T United States,,,,Cancelled
+Travel Request,2024-01-18,2600367,Amanda Williams,2142389769,AT&T United States,2024-01-29,2024-02-16,2024-01-19,Complete
+Change Plan / Feature,2025-04-03,2600368,Mateo Baker,5032442095,T-Mobile United States,,,2025-04-10,Complete
+Travel Request,2024-10-16,2600369,David Flores,2065860665,T-Mobile United States,2024-11-11,2024-11-26,2024-10-23,Complete
+Travel Request,2025-11-12,2600370,Olga Gonzalez,5034861759,T-Mobile United States,2025-11-20,2025-11-29,2025-11-12,Complete
+Order New Device and Service,2024-01-05,2600371,Steven Young,2129997993,Verizon United States,,,2024-01-10,Complete
+Change Plan / Feature,2025-01-15,2600372,Thomas White,6469387287,Verizon United States,,,2025-01-17,Complete
+Travel Request,2024-01-23,2600373,Susan Ramirez,3129439431,AT&T United States,2024-02-22,2024-03-01,2024-01-24,Complete
+Order New Device and Service,2024-09-11,2600374,Joshua Rodriguez,5035136613,T-Mobile United States,,,2024-09-11,Complete
+Suspend Service,2026-06-20,2600375,Kevin Thomas,9178113788,Verizon United States,,,2026-06-22,Complete
+Travel Request,2026-03-30,2600376,Raj Carter,6465017543,Verizon United States,2026-04-22,2026-04-29,,Cancelled
+Travel Request,2026-03-25,2600377,John Roy,9739403509,Verizon United States,2026-04-05,2026-04-23,2026-03-31,Complete
+Order New Device and Service,2025-09-10,2600378,Anthony Harris,2065297004,T-Mobile United States,,,2025-09-10,Complete
+Travel Request,2026-07-28,2600379,Noah Carter,6463453634,Verizon United States,2026-08-08,2026-08-15,2026-08-05,Complete
+Order New Device and Service,2024-01-04,2600380,Steven Williams,9733791070,Verizon United States,,,2024-01-08,Complete
+Order New Device and Service,2024-01-12,2600381,Ana Walker,9178992955,Verizon United States,,,2024-01-17,Complete
+Change Plan / Feature,2026-02-03,2600382,Daniel Hernandez,2126370849,Verizon United States,,,2026-02-06,Complete
+Change Plan / Feature,2024-02-15,2600383,Amanda Ramirez,4803214145,T-Mobile United States,,,2024-02-19,Complete
+Upgrade Device,2024-03-12,2600384,Sandra Scott,2018331244,Verizon United States,,,2024-03-20,Complete
+Travel Request,2024-08-22,2600385,Mary Lopez,4806537531,T-Mobile United States,2024-09-16,2024-10-05,,Cancelled
+Upgrade Device,2024-01-10,2600386,Chloe Flores,3129599059,AT&T United States,,,2024-01-11,Complete
+Change Plan / Feature,2025-02-02,2600387,Olga Hernandez,4806428081,T-Mobile United States,,,2025-02-05,Complete
+Upgrade Device,2025-02-23,2600388,David Walker,2015212780,Verizon United States,,,2025-02-24,Complete
+Upgrade Device,2025-10-07,2600389,Karen Hernandez,4045208944,AT&T United States,,,2025-10-15,Complete
+Suspend Service,2026-03-06,2600390,Priya Cohen,9178524718,Verizon United States,,,2026-03-16,Complete
+Suspend Service,2024-04-20,2600391,Stephanie Anderson,3058517551,AT&T United States,,,2024-04-29,Complete
+Travel Request,2024-10-10,2600392,Raj Harris,2124263683,Verizon United States,2024-10-20,2024-10-25,2024-10-11,Complete
+Upgrade Device,2024-07-17,2600393,Yuki Scott,5145497111,Rogers Canada,,,2024-07-23,Complete
+Travel Request,2026-07-30,2600394,Zoe Miller,5037242726,T-Mobile United States,2026-08-07,2026-08-16,2026-08-06,Complete
+Order New Device and Service,2025-08-02,2600395,Sarah Green,9177772718,Verizon United States,,,,In Progress
+Change Plan / Feature,2025-05-18,2600396,Melissa Mitchell,5033437697,T-Mobile United States,,,2025-05-26,Complete
+Change Plan / Feature,2024-08-28,2600397,Michael Thompson,6315621071,Verizon United States,,,2024-09-03,Complete
+Upgrade Device,2025-03-21,2600398,Ana Torres,3104652668,AT&T United States,,,2025-03-28,Complete
+Travel Request,2024-11-12,2600399,Emily Anderson,7025275950,T-Mobile United States,2024-12-02,2024-12-22,,Cancelled
+Change Plan / Feature,2024-12-20,2600400,Thomas Mitchell,9056925416,Bell Canada,,,2024-12-26,Complete
+Order New Device and Service,2025-08-26,2600401,Susan Baker,9174053154,Verizon United States,,,2025-09-02,Complete
+Order New Device and Service,2024-05-09,2600402,John Allen,9736441071,Verizon United States,,,2024-05-17,Complete
+Change Plan / Feature,2025-05-06,2600403,Michael Scott,4164716014,Bell Canada,,,,Cancelled
+Transfer of Liability,2024-04-08,2600404,Mia Taylor,4375840971,Rogers Canada,,,2024-04-08,Complete
+Suspend Service,2025-11-09,2600405,Raj Flores,6475077742,Bell Canada,,,2025-11-10,Complete
+Transfer of Liability,2025-03-24,2600406,Hiroshi Clark,2012109790,Verizon United States,,,2025-03-26,Complete
+Lost / Stolen Device,2024-04-20,2600407,Mateo Adams,2129400220,Verizon United States,,,,Cancelled
+Upgrade Device,2025-09-30,2600408,Leila Lewis,2127343287,Verizon United States,,,2025-10-03,Complete
+Disconnect Service,2024-10-28,2600409,Raj Torres,6044825067,Rogers Canada,,,,In Progress
+Transfer of Liability,2025-09-28,2600410,Karen Moore,2129014916,Verizon United States,,,2025-10-03,Complete
+Upgrade Device,2025-02-08,2600411,Paul Rivera,4044909859,AT&T United States,,,2025-02-10,Complete
+Travel Request,2024-06-25,2600412,Stephanie Brown,3124544706,AT&T United States,2024-07-25,2024-08-01,,Cancelled
+Suspend Service,2025-04-18,2600413,Wei Hall,4809171902,T-Mobile United States,,,2025-04-22,Complete
+Upgrade Device,2025-05-18,2600414,William Jones,5036344441,T-Mobile United States,,,2025-05-18,Complete
+Change Plan / Feature,2024-03-14,2600415,Mateo Kim,2125001404,Verizon United States,,,2024-03-18,Complete
+Order New Device and Service,2025-01-10,2600416,Amanda Williams,2142389769,AT&T United States,,,2025-01-20,Complete
+Change Plan / Feature,2025-02-27,2600417,Ava Young,2127410987,Verizon United States,,,2025-02-27,Complete
+Transfer of Liability,2024-03-31,2600418,Karen Torres,7027877748,T-Mobile United States,,,,Cancelled
+Travel Request,2024-09-30,2600419,Robert Williams,2014764129,Verizon United States,2024-10-09,2024-10-13,2024-10-04,Complete
+Order New Device and Service,2026-02-26,2600420,Jessica Ramirez,7028100267,T-Mobile United States,,,2026-02-27,Complete
+Disconnect Service,2025-11-05,2600421,Jennifer Campbell,2014762790,Verizon United States,,,2025-11-13,Complete
+Upgrade Device,2025-10-17,2600422,Fatima Green,9173436577,Verizon United States,,,2025-10-23,Complete
+Change Plan / Feature,2024-02-11,2600423,Wei Lopez,4165019329,Bell Canada,,,2024-02-14,Complete
+Upgrade Device,2024-03-07,2600424,Stephanie Sanchez,9176379975,Verizon United States,,,2024-03-07,Complete
+Upgrade Device,2025-04-20,2600425,William Clark,6044710778,Rogers Canada,,,2025-04-28,Complete
+Lost / Stolen Device,2025-08-16,2600426,Hiroshi Clark,2012196268,Verizon United States,,,2025-08-19,Complete
+Order New Device and Service,2026-04-02,2600427,Priya Cohen,9178524718,Verizon United States,,,2026-04-02,Complete
+Suspend Service,2024-01-26,2600428,Olga Lopez,9052048618,Bell Canada,,,2024-01-30,Complete
+Disconnect Service,2025-02-03,2600429,Omar Singh,4045906473,AT&T United States,,,2025-02-10,Complete
+Lost / Stolen Device,2024-09-29,2600430,Charles Harris,3054981093,AT&T United States,,,2024-10-02,Complete
+Travel Request,2024-10-20,2600431,Barbara Williams,2145843363,AT&T United States,2024-11-07,2024-11-26,2024-10-22,Complete
+Order New Device and Service,2026-01-11,2600432,Sandra Scott,2018306076,Verizon United States,,,,Cancelled
+Upgrade Device,2024-12-10,2600433,Mia Nelson,2127900721,Verizon United States,,,2024-12-11,Complete
+Upgrade Device,2026-05-07,2600434,Mateo Kim,6475725534,Bell Canada,,,2026-05-11,Complete
+Transfer of Liability,2026-01-24,2600435,Melissa Ramirez,6464343322,Verizon United States,,,2026-01-24,Complete
+Order New Device and Service,2026-05-07,2600436,Jessica Campbell,2016841915,Verizon United States,,,,Cancelled
+Travel Request,2026-01-26,2600437,Wei Lopez,4165019329,Bell Canada,2026-02-18,2026-03-06,2026-01-28,Complete
+Upgrade Device,2024-11-15,2600438,Carlos Flores,2125464092,Verizon United States,,,2024-11-25,Complete
+Disconnect Service,2026-06-23,2600439,Ava Young,2127410987,Verizon United States,,,2026-06-30,Complete
+Travel Request,2026-05-19,2600440,Jessica Ramirez,7028100267,T-Mobile United States,2026-05-30,2026-06-19,2026-05-22,Complete
+Travel Request,2025-03-05,2600441,Susan Lewis,9057579341,Bell Canada,2025-03-24,2025-04-09,2025-03-07,Complete
+Upgrade Device,2025-12-31,2600442,Richard King,4042651112,AT&T United States,,,2026-01-02,Complete
+Upgrade Device,2026-09-16,2600443,Mateo Baker,5032442095,T-Mobile United States,,,2026-09-22,Complete
+Travel Request,2024-03-08,2600444,Karen Hernandez,6313261241,Verizon United States,2024-04-06,2024-04-19,2024-03-15,Complete
+Upgrade Device,2025-03-12,2600445,Olga Gonzalez,5034861759,T-Mobile United States,,,2025-03-13,Complete
+Order New Device and Service,2025-11-14,2600446,Carlos Patel,6315637354,Verizon United States,,,2025-11-24,Complete
+Order New Device and Service,2026-06-22,2600447,Hiroshi Carter,6465587245,Verizon United States,,,2026-06-22,Complete
+Change Plan / Feature,2025-07-14,2600448,Sarah Kim,4375508504,Rogers Canada,,,2025-07-18,Complete
+Travel Request,2026-02-05,2600449,Carlos Smith,4164490915,Bell Canada,2026-03-02,2026-03-21,2026-02-05,Complete
+Lost / Stolen Device,2024-09-14,2600450,Olga Walker,6469977998,Verizon United States,,,2024-09-17,Complete
+Order New Device and Service,2024-05-25,2600451,Ashley Roberts,6318196047,Verizon United States,,,2024-05-29,Complete
+Change Plan / Feature,2026-02-02,2600452,Melissa Nguyen,3059534380,AT&T United States,,,2026-02-06,Complete
+Upgrade Device,2025-01-20,2600453,Ava Lopez,3056727523,AT&T United States,,,,Cancelled
+Order New Device and Service,2026-06-12,2600454,Paul Lewis,3108792402,AT&T United States,,,2026-06-16,Complete
+Suspend Service,2024-03-26,2600455,William Hernandez,9737893393,Verizon United States,,,2024-04-03,Complete
+Travel Request,2024-03-11,2600456,Paul Rivera,4043612761,AT&T United States,2024-03-22,2024-04-02,2024-03-15,Complete
+Order New Device and Service,2024-09-09,2600457,Ahmed Martin,3052316837,AT&T United States,,,2024-09-10,Complete
+Order New Device and Service,2025-07-27,2600458,Karen Thomas,2066706350,T-Mobile United States,,,2025-07-31,Complete
+Travel Request,2024-03-10,2600459,Brian Patel,9056168515,Bell Canada,2024-03-24,2024-04-11,2024-03-13,Complete
+Travel Request,2025-08-28,2600460,Mary Walker,5034533844,T-Mobile United States,2025-08-31,2025-09-05,2025-09-01,Complete
+Transfer of Liability,2024-02-02,2600461,Jessica Patel,6468154643,Verizon United States,,,2024-02-09,Complete
+Transfer of Liability,2025-05-10,2600462,Daniel Campbell,7027532612,T-Mobile United States,,,2025-05-19,Complete
+Order New Device and Service,2025-09-27,2600463,Betty Taylor,5147065848,Rogers Canada,,,2025-09-30,Complete
+Upgrade Device,2026-04-23,2600464,Karen Hernandez,6313261241,Verizon United States,,,2026-04-24,Complete
+Disconnect Service,2024-07-24,2600465,Ahmed Campbell,2145678311,AT&T United States,,,2024-07-30,Complete
+Suspend Service,2026-07-26,2600466,Priya Scott,2147031310,AT&T United States,,,2026-07-27,Complete
+Disconnect Service,2025-06-01,2600467,Amanda Ramirez,4803214145,T-Mobile United States,,,2025-06-03,Complete
+Order New Device and Service,2026-02-13,2600468,Ana King,4045880424,AT&T United States,,,2026-02-13,Complete
+Travel Request,2024-11-27,2600469,Yuki Flores,2015764508,Verizon United States,2024-12-19,2024-12-31,2024-12-02,Complete
+Order New Device and Service,2024-10-15,2600470,Anthony Baker,6315084500,Verizon United States,,,2024-10-18,Complete
+Travel Request,2024-09-13,2600471,Ethan Mitchell,6462284023,Verizon United States,2024-10-07,2024-10-14,2024-09-20,Complete
+Suspend Service,2024-11-19,2600472,Ahmed Martin,9057739915,Bell Canada,,,2024-11-25,Complete
+Order New Device and Service,2024-11-14,2600473,Stephanie Baker,6319249685,Verizon United States,,,2024-11-18,Complete
+Travel Request,2025-10-01,2600474,Olga Walker,6469977998,Verizon United States,2025-10-24,2025-11-07,2025-10-09,Complete
+Upgrade Device,2024-09-15,2600475,Stephanie Brown,3124544706,AT&T United States,,,2024-09-15,Complete
+Change Plan / Feature,2024-03-26,2600476,Joseph Allen,6469870840,Verizon United States,,,2024-04-03,Complete
+Change Plan / Feature,2025-03-13,2600477,Mia Davis,6466408505,Verizon United States,,,2025-03-18,Complete
+Upgrade Device,2024-03-04,2600478,Leila Lewis,2127343287,Verizon United States,,,2024-03-05,Complete
+Upgrade Device,2025-12-03,2600479,Anthony Thomas,2125349053,Verizon United States,,,2025-12-09,Complete
+Order New Device and Service,2024-06-16,2600480,Linda Taylor,9735410870,Verizon United States,,,2024-06-16,Complete
+Travel Request,2025-11-23,2600481,Noah Robinson,2015516542,Verizon United States,2025-12-16,2026-01-03,2025-11-25,Complete
+Order New Device and Service,2026-08-10,2600482,Anthony Thomas,2125349053,Verizon United States,,,2026-08-14,Complete
+Suspend Service,2026-05-18,2600483,Raj Carter,6465017543,Verizon United States,,,2026-05-18,Complete
+Upgrade Device,2024-08-11,2600484,Mateo Kim,2012523267,Verizon United States,,,2024-08-13,Complete
+Change Plan / Feature,2025-10-07,2600485,Carlos Young,7022397100,T-Mobile United States,,,2025-10-08,Complete
+Upgrade Device,2025-11-24,2600486,Carlos Flores,2125464092,Verizon United States,,,2025-11-26,Complete
+Travel Request,2025-06-15,2600487,Zoe Young,9177922280,Verizon United States,2025-07-11,2025-07-14,2025-06-23,Complete
+Suspend Service,2024-08-23,2600488,Melissa Brown,2013038045,Verizon United States,,,2024-09-02,Complete
+Order New Device and Service,2026-07-07,2600489,Joshua Rodriguez,5035136613,T-Mobile United States,,,2026-07-07,Complete
+Travel Request,2024-05-05,2600490,Patricia Scott,6045133143,Rogers Canada,2024-05-11,2024-05-31,2024-05-06,Complete
+Suspend Service,2024-10-21,2600491,Mateo Young,4162749829,Bell Canada,,,2024-10-22,Complete
+Disconnect Service,2025-01-09,2600492,Stephanie Anderson,3058517551,AT&T United States,,,2025-01-10,Complete
+Upgrade Device,2024-11-09,2600493,Jennifer Young,2147324423,AT&T United States,,,,Cancelled
+Order New Device and Service,2025-12-16,2600494,Amanda Harris,6472065229,Bell Canada,,,,Cancelled
+Travel Request,2025-08-14,2600495,Stephanie Baker,9733828335,Verizon United States,2025-09-05,2025-09-13,2025-08-21,Complete
+Order New Device and Service,2026-08-25,2600496,Mateo Kim,6475725534,Bell Canada,,,2026-08-25,Complete
+Disconnect Service,2025-11-04,2600497,Mark Perez,9174317711,Verizon United States,,,2025-11-05,Complete
+Upgrade Device,2024-09-06,2600498,Sandra Garcia,4378822514,Rogers Canada,,,2024-09-13,Complete
+Transfer of Liability,2025-12-13,2600499,Priya Lopez,6042738899,Rogers Canada,,,2025-12-22,Complete
+Transfer of Liability,2026-01-28,2600500,Olga Gonzalez,6463550376,Verizon United States,,,2026-01-29,Complete
+Transfer of Liability,2025-09-05,2600501,Susan Carter,9177486939,Verizon United States,,,2025-09-08,Complete
+Change Plan / Feature,2025-10-11,2600502,Leila Moore,2125185549,Verizon United States,,,2025-10-17,Complete
+Change Plan / Feature,2026-03-19,2600503,James Clark,2017740144,Verizon United States,,,2026-03-19,Complete
+Order New Device and Service,2026-08-09,2600504,Mia Brown,6316694536,Verizon United States,,,2026-08-09,Complete
+Travel Request,2024-10-27,2600505,Yuki Campbell,7029550447,T-Mobile United States,2024-11-24,2024-12-04,2024-10-31,Complete
+Upgrade Device,2025-03-22,2600506,Mia Nelson,2066872860,T-Mobile United States,,,,Cancelled
+Order New Device and Service,2024-04-21,2600507,Hiroshi Brown,3103547514,AT&T United States,,,2024-04-24,Complete
+Lost / Stolen Device,2026-06-22,2600508,Mateo Rodriguez,9739798644,Verizon United States,,,2026-06-23,Complete
+Upgrade Device,2024-11-06,2600509,Ahmed Campbell,6047911672,Rogers Canada,,,2024-11-06,Complete
+Travel Request,2025-12-05,2600510,Barbara Williams,2145843363,AT&T United States,2025-12-30,2026-01-19,,Cancelled
+Upgrade Device,2024-02-17,2600511,Steven Thompson,4049525747,AT&T United States,,,2024-02-26,Complete
+Upgrade Device,2025-08-10,2600512,James Nelson,5145983485,Rogers Canada,,,2025-08-13,Complete
+Travel Request,2026-08-25,2600513,Olga Gonzalez,5034861759,T-Mobile United States,2026-09-10,2026-09-23,2026-08-25,Complete
+Transfer of Liability,2026-05-10,2600514,Yuki Green,3128938622,AT&T United States,,,,Cancelled
+Upgrade Device,2025-03-22,2600515,Ashley Roberts,6318196047,Verizon United States,,,2025-03-31,Complete
+Upgrade Device,2025-11-27,2600516,Raj Thomas,9175080397,Verizon United States,,,2025-12-05,Complete
+Change Plan / Feature,2024-08-21,2600517,Robert Rodriguez,3109008834,AT&T United States,,,2024-08-27,Complete
+Suspend Service,2025-08-07,2600518,Ana Nguyen,4048195356,AT&T United States,,,2025-08-14,Complete
+Transfer of Liability,2024-11-29,2600519,Ashley Jones,6043374170,Rogers Canada,,,2024-11-29,Complete
+Order New Device and Service,2025-05-31,2600520,Chloe White,9176989038,Verizon United States,,,2025-06-03,Complete
+Travel Request,2026-04-09,2600521,Anthony Thomas,2017049359,Verizon United States,2026-04-27,2026-05-16,2026-04-13,Complete
+Order New Device and Service,2025-11-03,2600522,Wei Johnson,3102389308,AT&T United States,,,2025-11-04,Complete
+Suspend Service,2025-12-03,2600523,William Wright,4047295377,AT&T United States,,,2025-12-04,Complete
+Disconnect Service,2025-02-02,2600524,Brian Sanchez,4155246249,AT&T United States,,,2025-02-04,Complete
+Change Plan / Feature,2025-12-26,2600525,Yuki Wright,2128896436,Verizon United States,,,2025-12-26,Complete
+Suspend Service,2025-08-11,2600526,Nancy Garcia,3106497478,AT&T United States,,,2025-08-15,Complete
+Travel Request,2024-11-16,2600527,Brian Patel,9056168515,Bell Canada,2024-12-16,2024-12-20,2024-11-19,Complete
+Change Plan / Feature,2026-01-16,2600528,Ahmed Young,5032788430,T-Mobile United States,,,2026-01-20,Complete
+Lost / Stolen Device,2024-01-06,2600529,Jennifer Young,2147324423,AT&T United States,,,2024-01-11,Complete
+Suspend Service,2025-09-03,2600530,Michael Thompson,6315621071,Verizon United States,,,2025-09-03,Complete
+Upgrade Device,2025-11-15,2600531,Steven Young,2129997993,Verizon United States,,,2025-11-18,Complete
+Disconnect Service,2024-02-05,2600532,Nancy Lee,4152453460,AT&T United States,,,2024-02-07,Complete
+Change Plan / Feature,2025-07-05,2600533,Melissa Martin,2122858821,Verizon United States,,,2025-07-08,Complete
+Travel Request,2025-03-17,2600534,Betty White,9177640514,Verizon United States,2025-04-06,2025-04-20,2025-03-24,Complete
+Disconnect Service,2026-08-05,2600535,Olga Taylor,2066627485,T-Mobile United States,,,2026-08-07,Complete
+Upgrade Device,2024-06-08,2600536,Thomas Hernandez,9173662911,Verizon United States,,,2024-06-08,Complete
+Order New Device and Service,2025-12-04,2600537,Jessica Anderson,2129653764,Verizon United States,,,2025-12-08,Complete
+Travel Request,2024-08-16,2600538,Mark Perez,9174317711,Verizon United States,2024-09-06,2024-09-10,2024-08-21,Complete
+Disconnect Service,2024-11-18,2600539,Nancy Thomas,9178462897,Verizon United States,,,2024-11-21,Complete
+Change Plan / Feature,2024-06-28,2600540,Mia Anderson,6463588247,Verizon United States,,,2024-07-03,Complete
+Change Plan / Feature,2024-10-31,2600541,Patricia Scott,3104976157,AT&T United States,,,2024-10-31,Complete
+Upgrade Device,2024-09-14,2600542,Brian Sanchez,9177624549,Verizon United States,,,2024-09-18,Complete
+Travel Request,2024-06-30,2600543,Karen Torres,7027877748,T-Mobile United States,2024-07-17,2024-07-25,2024-07-03,Complete
+Suspend Service,2026-03-13,2600544,Anthony Lee,9053457595,Bell Canada,,,2026-03-23,Complete
+Upgrade Device,2026-01-20,2600545,Mia Thomas,9737663763,Verizon United States,,,2026-01-22,Complete
+Disconnect Service,2025-04-02,2600546,Olga Gonzalez,6468988653,Verizon United States,,,2025-04-07,Complete
+Upgrade Device,2026-04-06,2600547,Betty Taylor,5147065848,Rogers Canada,,,2026-04-13,Complete
+Travel Request,2024-03-19,2600548,Melissa Brown,6463150682,Verizon United States,2024-03-27,2024-04-17,2024-03-21,Complete
+Upgrade Device,2025-04-11,2600549,Michael Scott,4164716014,Bell Canada,,,2025-04-17,Complete
+Lost / Stolen Device,2024-02-02,2600550,Nancy Adams,7029556586,T-Mobile United States,,,2024-02-05,Complete
+Upgrade Device,2025-10-05,2600551,Sandra Moore,2127351092,Verizon United States,,,2025-10-10,Complete
+Order New Device and Service,2026-02-02,2600552,Mary Lee,6315994189,Verizon United States,,,2026-02-10,Complete
+Disconnect Service,2025-05-04,2600553,Olga Taylor,2066627485,T-Mobile United States,,,2025-05-04,Complete
+Suspend Service,2025-03-30,2600554,Brian Smith,5034145344,T-Mobile United States,,,2025-04-01,Complete
+Travel Request,2024-11-15,2600555,William King,6313739614,Verizon United States,2024-12-09,2024-12-22,2024-11-18,Complete
+Disconnect Service,2026-02-08,2600556,Olga Walker,6469977998,Verizon United States,,,,Cancelled
+Travel Request,2024-04-08,2600557,Mateo Flores,4163040914,Bell Canada,2024-05-03,2024-05-20,2024-04-10,Complete
+Disconnect Service,2026-05-10,2600558,Joshua Singh,3058710812,AT&T United States,,,2026-05-12,Complete
+Disconnect Service,2026-06-16,2600559,Karen Hernandez,3105219856,AT&T United States,,,2026-06-16,Complete
+Change Plan / Feature,2024-09-07,2600560,Yuki Wright,2128896436,Verizon United States,,,2024-09-12,Complete
+Suspend Service,2024-01-02,2600561,Omar Singh,4045906473,AT&T United States,,,2024-01-04,Complete
+Disconnect Service,2025-01-16,2600562,Lisa Ramirez,3058207878,AT&T United States,,,2025-01-24,Complete
+Order New Device and Service,2025-04-12,2600563,Michelle Rivera,2125493102,Verizon United States,,,,Cancelled
+Travel Request,2026-04-29,2600564,Karen Hernandez,6313261241,Verizon United States,2026-05-25,2026-06-04,,Cancelled
+Disconnect Service,2025-10-02,2600565,Patricia Scott,4046659021,AT&T United States,,,2025-10-07,Complete
+Upgrade Device,2025-02-11,2600566,Linda Taylor,9735410870,Verizon United States,,,2025-02-17,Complete
+Change Plan / Feature,2026-09-13,2600567,Emily White,9736541854,Verizon United States,,,,In Progress
+Travel Request,2025-10-25,2600568,Charles Harris,3054981093,AT&T United States,2025-11-24,2025-12-09,2025-10-28,Complete
+Lost / Stolen Device,2024-12-17,2600569,Liam Williams,9178750847,Verizon United States,,,2024-12-17,Complete
+Travel Request,2024-12-06,2600570,Daniel Campbell,2014370774,Verizon United States,2024-12-30,2025-01-18,2024-12-13,Complete
+Change Plan / Feature,2025-05-20,2600571,Paul Lewis,4047112381,AT&T United States,,,2025-05-23,Complete
+Change Plan / Feature,2026-09-12,2600572,James Nelson,5145983485,Rogers Canada,,,2026-09-14,Complete
+Disconnect Service,2025-06-11,2600573,Stephanie Baker,9179890903,Verizon United States,,,2025-06-17,Complete
+Transfer of Liability,2025-08-11,2600574,Fatima Tremblay,3059856607,AT&T United States,,,2025-08-11,Complete
+Transfer of Liability,2024-09-08,2600575,Ana Torres,3104652668,AT&T United States,,,2024-09-16,Complete
+Order New Device and Service,2025-08-05,2600576,Omar Young,4159593318,AT&T United States,,,2025-08-05,Complete
+Transfer of Liability,2024-06-06,2600577,Karen Singh,9736729005,Verizon United States,,,2024-06-14,Complete
+Change Plan / Feature,2025-10-02,2600578,Zoe Rodriguez,2146956168,AT&T United States,,,2025-10-10,Complete
+Disconnect Service,2026-03-06,2600579,Joseph Tremblay,3053766150,AT&T United States,,,2026-03-11,Complete
+Suspend Service,2026-09-19,2600580,Mia Nelson,2066872860,T-Mobile United States,,,,In Progress
+Lost / Stolen Device,2026-09-19,2600581,Zoe Thompson,6317988369,Verizon United States,,,2026-09-22,Complete
+Upgrade Device,2025-08-02,2600582,Daniel Campbell,6468888102,Verizon United States,,,2025-08-11,Complete
+Upgrade Device,2026-05-08,2600583,Liam Williams,9178750847,Verizon United States,,,2026-05-12,Complete
+Travel Request,2025-12-15,2600584,David Martinez,3123646030,AT&T United States,2026-01-02,2026-01-09,,Cancelled
+Lost / Stolen Device,2024-09-04,2600585,Patricia Anderson,4154871884,AT&T United States,,,2024-09-06,Complete
+Travel Request,2026-09-18,2600586,Paul Lewis,4047112381,AT&T United States,2026-10-02,2026-10-19,2026-09-21,Complete
+Upgrade Device,2025-02-16,2600587,Yuki King,4155307035,AT&T United States,,,2025-02-18,Complete
+Disconnect Service,2025-05-07,2600588,Richard Gagnon,4154107992,AT&T United States,,,2025-05-15,Complete
+Change Plan / Feature,2024-09-04,2600589,Paul Lewis,9735239559,Verizon United States,,,2024-09-06,Complete
+Order New Device and Service,2025-04-10,2600590,Andrew Lee,3125695078,AT&T United States,,,2025-04-18,Complete
+Order New Device and Service,2026-04-21,2600591,Mateo Kim,2012523267,Verizon United States,,,2026-04-24,Complete
+Order New Device and Service,2025-03-28,2600592,Anthony Thomas,2148596904,AT&T United States,,,2025-03-31,Complete
+Lost / Stolen Device,2026-01-18,2600593,Joshua Singh,3058710812,AT&T United States,,,2026-01-18,Complete
+Upgrade Device,2026-05-20,2600594,Fatima Tremblay,3059856607,AT&T United States,,,2026-05-27,Complete
+Upgrade Device,2025-10-15,2600595,Ahmed Martin,9057739915,Bell Canada,,,2025-10-20,Complete
+Travel Request,2025-06-07,2600596,Betty Taylor,5147065848,Rogers Canada,2025-06-22,2025-07-04,2025-06-16,Complete
+Lost / Stolen Device,2025-11-14,2600597,Raj Jones,3107364223,AT&T United States,,,2025-11-18,Complete
+Upgrade Device,2024-08-13,2600598,Richard Sanchez,6046109675,Rogers Canada,,,2024-08-14,Complete
+Transfer of Liability,2024-04-08,2600599,Carlos Smith,4164490915,Bell Canada,,,2024-04-11,Complete
+Change Plan / Feature,2024-02-16,2600600,Elizabeth Green,9059014454,Bell Canada,,,2024-02-26,Complete
+Change Plan / Feature,2025-09-18,2600601,David Martinez,2129889126,Verizon United States,,,2025-09-23,Complete
+Travel Request,2024-11-09,2600602,Hiroshi Clark,5146329619,Rogers Canada,2024-11-16,2024-11-20,2024-11-09,Complete
+Upgrade Device,2025-07-05,2600603,Charles Martin,5035531588,T-Mobile United States,,,2025-07-09,Complete
+Order New Device and Service,2026-02-11,2600604,Anthony Roy,3104538673,AT&T United States,,,2026-02-13,Complete
+Upgrade Device,2024-07-28,2600605,Amanda Scott,3123162880,AT&T United States,,,2024-07-28,Complete
+Upgrade Device,2026-08-13,2600606,Melissa Mitchell,5033437697,T-Mobile United States,,,2026-08-18,Complete
+Travel Request,2024-05-10,2600607,Thomas Gonzalez,3104766767,AT&T United States,2024-05-22,2024-05-26,2024-05-14,Complete
+Change Plan / Feature,2024-12-27,2600608,Brian Smith,9733494468,Verizon United States,,,2024-12-30,Complete
+Change Plan / Feature,2026-09-20,2600609,Ethan Hall,4377793027,Rogers Canada,,,2026-09-20,Complete
+Lost / Stolen Device,2025-02-01,2600610,Paul King,2128802750,Verizon United States,,,2025-02-07,Complete
+Travel Request,2026-04-13,2600611,Paul Lewis,9735239559,Verizon United States,2026-05-10,2026-05-16,,In Progress
+Change Plan / Feature,2026-01-07,2600612,Omar Johnson,4164044374,Bell Canada,,,,Cancelled
+Disconnect Service,2025-09-13,2600613,Amanda Ramirez,4803214145,T-Mobile United States,,,2025-09-18,Complete
+Upgrade Device,2024-04-26,2600614,Mateo Adams,2015288672,Verizon United States,,,2024-05-03,Complete
+Upgrade Device,2024-12-08,2600615,Richard Thomas,4156929163,AT&T United States,,,2024-12-08,Complete
+Upgrade Device,2026-01-28,2600616,Liam Williams,9178750847,Verizon United States,,,,Cancelled
+Travel Request,2024-06-23,2600617,Joshua Kim,4169102332,Bell Canada,2024-07-15,2024-08-01,2024-06-26,Complete
+Transfer of Liability,2024-01-09,2600618,Steven Thompson,4049525747,AT&T United States,,,2024-01-16,Complete
+Disconnect Service,2026-07-24,2600619,William Jones,5036344441,T-Mobile United States,,,2026-08-03,Complete
+Order New Device and Service,2026-02-03,2600620,Yuki Flores,2015764508,Verizon United States,,,2026-02-11,Complete
+Disconnect Service,2024-07-03,2600621,Paul Rivera,4044909859,AT&T United States,,,2024-07-11,Complete
+Order New Device and Service,2025-04-02,2600622,Sofia Roy,3058650599,AT&T United States,,,2025-04-03,Complete
+Upgrade Device,2026-08-16,2600623,Joseph Gonzalez,4376352461,Rogers Canada,,,2026-08-19,Complete
+Lost / Stolen Device,2026-04-05,2600624,Sofia Roy,3058650599,AT&T United States,,,2026-04-09,Complete
+Suspend Service,2025-10-29,2600625,Mark Martinez,3108647839,AT&T United States,,,2025-11-05,Complete
+Upgrade Device,2025-09-29,2600626,Amanda Williams,2142389769,AT&T United States,,,2025-10-06,Complete
+Upgrade Device,2025-01-09,2600627,Richard Gagnon,4154107992,AT&T United States,,,2025-01-09,Complete
+Travel Request,2025-08-19,2600628,Joseph Sanchez,9738365511,Verizon United States,2025-08-25,2025-09-11,2025-08-20,Complete
+Lost / Stolen Device,2025-10-27,2600629,Ava White,2146112275,AT&T United States,,,2025-10-27,Complete
+Upgrade Device,2024-10-18,2600630,Michelle Hill,3104675148,AT&T United States,,,2024-10-24,Complete
+Travel Request,2024-12-02,2600631,Ethan Nelson,2064147882,T-Mobile United States,2024-12-22,2025-01-07,2024-12-02,Complete
+Upgrade Device,2026-01-09,2600632,Mateo Chen,2124544925,Verizon United States,,,2026-01-13,Complete
+Transfer of Liability,2025-08-06,2600633,Mateo White,6465833053,Verizon United States,,,2025-08-07,Complete
+Change Plan / Feature,2026-02-17,2600634,William Wright,3124729113,AT&T United States,,,2026-02-20,Complete
+Change Plan / Feature,2025-09-13,2600635,Melissa Brown,2013038045,Verizon United States,,,2025-09-15,Complete
+Upgrade Device,2024-01-25,2600636,Fatima Green,2016897843,Verizon United States,,,2024-02-01,Complete
+Disconnect Service,2025-05-07,2600637,Sarah Gonzalez,2122979189,Verizon United States,,,2025-05-15,Complete
+Change Plan / Feature,2024-12-27,2600638,Noah Carter,6463453634,Verizon United States,,,2024-12-30,Complete
+Change Plan / Feature,2026-08-22,2600639,Ava Garcia,3055995282,AT&T United States,,,2026-08-27,Complete
+Lost / Stolen Device,2025-03-26,2600640,Yuki Young,2127471549,Verizon United States,,,,Cancelled
+Disconnect Service,2024-12-11,2600641,Michael Johnson,2015156968,Verizon United States,,,2024-12-11,Complete
+Change Plan / Feature,2025-01-12,2600642,Michael Patel,2149286395,AT&T United States,,,2025-01-13,Complete
+Order New Device and Service,2026-06-23,2600643,Liam Scott,4155717786,AT&T United States,,,,In Progress
+Lost / Stolen Device,2024-11-21,2600644,Andrew Anderson,3102729360,AT&T United States,,,2024-11-27,Complete
+Travel Request,2025-07-22,2600645,Brian Sanchez,2017020212,Verizon United States,2025-07-30,2025-08-14,,In Progress
+Suspend Service,2026-02-06,2600646,James Nelson,5145983485,Rogers Canada,,,2026-02-10,Complete
+Suspend Service,2025-05-30,2600647,Mia Nelson,2127900721,Verizon United States,,,2025-05-30,Complete
+Travel Request,2024-03-11,2600648,Melissa Brown,2013038045,Verizon United States,2024-04-06,2024-04-10,2024-03-18,Complete
+Travel Request,2026-04-07,2600649,Ahmed Singh,6314705036,Verizon United States,2026-04-17,2026-04-25,2026-04-09,Complete
+Lost / Stolen Device,2025-01-02,2600650,Mark Kim,7022413585,T-Mobile United States,,,2025-01-07,Complete
+Upgrade Device,2026-08-18,2600651,Joshua Taylor,2066087074,T-Mobile United States,,,2026-08-20,Complete
+Disconnect Service,2025-03-03,2600652,Joseph Rodriguez,4154035722,AT&T United States,,,2025-03-10,Complete
+Travel Request,2026-01-17,2600653,Richard Kim,2018003281,Verizon United States,2026-02-07,2026-02-23,2026-01-20,Complete
+Upgrade Device,2026-04-17,2600654,Anthony Martinez,6467462517,Verizon United States,,,2026-04-27,Complete
+Order New Device and Service,2025-08-03,2600655,Olga Nguyen,6464105075,Verizon United States,,,2025-08-06,Complete
+Upgrade Device,2024-05-27,2600656,Noah Johnson,9733221163,Verizon United States,,,2024-05-27,Complete
+Change Plan / Feature,2025-03-17,2600657,Ana King,4045880424,AT&T United States,,,2025-03-25,Complete
+Disconnect Service,2024-12-28,2600658,Daniel Campbell,6468888102,Verizon United States,,,2025-01-06,Complete
+Order New Device and Service,2026-03-16,2600659,Yuki Garcia,2014894312,Verizon United States,,,,Cancelled
+Upgrade Device,2026-03-01,2600660,Anthony Smith,6479506716,Bell Canada,,,2026-03-05,Complete
+Travel Request,2025-07-23,2600661,Anthony Lee,9053457595,Bell Canada,2025-08-12,2025-08-29,2025-07-28,Complete
+Order New Device and Service,2026-04-26,2600662,Mark Perez,9174317711,Verizon United States,,,2026-05-04,Complete
+Disconnect Service,2026-04-15,2600663,Sarah Thompson,6319321841,Verizon United States,,,2026-04-20,Complete
+Upgrade Device,2025-06-25,2600664,Michelle Wilson,9057535421,Bell Canada,,,2025-07-02,Complete
+Order New Device and Service,2025-03-08,2600665,James Nelson,5145983485,Rogers Canada,,,2025-03-11,Complete
+Order New Device and Service,2025-05-13,2600666,Fatima Green,3104695859,AT&T United States,,,,Cancelled
+Order New Device and Service,2025-02-02,2600667,Daniel Campbell,7027532612,T-Mobile United States,,,2025-02-06,Complete
+Upgrade Device,2024-03-22,2600668,James Nelson,5145983485,Rogers Canada,,,2024-03-22,Complete
+Upgrade Device,2025-05-12,2600669,Carlos Young,7022397100,T-Mobile United States,,,2025-05-20,Complete
+Order New Device and Service,2024-12-19,2600670,Betty White,9177640514,Verizon United States,,,2024-12-19,Complete
+Travel Request,2024-10-09,2600671,Anthony Thomas,2148596904,AT&T United States,2024-10-17,2024-10-28,2024-10-09,Complete
+Transfer of Liability,2026-09-19,2600672,Mia Nelson,2127900721,Verizon United States,,,2026-09-22,Complete
+Order New Device and Service,2024-10-26,2600673,Yuki Ramirez,9179783793,Verizon United States,,,2024-10-31,Complete
+Disconnect Service,2025-04-08,2600674,Lisa Sanchez,4045119293,AT&T United States,,,,Cancelled
+Order New Device and Service,2026-01-22,2600675,Sofia Roy,3058650599,AT&T United States,,,2026-01-23,Complete
+Travel Request,2026-04-23,2600676,Ana Torres,3104652668,AT&T United States,2026-05-19,2026-05-25,,Cancelled
+Order New Device and Service,2024-02-03,2600677,Ava Garcia,3055995282,AT&T United States,,,2024-02-07,Complete
+Disconnect Service,2024-09-22,2600678,Yuki Flores,2015764508,Verizon United States,,,2024-09-24,Complete
+Travel Request,2026-04-19,2600679,David Nelson,4803174560,T-Mobile United States,2026-05-07,2026-05-17,2026-04-19,Complete
+Upgrade Device,2025-01-24,2600680,Thomas White,6469387287,Verizon United States,,,2025-02-03,Complete
+Suspend Service,2025-02-01,2600681,Raj Flores,6475077742,Bell Canada,,,2025-02-03,Complete
+Change Plan / Feature,2025-09-07,2600682,Ethan Sanchez,9179782157,Verizon United States,,,2025-09-08,Complete
+Travel Request,2025-04-06,2600683,Thomas Lopez,3058107584,AT&T United States,2025-05-02,2025-05-19,2025-04-11,Complete
+Order New Device and Service,2026-03-16,2600684,Olga Gonzalez,6468988653,Verizon United States,,,2026-03-16,Complete
+Suspend Service,2025-12-19,2600685,Andrew Martinez,9176607719,Verizon United States,,,2025-12-25,Complete
+Suspend Service,2024-05-27,2600686,Thomas Gonzalez,3104766767,AT&T United States,,,2024-05-27,Complete
+Disconnect Service,2024-10-28,2600687,Hiroshi Brown,3103547514,AT&T United States,,,,Cancelled
+Transfer of Liability,2025-05-25,2600688,Elizabeth Gonzalez,2012494999,Verizon United States,,,2025-05-29,Complete
+Disconnect Service,2024-12-12,2600689,Mateo Young,4162749829,Bell Canada,,,,Cancelled
+Suspend Service,2024-06-23,2600690,Chloe Cohen,2126770606,Verizon United States,,,2024-06-27,Complete
+Disconnect Service,2025-09-13,2600691,Robert Hill,9179183074,Verizon United States,,,,In Progress
+Disconnect Service,2024-06-09,2600692,David Martinez,4804896336,T-Mobile United States,,,2024-06-12,Complete
+Travel Request,2024-07-17,2600693,Nancy Chen,4376709345,Rogers Canada,2024-08-02,2024-08-08,2024-07-24,Complete
+Suspend Service,2025-11-10,2600694,Andrew Lee,3125695078,AT&T United States,,,2025-11-13,Complete
+Order New Device and Service,2025-08-12,2600695,Robert Clark,6319530861,Verizon United States,,,2025-08-12,Complete
+Order New Device and Service,2025-03-09,2600696,Paul Rivera,4808147695,T-Mobile United States,,,2025-03-13,Complete
+Travel Request,2025-11-25,2600697,Priya Cohen,9178524718,Verizon United States,2025-11-29,2025-12-14,2025-11-28,Complete
+Travel Request,2024-02-07,2600698,Carlos Ramirez,2128546652,Verizon United States,2024-02-11,2024-03-02,2024-02-14,Complete
+Upgrade Device,2024-07-22,2600699,William King,6313739614,Verizon United States,,,2024-07-29,Complete
+Upgrade Device,2024-06-24,2600700,Olga Cohen,2015985113,Verizon United States,,,2024-07-01,Complete
+Change Plan / Feature,2026-06-22,2600701,Daniel Campbell,2014370774,Verizon United States,,,2026-06-25,Complete
+Suspend Service,2024-09-14,2600702,Joshua Rodriguez,5035136613,T-Mobile United States,,,2024-09-20,Complete
+Travel Request,2024-10-02,2600703,Zoe Singh,9176977753,Verizon United States,2024-10-14,2024-11-04,2024-10-02,Complete
+Order New Device and Service,2026-02-24,2600704,Noah Robinson,2015516542,Verizon United States,,,2026-02-26,Complete
+Disconnect Service,2025-01-03,2600705,Thomas Lopez,3058107584,AT&T United States,,,2025-01-03,Complete
+Travel Request,2026-05-29,2600706,Daniel Campbell,7027532612,T-Mobile United States,2026-06-04,2026-06-24,2026-06-03,Complete
+Order New Device and Service,2025-08-01,2600707,William King,6313739614,Verizon United States,,,2025-08-11,Complete
+Transfer of Liability,2024-07-04,2600708,Liam Hall,4043008605,AT&T United States,,,2024-07-04,Complete
+Order New Device and Service,2024-11-04,2600709,Omar Young,4159593318,AT&T United States,,,2024-11-08,Complete
+Order New Device and Service,2026-05-15,2600710,Olga Walker,9734934664,Verizon United States,,,2026-05-20,Complete
+Order New Device and Service,2025-06-26,2600711,Ashley Smith,2142329898,AT&T United States,,,2025-06-30,Complete
+Disconnect Service,2024-02-05,2600712,Ava White,2146112275,AT&T United States,,,2024-02-09,Complete
+Lost / Stolen Device,2024-04-29,2600713,Charles Allen,4163978621,Bell Canada,,,2024-04-30,Complete
+Suspend Service,2024-10-09,2600714,Fatima Tremblay,3059856607,AT&T United States,,,2024-10-14,Complete
+Disconnect Service,2025-09-18,2600715,Thomas White,6469387287,Verizon United States,,,,Cancelled
+Transfer of Liability,2024-06-09,2600716,Betty Wright,6474515269,Bell Canada,,,,Cancelled
+Lost / Stolen Device,2026-03-28,2600717,Amanda Campbell,4046087802,AT&T United States,,,2026-03-28,Complete
+Disconnect Service,2025-05-04,2600718,Robert Hill,9179183074,Verizon United States,,,,Cancelled
+Order New Device and Service,2026-08-11,2600719,Ethan Nelson,2064147882,T-Mobile United States,,,2026-08-14,Complete
+Suspend Service,2026-06-16,2600720,Betty Rodriguez,9172344504,Verizon United States,,,,Cancelled
+Suspend Service,2024-02-13,2600721,Mary Rodriguez,9736392111,Verizon United States,,,,Cancelled
+Order New Device and Service,2026-04-01,2600722,Sofia Nelson,5145636219,Rogers Canada,,,2026-04-02,Complete
+Travel Request,2024-08-01,2600723,Charles Lee,5036497372,T-Mobile United States,2024-08-21,2024-09-10,2024-08-07,Complete
+Transfer of Liability,2026-01-11,2600724,Betty Wright,6474515269,Bell Canada,,,2026-01-13,Complete
+Order New Device and Service,2025-05-01,2600725,Mark Perez,9174317711,Verizon United States,,,2025-05-01,Complete
+Upgrade Device,2026-01-12,2600726,Raj Flores,6475077742,Bell Canada,,,2026-01-16,Complete
+Travel Request,2025-12-04,2600727,Liam Williams,9178750847,Verizon United States,2025-12-09,2025-12-15,2025-12-09,Complete
+Lost / Stolen Device,2025-04-10,2600728,Karen Moore,2129014916,Verizon United States,,,2025-04-15,Complete
+Order New Device and Service,2024-06-04,2600729,Richard Clark,3057468070,AT&T United States,,,2024-06-05,Complete
+Upgrade Device,2024-09-16,2600730,Wei Garcia,2067866025,T-Mobile United States,,,2024-09-24,Complete
+Travel Request,2024-09-28,2600731,Stephanie Baker,9179890903,Verizon United States,2024-10-09,2024-10-22,2024-10-01,Complete
+Travel Request,2025-07-06,2600732,Steven Young,2129997993,Verizon United States,2025-07-24,2025-08-13,2025-07-08,Complete
+Upgrade Device,2026-07-20,2600733,Joseph Gonzalez,4376352461,Rogers Canada,,,2026-07-24,Complete
+Travel Request,2024-11-09,2600734,Jessica Martin,6475605163,Bell Canada,2024-12-02,2024-12-07,2024-11-09,Complete
+Upgrade Device,2025-05-07,2600735,Ashley Baker,2145919602,AT&T United States,,,2025-05-12,Complete
+Order New Device and Service,2026-08-12,2600736,Joshua Rodriguez,5035136613,T-Mobile United States,,,2026-08-20,Complete
+Travel Request,2026-01-18,2600737,Richard Clark,3057468070,AT&T United States,2026-02-02,2026-02-19,2026-01-21,Complete
+Travel Request,2026-03-25,2600738,David Flores,2065860665,T-Mobile United States,2026-04-11,2026-04-30,2026-03-26,Complete
+Upgrade Device,2025-03-16,2600739,Amanda Smith,9735349685,Verizon United States,,,2025-03-18,Complete
+Suspend Service,2024-03-05,2600740,Ethan Nelson,2064147882,T-Mobile United States,,,2024-03-12,Complete
+Travel Request,2026-06-22,2600741,Carlos Miller,6464673869,Verizon United States,2026-06-28,2026-07-18,2026-06-26,Complete
+Order New Device and Service,2026-05-30,2600742,James Clark,2017740144,Verizon United States,,,2026-06-01,Complete
+Upgrade Device,2025-05-14,2600743,Wei Lopez,4165019329,Bell Canada,,,,Cancelled
+Travel Request,2026-01-31,2600744,Patricia Scott,4046659021,AT&T United States,2026-02-19,2026-02-27,,Cancelled
+Travel Request,2025-10-02,2600745,Robert Ramirez,4168903452,Bell Canada,2025-10-29,2025-11-08,2025-10-06,Complete
+Travel Request,2024-04-01,2600746,Fatima Green,4153504920,AT&T United States,2024-04-25,2024-05-08,2024-04-01,Complete
+Disconnect Service,2024-11-04,2600747,Barbara Roberts,6463001942,Verizon United States,,,,Cancelled
+Change Plan / Feature,2026-01-21,2600748,Mateo Adams,2129400220,Verizon United States,,,2026-01-28,Complete
+Upgrade Device,2025-10-26,2600749,Ahmed Campbell,3059796044,AT&T United States,,,2025-10-27,Complete
+Transfer of Liability,2025-08-08,2600750,Patricia Scott,6045133143,Rogers Canada,,,2025-08-15,Complete
+Lost / Stolen Device,2026-06-23,2600751,Olga Walker,9739708264,Verizon United States,,,2026-06-26,Complete
+Disconnect Service,2024-11-08,2600752,Yuki Young,2127471549,Verizon United States,,,2024-11-13,Complete
+Upgrade Device,2024-05-14,2600753,Ethan Wright,3128510747,AT&T United States,,,2024-05-22,Complete
+Lost / Stolen Device,2026-05-16,2600754,Yuki Campbell,7029550447,T-Mobile United States,,,2026-05-20,Complete
+Upgrade Device,2024-11-12,2600755,Jennifer Allen,6044515371,Rogers Canada,,,2024-11-12,Complete
+Order New Device and Service,2024-06-23,2600756,Steven Young,2129997993,Verizon United States,,,2024-07-01,Complete
+Travel Request,2025-12-17,2600757,Anthony Harris,2065297004,T-Mobile United States,2026-01-09,2026-01-15,2025-12-17,Complete
+Lost / Stolen Device,2024-10-15,2600758,Melissa Walker,9054975657,Bell Canada,,,2024-10-23,Complete
+Disconnect Service,2024-04-14,2600759,Thomas Brown,2063262879,T-Mobile United States,,,2024-04-16,Complete
+Upgrade Device,2025-08-19,2600760,Nancy Garcia,3106497478,AT&T United States,,,2025-08-26,Complete
+Upgrade Device,2026-06-10,2600761,Brian Smith,9733494468,Verizon United States,,,2026-06-11,Complete
+Upgrade Device,2026-02-23,2600762,David Martinez,4804896336,T-Mobile United States,,,2026-03-02,Complete
+Order New Device and Service,2025-03-21,2600763,John Rodriguez,3127698040,AT&T United States,,,2025-03-21,Complete
+Order New Device and Service,2024-11-14,2600764,Zoe Harris,9738246947,Verizon United States,,,2024-11-15,Complete
+Suspend Service,2025-11-16,2600765,Omar Young,4159593318,AT&T United States,,,2025-11-19,Complete
+Order New Device and Service,2026-07-31,2600766,William Wright,2149316798,AT&T United States,,,2026-08-06,Complete
+Order New Device and Service,2026-04-15,2600767,Mary Rodriguez,9736392111,Verizon United States,,,2026-04-20,Complete
+Disconnect Service,2024-05-10,2600768,Ethan Hall,4377793027,Rogers Canada,,,2024-05-15,Complete
+Disconnect Service,2025-04-07,2600769,Noah Novak,2129553696,Verizon United States,,,2025-04-09,Complete
+Order New Device and Service,2025-05-12,2600770,Anthony Roy,3104538673,AT&T United States,,,2025-05-13,Complete
+Suspend Service,2026-04-08,2600771,Richard Martinez,9738146931,Verizon United States,,,2026-04-10,Complete
+Upgrade Device,2025-09-26,2600772,Mateo Robinson,6464701261,Verizon United States,,,,Cancelled
+Lost / Stolen Device,2025-07-10,2600773,Yuki Wright,2128896436,Verizon United States,,,2025-07-15,Complete
+Travel Request,2024-12-01,2600774,Jennifer Nguyen,9739023744,Verizon United States,2024-12-23,2024-12-29,2024-12-02,Complete
+Disconnect Service,2025-12-30,2600775,Jennifer Davis,6464087152,Verizon United States,,,,Cancelled
+Travel Request,2025-01-04,2600776,Jessica Thomas,3103305106,AT&T United States,2025-01-31,2025-02-10,2025-01-10,Complete
+Order New Device and Service,2025-03-05,2600777,Yuki Campbell,7029550447,T-Mobile United States,,,2025-03-07,Complete
+Travel Request,2024-08-27,2600778,Richard King,4153184272,AT&T United States,2024-09-25,2024-10-15,2024-09-02,Complete
+Travel Request,2024-06-19,2600779,Melissa Garcia,6313907785,Verizon United States,2024-06-29,2024-07-08,2024-06-19,Complete
+Travel Request,2024-04-26,2600780,Susan Gonzalez,7026879882,T-Mobile United States,2024-05-11,2024-05-26,2024-04-29,Complete
+Suspend Service,2026-03-20,2600781,Stephanie Baker,6319249685,Verizon United States,,,2026-03-26,Complete
+Travel Request,2024-07-19,2600782,Kevin Carter,9732982906,Verizon United States,2024-08-04,2024-08-16,2024-07-24,Complete
+Disconnect Service,2026-07-18,2600783,Mary Lee,6315994189,Verizon United States,,,2026-07-18,Complete
+Order New Device and Service,2024-08-25,2600784,Mary Walker,5034533844,T-Mobile United States,,,2024-08-30,Complete
+Upgrade Device,2026-04-29,2600785,Michael Johnson,2015156968,Verizon United States,,,2026-05-05,Complete
+Order New Device and Service,2024-07-02,2600786,Mary Rodriguez,9736392111,Verizon United States,,,2024-07-02,Complete
+Disconnect Service,2026-01-30,2600787,David Allen,5032302406,T-Mobile United States,,,2026-01-30,Complete
+Travel Request,2025-04-12,2600788,Ethan Hall,4377793027,Rogers Canada,2025-04-28,2025-05-17,2025-04-21,Complete
+Order New Device and Service,2024-04-14,2600789,Kevin Patel,4152154598,AT&T United States,,,2024-04-22,Complete
+Upgrade Device,2024-04-24,2600790,Amanda Smith,9735349685,Verizon United States,,,2024-04-26,Complete
+Transfer of Liability,2024-03-17,2600791,James Wilson,2146143232,AT&T United States,,,2024-03-20,Complete
+Change Plan / Feature,2024-11-26,2600792,William Clark,6044710778,Rogers Canada,,,2024-12-04,Complete
+Travel Request,2026-06-24,2600793,Ethan Tremblay,2065916366,T-Mobile United States,2026-07-08,2026-07-13,2026-07-01,Complete
+Suspend Service,2026-03-15,2600794,Ethan Sanchez,9179782157,Verizon United States,,,2026-03-18,Complete
+Change Plan / Feature,2025-05-20,2600795,Raj Thomas,9175080397,Verizon United States,,,2025-05-26,Complete
+Upgrade Device,2025-11-12,2600796,Michael Lewis,4803571153,T-Mobile United States,,,,In Progress
+Order New Device and Service,2024-04-26,2600797,Mateo Kim,2125001404,Verizon United States,,,2024-04-30,Complete
+Order New Device and Service,2024-06-23,2600798,Sofia Roy,3058650599,AT&T United States,,,2024-07-01,Complete
+Travel Request,2026-09-01,2600799,Karen Hernandez,6313261241,Verizon United States,2026-09-26,2026-10-05,2026-09-09,Complete
+Lost / Stolen Device,2025-12-12,2600800,Liam Hall,4043008605,AT&T United States,,,2025-12-15,Complete
+Upgrade Device,2024-06-23,2600801,Charles Lewis,6462189944,Verizon United States,,,2024-06-25,Complete
+Upgrade Device,2026-07-01,2600802,Noah Tremblay,4158224789,AT&T United States,,,2026-07-01,Complete
+Travel Request,2025-03-06,2600803,Jennifer Thomas,3056726566,AT&T United States,2025-03-24,2025-04-05,2025-03-07,Complete
+Travel Request,2025-08-20,2600804,Noah Tremblay,4158224789,AT&T United States,2025-08-27,2025-09-13,2025-08-25,Complete
+Change Plan / Feature,2025-05-14,2600805,Thomas Lopez,3058107584,AT&T United States,,,,Cancelled
+Disconnect Service,2026-08-13,2600806,Michael Carter,4808145111,T-Mobile United States,,,2026-08-14,Complete
+Order New Device and Service,2025-01-02,2600807,Zoe Thompson,6317988369,Verizon United States,,,,Cancelled
+Upgrade Device,2024-11-19,2600808,Daniel Lopez,6468991610,Verizon United States,,,2024-11-21,Complete
+Lost / Stolen Device,2025-05-24,2600809,Brian Smith,9733494468,Verizon United States,,,2025-05-28,Complete
+Order New Device and Service,2024-02-10,2600810,David Martinez,2129889126,Verizon United States,,,2024-02-13,Complete
+Lost / Stolen Device,2025-01-22,2600811,Noah Green,2146414536,AT&T United States,,,2025-01-30,Complete
+Lost / Stolen Device,2024-11-20,2600812,Priya Hill,6467189474,Verizon United States,,,2024-11-27,Complete
+Change Plan / Feature,2025-02-16,2600813,Mia Nelson,2127900721,Verizon United States,,,2025-02-16,Complete
+Lost / Stolen Device,2026-08-14,2600814,Michael Nguyen,2129980916,Verizon United States,,,2026-08-18,Complete
+Travel Request,2025-08-14,2600815,Olga Lopez,9052048618,Bell Canada,2025-08-26,2025-09-06,2025-08-20,Complete
+Travel Request,2025-10-08,2600816,Joshua Kim,6318660612,Verizon United States,2025-10-11,2025-10-14,2025-10-08,Complete
+Suspend Service,2025-04-30,2600817,Ava Garcia,3055995282,AT&T United States,,,2025-05-02,Complete
+Order New Device and Service,2024-11-28,2600818,Daniel Lopez,6468991610,Verizon United States,,,2024-12-02,Complete
+Upgrade Device,2025-08-13,2600819,Brian Smith,3122469276,AT&T United States,,,2025-08-15,Complete
+Order New Device and Service,2024-03-03,2600820,Melissa Brown,6463150682,Verizon United States,,,2024-03-03,Complete
+Travel Request,2025-02-15,2600821,Matthew Perez,2148777583,AT&T United States,2025-03-07,2025-03-20,2025-02-17,Complete
+Order New Device and Service,2025-04-19,2600822,James Nelson,5145983485,Rogers Canada,,,2025-04-21,Complete
+Upgrade Device,2026-02-23,2600823,Daniel Nelson,6049136522,Rogers Canada,,,2026-02-24,Complete
+Upgrade Device,2024-03-18,2600824,Yuki Wright,2128896436,Verizon United States,,,2024-03-21,Complete
+Travel Request,2024-08-15,2600825,Carlos Adams,2017741435,Verizon United States,2024-08-21,2024-08-24,2024-08-21,Complete
+Change Plan / Feature,2024-02-27,2600826,Zoe Rodriguez,2146956168,AT&T United States,,,2024-02-28,Complete
+Suspend Service,2026-09-13,2600827,Anthony Harris,2065297004,T-Mobile United States,,,,Cancelled
+Lost / Stolen Device,2024-03-22,2600828,Yuki Flores,2015764508,Verizon United States,,,2024-03-25,Complete
+Travel Request,2024-11-20,2600829,Mia Davis,6466408505,Verizon United States,2024-11-25,2024-12-01,2024-11-28,Complete
+Change Plan / Feature,2025-11-08,2600830,Thomas Adams,2144649309,AT&T United States,,,2025-11-12,Complete
+Travel Request,2026-07-10,2600831,Charles Lee,5036497372,T-Mobile United States,2026-08-07,2026-08-24,2026-07-13,Complete
+Lost / Stolen Device,2026-08-25,2600832,Joseph Gonzalez,4376352461,Rogers Canada,,,2026-09-01,Complete
+Suspend Service,2024-02-02,2600833,Nancy Rodriguez,9179769499,Verizon United States,,,2024-02-07,Complete
+Order New Device and Service,2024-07-05,2600834,Hiroshi Clark,2012196268,Verizon United States,,,2024-07-12,Complete
+Transfer of Liability,2025-10-01,2600835,Mark Scott,5033720043,T-Mobile United States,,,2025-10-07,Complete
+Upgrade Device,2024-12-04,2600836,Charles Anderson,6045211932,Rogers Canada,,,,Cancelled
+Disconnect Service,2026-09-09,2600837,Mia Thomas,9737663763,Verizon United States,,,2026-09-15,Complete
+Upgrade Device,2026-01-22,2600838,Carlos Smith,4164490915,Bell Canada,,,,Cancelled
+Disconnect Service,2026-01-18,2600839,Brian Sanchez,4155246249,AT&T United States,,,2026-01-26,Complete
+Order New Device and Service,2024-04-22,2600840,Nancy Patel,6047792660,Rogers Canada,,,2024-04-25,Complete
+Suspend Service,2026-05-29,2600841,David Williams,9174028740,Verizon United States,,,2026-06-03,Complete
+Transfer of Liability,2024-09-04,2600842,Mia Anderson,6463588247,Verizon United States,,,,Cancelled
+Suspend Service,2024-07-07,2600843,Brian Sanchez,6467788249,Verizon United States,,,2024-07-15,Complete
+Travel Request,2024-08-18,2600844,Mateo Robinson,6464701261,Verizon United States,2024-09-17,2024-09-27,2024-08-18,Complete
+Travel Request,2026-02-19,2600845,Michael Nguyen,2129980916,Verizon United States,2026-02-22,2026-03-07,,Cancelled
+Disconnect Service,2024-05-13,2600846,Susan Harris,5148307542,Rogers Canada,,,2024-05-20,Complete
+Change Plan / Feature,2026-08-19,2600847,Ethan Anderson,2067313448,T-Mobile United States,,,2026-08-19,Complete
+Lost / Stolen Device,2025-01-09,2600848,Steven Young,2129997993,Verizon United States,,,2025-01-09,Complete
+Change Plan / Feature,2024-12-20,2600849,Ana Nguyen,4048195356,AT&T United States,,,2024-12-24,Complete
+Upgrade Device,2025-11-08,2600850,Mia Nelson,4162990877,Bell Canada,,,2025-11-17,Complete
+Order New Device and Service,2024-12-11,2600851,Charles Allen,4163978621,Bell Canada,,,2024-12-19,Complete
+Travel Request,2026-06-12,2600852,Mary Walker,5034533844,T-Mobile United States,2026-07-05,2026-07-12,2026-06-15,Complete
+Order New Device and Service,2025-04-17,2600853,Mary Walker,5034533844,T-Mobile United States,,,2025-04-23,Complete
+Suspend Service,2025-05-31,2600854,Melissa Nguyen,3059534380,AT&T United States,,,2025-06-06,Complete
+Order New Device and Service,2024-09-19,2600855,Robert Lewis,4379830579,Rogers Canada,,,2024-09-25,Complete
+Upgrade Device,2024-11-15,2600856,Melissa Brown,2013038045,Verizon United States,,,2024-11-15,Complete
+Travel Request,2025-02-28,2600857,Ana Adams,2126194478,Verizon United States,2025-03-26,2025-04-07,2025-03-06,Complete
+Order New Device and Service,2025-10-10,2600858,Zoe Young,9177922280,Verizon United States,,,2025-10-13,Complete
+Order New Device and Service,2025-02-17,2600859,Carlos Smith,4164490915,Bell Canada,,,2025-02-18,Complete
+Upgrade Device,2026-05-04,2600860,Ahmed Martin,9057739915,Bell Canada,,,2026-05-07,Complete
+Order New Device and Service,2026-08-20,2600861,Fatima Tremblay,3059856607,AT&T United States,,,2026-08-28,Complete
+Travel Request,2024-05-22,2600862,Michael Patel,2149286395,AT&T United States,2024-06-06,2024-06-12,2024-05-30,Complete
+Order New Device and Service,2025-09-15,2600863,Ahmed Baker,4168625959,Bell Canada,,,2025-09-22,Complete
+Upgrade Device,2026-04-06,2600864,Thomas Hernandez,9173662911,Verizon United States,,,2026-04-07,Complete
+Upgrade Device,2026-09-11,2600865,Mark Harris,9172955056,Verizon United States,,,2026-09-16,Complete
+Travel Request,2025-10-30,2600866,Liam Williams,9178750847,Verizon United States,2025-11-21,2025-12-11,2025-11-05,Complete
+Order New Device and Service,2025-01-30,2600867,Elizabeth Young,6466360289,Verizon United States,,,2025-02-04,Complete
+Change Plan / Feature,2026-05-28,2600868,Daniel Nelson,6049136522,Rogers Canada,,,2026-06-04,Complete
+Travel Request,2026-04-09,2600869,John Rodriguez,3127698040,AT&T United States,2026-04-26,2026-05-13,,Cancelled
+Change Plan / Feature,2024-08-31,2600870,Ethan Martin,9056073476,Bell Canada,,,2024-09-05,Complete
+Upgrade Device,2026-02-08,2600871,Olga Walker,9734934664,Verizon United States,,,2026-02-08,Complete
+Upgrade Device,2024-05-31,2600872,Susan Carter,9177486939,Verizon United States,,,2024-06-06,Complete
+Order New Device and Service,2026-05-05,2600873,Fatima Green,9173436577,Verizon United States,,,2026-05-08,Complete
+Travel Request,2024-04-05,2600874,Ethan Wright,3128510747,AT&T United States,2024-04-11,2024-04-27,2024-04-12,Complete
+Order New Device and Service,2025-10-18,2600875,Yuki Garcia,2014894312,Verizon United States,,,2025-10-21,Complete
+Order New Device and Service,2025-12-02,2600876,Emily Anderson,7025275950,T-Mobile United States,,,2025-12-05,Complete
+Upgrade Device,2026-05-17,2600877,Ethan Nelson,2064147882,T-Mobile United States,,,2026-05-22,Complete
+Suspend Service,2025-02-20,2600878,John Nelson,2146383990,AT&T United States,,,2025-02-25,Complete
+Upgrade Device,2025-05-29,2600879,Jennifer Moore,2128132738,Verizon United States,,,2025-05-29,Complete
+Travel Request,2026-07-26,2600880,Sarah Thompson,6319321841,Verizon United States,2026-08-18,2026-08-28,2026-07-28,Complete
+Travel Request,2024-03-20,2600881,Patricia Martinez,3102375558,AT&T United States,2024-04-08,2024-04-14,2024-03-27,Complete
+Lost / Stolen Device,2026-08-05,2600882,Andrew Davis,4046108536,AT&T United States,,,2026-08-12,Complete
+Disconnect Service,2026-06-11,2600883,Nancy Hernandez,9175103609,Verizon United States,,,,Cancelled
+Travel Request,2025-08-09,2600884,Michael Carter,4808145111,T-Mobile United States,2025-08-27,2025-09-08,,Cancelled
+Order New Device and Service,2024-05-30,2600885,William Jones,5036344441,T-Mobile United States,,,2024-06-07,Complete
+Upgrade Device,2026-07-20,2600886,Hiroshi Perez,3052401492,AT&T United States,,,2026-07-21,Complete
+Order New Device and Service,2025-03-28,2600887,Jennifer Campbell,2014762790,Verizon United States,,,2025-04-04,Complete
+Change Plan / Feature,2024-04-15,2600888,Robert Lewis,4379830579,Rogers Canada,,,,In Progress
+Travel Request,2024-01-19,2600889,Mia Lee,4156396773,AT&T United States,2024-02-08,2024-02-15,2024-01-19,Complete
+Suspend Service,2025-09-06,2600890,Robert Lewis,4379830579,Rogers Canada,,,2025-09-12,Complete
+Travel Request,2024-10-19,2600891,Robert Anderson,6318755901,Verizon United States,2024-11-16,2024-11-28,2024-10-28,Complete
+Order New Device and Service,2025-04-25,2600892,Daniel Lopez,6468991610,Verizon United States,,,2025-04-25,Complete
+Change Plan / Feature,2024-05-11,2600893,Daniel Novak,4157321990,AT&T United States,,,2024-05-14,Complete
+Order New Device and Service,2024-02-03,2600894,Olga Nguyen,6464105075,Verizon United States,,,2024-02-12,Complete
+Order New Device and Service,2025-07-18,2600895,Mia Nelson,2066872860,T-Mobile United States,,,2025-07-28,Complete
+Lost / Stolen Device,2025-06-24,2600896,Melissa Ramirez,6464343322,Verizon United States,,,2025-06-30,Complete
+Upgrade Device,2025-09-17,2600897,Joshua Davis,2149879187,AT&T United States,,,2025-09-19,Complete
+Transfer of Liability,2025-04-21,2600898,Emily Gonzalez,9738226215,Verizon United States,,,2025-04-21,Complete
+Suspend Service,2025-10-31,2600899,Leila Lewis,2127343287,Verizon United States,,,2025-11-04,Complete
+Upgrade Device,2026-02-02,2600900,Melissa Garcia,6313907785,Verizon United States,,,2026-02-04,Complete
+Travel Request,2025-02-01,2600901,Joseph Tremblay,3053766150,AT&T United States,2025-02-18,2025-03-07,2025-02-04,Complete
+Upgrade Device,2025-12-02,2600902,Mateo Adams,9733978008,Verizon United States,,,2025-12-04,Complete
+Transfer of Liability,2024-09-17,2600903,Ava Roberts,4376160555,Rogers Canada,,,2024-09-25,Complete
+Change Plan / Feature,2025-12-03,2600904,Mateo Baker,5032442095,T-Mobile United States,,,2025-12-08,Complete
+Disconnect Service,2025-04-21,2600905,Noah Tremblay,4158224789,AT&T United States,,,,Cancelled
+Travel Request,2025-08-07,2600906,Anthony Smith,6479506716,Bell Canada,2025-09-01,2025-09-21,2025-08-11,Complete
+Upgrade Device,2025-11-21,2600907,Brian Smith,3122469276,AT&T United States,,,2025-11-25,Complete
+Upgrade Device,2024-05-04,2600908,Fatima Green,2016897843,Verizon United States,,,2024-05-13,Complete
+Travel Request,2024-12-01,2600909,Sandra Garcia,4378822514,Rogers Canada,2024-12-10,2024-12-30,2024-12-06,Complete
+Travel Request,2025-07-11,2600910,Noah Wright,6319745690,Verizon United States,2025-07-26,2025-08-06,2025-07-11,Complete
+Order New Device and Service,2024-01-07,2600911,Jennifer Young,2147324423,AT&T United States,,,2024-01-08,Complete
+Change Plan / Feature,2026-01-04,2600912,Priya Lopez,6042738899,Rogers Canada,,,2026-01-08,Complete
+Travel Request,2024-12-04,2600913,Joseph Tremblay,3053766150,AT&T United States,2024-12-21,2024-12-24,2024-12-11,Complete
+Upgrade Device,2024-09-06,2600914,Melissa Mitchell,5033437697,T-Mobile United States,,,2024-09-11,Complete
+Order New Device and Service,2024-09-06,2600915,Mia Nelson,2066872860,T-Mobile United States,,,2024-09-16,Complete
+Travel Request,2026-09-19,2600916,Michael Nelson,4045593485,AT&T United States,2026-09-30,2026-10-20,,Cancelled
+Travel Request,2025-03-01,2600917,Karen Moore,2129014916,Verizon United States,2025-03-30,2025-04-14,2025-03-05,Complete
+Travel Request,2024-07-29,2600918,Carlos Adams,2017741435,Verizon United States,2024-08-21,2024-09-02,2024-08-02,Complete
+Travel Request,2026-03-29,2600919,Fatima Green,4153504920,AT&T United States,2026-04-16,2026-05-06,2026-04-01,Complete
+Order New Device and Service,2025-01-20,2600920,Andrew Martinez,9176607719,Verizon United States,,,2025-01-23,Complete
+Disconnect Service,2024-11-02,2600921,Jessica Torres,9737635866,Verizon United States,,,2024-11-11,Complete
+Order New Device and Service,2025-09-20,2600922,Ahmed Young,5032788430,T-Mobile United States,,,2025-09-26,Complete
+Disconnect Service,2024-12-10,2600923,Ethan Wright,3128510747,AT&T United States,,,2024-12-12,Complete
+Suspend Service,2024-04-09,2600924,Paul Rivera,4044909859,AT&T United States,,,2024-04-15,Complete
+Upgrade Device,2025-11-02,2600925,Ashley Smith,2142329898,AT&T United States,,,2025-11-03,Complete
+Upgrade Device,2025-04-17,2600926,Sarah Hall,9059417138,Bell Canada,,,2025-04-17,Complete
+Upgrade Device,2024-12-10,2600927,Mary Walker,5034533844,T-Mobile United States,,,2024-12-16,Complete
+Order New Device and Service,2026-01-04,2600928,Joshua Davis,2149879187,AT&T United States,,,2026-01-12,Complete
+Change Plan / Feature,2026-04-16,2600929,Ahmed Jackson,6472119720,Bell Canada,,,2026-04-24,Complete
+Suspend Service,2025-06-05,2600930,Melissa Martinez,4808722248,T-Mobile United States,,,2025-06-09,Complete
+Change Plan / Feature,2026-04-20,2600931,Zoe Harris,9738246947,Verizon United States,,,2026-04-22,Complete
+Travel Request,2026-02-04,2600932,Michelle Hill,3104675148,AT&T United States,2026-02-27,2026-03-09,2026-02-09,Complete
+Lost / Stolen Device,2026-03-09,2600933,Nancy Patel,6047792660,Rogers Canada,,,2026-03-09,Complete
+Travel Request,2026-07-19,2600934,John Allen,9736441071,Verizon United States,2026-07-22,2026-08-02,2026-07-22,Complete
+Lost / Stolen Device,2024-04-18,2600935,Mark Perez,9174317711,Verizon United States,,,2024-04-18,Complete
+Lost / Stolen Device,2025-07-27,2600936,William Wright,2149316798,AT&T United States,,,2025-08-01,Complete
+Disconnect Service,2024-09-05,2600937,Amanda Gagnon,2127060668,Verizon United States,,,2024-09-11,Complete
+Order New Device and Service,2024-07-31,2600938,Karen Roberts,3054310054,AT&T United States,,,2024-08-08,Complete
+Travel Request,2025-01-17,2600939,William Clark,6044710778,Rogers Canada,2025-01-20,2025-02-04,2025-01-17,Complete
+Order New Device and Service,2026-04-01,2600940,Carlos Young,7022397100,T-Mobile United States,,,2026-04-02,Complete
+Disconnect Service,2025-11-05,2600941,Ashley Baker,2145919602,AT&T United States,,,2025-11-10,Complete
+Suspend Service,2024-10-19,2600942,Karen Roberts,3054310054,AT&T United States,,,2024-10-24,Complete
+Order New Device and Service,2024-07-12,2600943,Paul Rivera,4044909859,AT&T United States,,,2024-07-18,Complete
+Travel Request,2026-01-24,2600944,Patricia Scott,6045133143,Rogers Canada,2026-02-21,2026-03-10,2026-01-29,Complete
+Change Plan / Feature,2024-11-30,2600945,Olga Lopez,9052048618,Bell Canada,,,2024-11-30,Complete
+Lost / Stolen Device,2024-06-29,2600946,Jessica Anderson,2129653764,Verizon United States,,,2024-06-29,Complete
+Travel Request,2024-07-16,2600947,Robert Smith,4152708702,AT&T United States,2024-08-03,2024-08-08,2024-07-24,Complete
+Travel Request,2025-03-14,2600948,Zoe Young,9177922280,Verizon United States,2025-03-17,2025-03-31,,Cancelled
+Upgrade Device,2024-09-30,2600949,Robert Lewis,4379830579,Rogers Canada,,,2024-10-03,Complete
+Upgrade Device,2026-02-16,2600950,Elizabeth Nelson,9058730095,Bell Canada,,,2026-02-18,Complete
+Travel Request,2025-02-06,2600951,Carlos Clark,6043522093,Rogers Canada,2025-02-20,2025-03-11,2025-02-14,Complete
+Order New Device and Service,2025-03-12,2600952,Carlos Smith,4164490915,Bell Canada,,,2025-03-19,Complete
+Upgrade Device,2025-09-22,2600953,Emily White,9736541854,Verizon United States,,,2025-09-22,Complete
+Order New Device and Service,2025-09-29,2600954,Patricia Scott,6045133143,Rogers Canada,,,,Cancelled
+Lost / Stolen Device,2026-08-12,2600955,Ava Hall,4802925452,T-Mobile United States,,,2026-08-18,Complete
+Lost / Stolen Device,2026-03-23,2600956,Patricia Scott,3104976157,AT&T United States,,,2026-03-24,Complete
+Upgrade Device,2025-10-10,2600957,Stephanie Gagnon,5145780472,Rogers Canada,,,,Cancelled
+Disconnect Service,2026-07-30,2600958,Ahmed Young,5032788430,T-Mobile United States,,,2026-07-31,Complete
+Order New Device and Service,2026-01-06,2600959,Michael Thompson,6315621071,Verizon United States,,,2026-01-12,Complete
+Change Plan / Feature,2025-03-07,2600960,Brian Smith,5034145344,T-Mobile United States,,,2025-03-07,Complete
+Order New Device and Service,2025-07-13,2600961,Linda Roberts,2144800431,AT&T United States,,,2025-07-17,Complete
+Travel Request,2025-07-24,2600962,Patricia Anderson,6473471183,Bell Canada,2025-08-22,2025-09-08,2025-07-25,Complete
+Change Plan / Feature,2026-01-07,2600963,Michael Scott,4164716014,Bell Canada,,,2026-01-07,Complete
+Disconnect Service,2024-09-30,2600964,John Thomas,9174289574,Verizon United States,,,2024-09-30,Complete
+Travel Request,2024-04-20,2600965,Melissa Ramirez,6464343322,Verizon United States,2024-04-25,2024-04-29,2024-04-22,Complete
+Upgrade Device,2025-07-20,2600966,Leila Moore,2125185549,Verizon United States,,,2025-07-23,Complete
+Upgrade Device,2026-01-06,2600967,Melissa Martinez,4808722248,T-Mobile United States,,,,In Progress
+Travel Request,2025-06-23,2600968,Nancy Adams,7029556586,T-Mobile United States,2025-07-03,2025-07-24,2025-06-27,Complete
+Travel Request,2024-08-09,2600969,Fatima Green,3104695859,AT&T United States,2024-08-15,2024-08-19,2024-08-16,Complete
+Travel Request,2024-10-17,2600970,Steven Young,2129997993,Verizon United States,2024-11-12,2024-11-30,2024-10-22,Complete
+Travel Request,2024-10-03,2600971,Ethan Anderson,2067313448,T-Mobile United States,2024-10-24,2024-11-12,2024-10-11,Complete
+Travel Request,2025-11-09,2600972,Anthony Thomas,2017049359,Verizon United States,2025-11-13,2025-11-29,2025-11-14,Complete
+Order New Device and Service,2026-08-06,2600973,Elizabeth Harris,2144263838,AT&T United States,,,2026-08-10,Complete
+Travel Request,2025-06-02,2600974,Wei Hall,9178155429,Verizon United States,2025-06-26,2025-07-08,2025-06-06,Complete
+Travel Request,2025-09-07,2600975,Hiroshi Perez,3052401492,AT&T United States,2025-09-11,2025-09-23,2025-09-12,Complete
+Upgrade Device,2024-10-31,2600976,Ahmed Young,5032788430,T-Mobile United States,,,,Cancelled
+Travel Request,2026-06-01,2600977,Lisa Hall,2012868741,Verizon United States,2026-06-04,2026-06-19,,Cancelled
+Order New Device and Service,2025-11-25,2600978,Paul Lewis,9735239559,Verizon United States,,,2025-11-25,Complete
+Upgrade Device,2025-02-18,2600979,Barbara Ramirez,2016953015,Verizon United States,,,2025-02-25,Complete
+Suspend Service,2025-11-10,2600980,Priya Nguyen,3052071072,AT&T United States,,,2025-11-13,Complete
+Disconnect Service,2026-06-03,2600981,Wei Garcia,2067866025,T-Mobile United States,,,2026-06-04,Complete
+Suspend Service,2025-07-24,2600982,Liam Hall,4043008605,AT&T United States,,,2025-07-25,Complete
+Upgrade Device,2025-11-02,2600983,Ahmed Nelson,9733357764,Verizon United States,,,2025-11-02,Complete
+Travel Request,2025-08-12,2600984,Ahmed Novak,4049915359,AT&T United States,2025-08-20,2025-09-08,2025-08-20,Complete
+Transfer of Liability,2026-05-07,2600985,William Wright,3124729113,AT&T United States,,,2026-05-08,Complete
+Suspend Service,2025-09-13,2600986,Charles Lewis,6462189944,Verizon United States,,,2025-09-22,Complete
+Travel Request,2025-07-27,2600987,Mark Martinez,3108647839,AT&T United States,2025-08-15,2025-08-20,2025-07-31,Complete
+Change Plan / Feature,2026-04-06,2600988,Melissa Martinez,4808722248,T-Mobile United States,,,2026-04-08,Complete
+Lost / Stolen Device,2024-01-24,2600989,Robert Martin,6312259371,Verizon United States,,,2024-01-29,Complete
+Lost / Stolen Device,2024-11-29,2600990,Barbara Williams,2145843363,AT&T United States,,,2024-12-06,Complete
+Lost / Stolen Device,2025-08-14,2600991,Jennifer Young,2147324423,AT&T United States,,,,Cancelled
+Suspend Service,2025-04-01,2600992,Raj Carter,6465017543,Verizon United States,,,2025-04-08,Complete
+Upgrade Device,2025-01-26,2600993,Elizabeth Young,6466360289,Verizon United States,,,2025-01-30,Complete
+Upgrade Device,2026-06-09,2600994,Zoe Brown,4048356031,AT&T United States,,,2026-06-15,Complete
+Travel Request,2024-07-19,2600995,Hiroshi Clark,2012109790,Verizon United States,2024-08-16,2024-08-27,2024-07-22,Complete
+Travel Request,2024-11-09,2600996,Susan Lewis,9057579341,Bell Canada,2024-12-06,2024-12-27,2024-11-18,Complete
+Disconnect Service,2024-11-28,2600997,Wei Johnson,3102389308,AT&T United States,,,2024-12-06,Complete
+Change Plan / Feature,2026-04-11,2600998,Paul Lewis,4047112381,AT&T United States,,,2026-04-20,Complete
+Travel Request,2024-12-06,2600999,William Wright,3124729113,AT&T United States,2025-01-03,2025-01-22,2024-12-10,Complete
+Order New Device and Service,2025-11-14,2601000,Ahmed Singh,6314705036,Verizon United States,,,,In Progress
+Transfer of Liability,2024-10-25,2601001,John Allen,9736441071,Verizon United States,,,2024-10-31,Complete
+Disconnect Service,2026-02-13,2601002,Olga Walker,3122043938,AT&T United States,,,2026-02-23,Complete
+Travel Request,2025-09-11,2601003,Yuki Garcia,2014894312,Verizon United States,2025-10-06,2025-10-09,2025-09-11,Complete
+Disconnect Service,2026-05-08,2601004,Jessica Torres,9737635866,Verizon United States,,,2026-05-14,Complete
+Suspend Service,2025-03-24,2601005,Mark Martinez,3108647839,AT&T United States,,,2025-03-27,Complete
+Disconnect Service,2024-09-01,2601006,Mateo Adams,2015288672,Verizon United States,,,2024-09-03,Complete
+Change Plan / Feature,2024-08-01,2601007,Melissa Brown,2013038045,Verizon United States,,,2024-08-02,Complete
+Travel Request,2026-06-04,2601008,John Nelson,2146383990,AT&T United States,2026-06-22,2026-07-01,,Cancelled
+Travel Request,2025-12-02,2601009,Ahmed Martin,9057739915,Bell Canada,2025-12-18,2026-01-04,2025-12-04,Complete
+Order New Device and Service,2025-02-11,2601010,David Martinez,4804896336,T-Mobile United States,,,2025-02-11,Complete
+Order New Device and Service,2026-03-16,2601011,Mateo Robinson,6464701261,Verizon United States,,,2026-03-23,Complete
+Disconnect Service,2026-05-07,2601012,Ahmed Baker,4168625959,Bell Canada,,,2026-05-13,Complete
+Upgrade Device,2026-05-01,2601013,Barbara Williams,2145843363,AT&T United States,,,2026-05-01,Complete
+Order New Device and Service,2025-06-08,2601014,Wei Walker,7029611311,T-Mobile United States,,,,Cancelled
+Change Plan / Feature,2025-03-17,2601015,Brian Smith,4049682430,AT&T United States,,,2025-03-19,Complete
+Disconnect Service,2026-08-30,2601016,Nancy Patel,6047792660,Rogers Canada,,,2026-08-31,Complete
+Order New Device and Service,2026-09-05,2601017,Mateo Baker,5032442095,T-Mobile United States,,,2026-09-10,Complete
+Change Plan / Feature,2024-12-26,2601018,Olga Gonzalez,5034861759,T-Mobile United States,,,2024-12-27,Complete
+Disconnect Service,2026-05-03,2601019,Sandra Baker,2012479647,Verizon United States,,,2026-05-04,Complete
+Disconnect Service,2025-11-23,2601020,Patricia Anderson,9179496116,Verizon United States,,,2025-11-25,Complete
+Upgrade Device,2026-09-14,2601021,Brian Patel,9056168515,Bell Canada,,,2026-09-18,Complete
+Order New Device and Service,2024-03-20,2601022,Barbara Ramirez,2016953015,Verizon United States,,,2024-03-22,Complete
+Upgrade Device,2026-05-25,2601023,Chloe Hall,9174948096,Verizon United States,,,2026-05-29,Complete
+Transfer of Liability,2025-07-22,2601024,Hiroshi Carter,6465587245,Verizon United States,,,2025-07-28,Complete
+Change Plan / Feature,2026-01-11,2601025,Jennifer Walker,6046106701,Rogers Canada,,,2026-01-12,Complete
+Order New Device and Service,2024-11-23,2601026,Sandra Rodriguez,6049021661,Rogers Canada,,,2024-11-28,Complete
+Travel Request,2024-08-30,2601027,Jennifer Martin,2017843677,Verizon United States,2024-09-20,2024-09-27,,Cancelled
+Order New Device and Service,2025-10-11,2601028,Melissa Brown,2013038045,Verizon United States,,,2025-10-13,Complete
+Travel Request,2025-09-17,2601029,Carlos Miller,6464673869,Verizon United States,2025-09-27,2025-10-13,2025-09-18,Complete
+Order New Device and Service,2024-01-03,2601030,Robert Carter,9177509419,Verizon United States,,,2024-01-09,Complete
+Suspend Service,2025-07-21,2601031,Michael Thompson,6315621071,Verizon United States,,,2025-07-25,Complete
+Order New Device and Service,2025-07-21,2601032,Matthew Perez,2148777583,AT&T United States,,,2025-07-24,Complete
+Travel Request,2026-06-20,2601033,Susan Nguyen,2016957105,Verizon United States,2026-06-29,2026-07-05,2026-06-20,Complete
+Upgrade Device,2026-04-25,2601034,Raj Carter,6465017543,Verizon United States,,,2026-04-25,Complete
+Order New Device and Service,2025-11-12,2601035,Ashley White,3105261196,AT&T United States,,,2025-11-19,Complete
+Lost / Stolen Device,2025-05-30,2601036,Kevin Roy,7028973130,T-Mobile United States,,,2025-06-06,Complete
+Travel Request,2024-06-15,2601037,Daniel Hernandez,2126370849,Verizon United States,2024-06-27,2024-06-30,2024-06-19,Complete
+Order New Device and Service,2025-05-28,2601038,Betty White,5145781128,Rogers Canada,,,2025-05-30,Complete
+Upgrade Device,2025-10-23,2601039,Mia Clark,4157909435,AT&T United States,,,2025-10-28,Complete
+Order New Device and Service,2025-08-18,2601040,Emily White,9736541854,Verizon United States,,,2025-08-26,Complete
+Order New Device and Service,2025-05-16,2601041,Anthony Thomas,2148596904,AT&T United States,,,2025-05-23,Complete
+Lost / Stolen Device,2026-08-20,2601042,Ahmed Martin,9057739915,Bell Canada,,,2026-08-20,Complete
+Disconnect Service,2024-09-24,2601043,Brian Sanchez,4155246249,AT&T United States,,,2024-09-24,Complete
+Upgrade Device,2025-06-26,2601044,Anthony Martinez,6467462517,Verizon United States,,,,Cancelled
+Travel Request,2025-03-03,2601045,Mateo Flores,4163040914,Bell Canada,2025-03-28,2025-04-12,2025-03-06,Complete
+Upgrade Device,2024-12-09,2601046,Daniel Lopez,6468991610,Verizon United States,,,2024-12-12,Complete
+Transfer of Liability,2025-01-20,2601047,Mia Anderson,6463588247,Verizon United States,,,2025-01-24,Complete
+Change Plan / Feature,2024-06-17,2601048,Jennifer Sanchez,2127510507,Verizon United States,,,2024-06-19,Complete
+Suspend Service,2024-10-26,2601049,Hiroshi Clark,2012109790,Verizon United States,,,2024-10-26,Complete
+Upgrade Device,2024-11-15,2601050,Mary Walker,5034533844,T-Mobile United States,,,2024-11-21,Complete
+Change Plan / Feature,2024-05-20,2601051,Priya Patel,9733569266,Verizon United States,,,2024-05-22,Complete
+Upgrade Device,2025-12-24,2601052,Fatima Green,4153504920,AT&T United States,,,2025-12-25,Complete
+Order New Device and Service,2024-12-14,2601053,Sarah Patel,9176668524,Verizon United States,,,2024-12-20,Complete
+Travel Request,2025-09-20,2601054,Melissa Mitchell,5033437697,T-Mobile United States,2025-10-15,2025-11-02,,Cancelled
+Travel Request,2024-06-22,2601055,Betty Robinson,7027022996,T-Mobile United States,2024-07-19,2024-07-24,2024-06-25,Complete
+Change Plan / Feature,2026-03-11,2601056,Patricia Martinez,3102375558,AT&T United States,,,2026-03-13,Complete
+Change Plan / Feature,2026-05-08,2601057,Charles Harris,3054981093,AT&T United States,,,2026-05-08,Complete
+Suspend Service,2025-03-13,2601058,Brian Smith,9733494468,Verizon United States,,,2025-03-20,Complete
+Upgrade Device,2025-04-30,2601059,Mary Lee,6315994189,Verizon United States,,,2025-05-05,Complete
+Suspend Service,2026-02-04,2601060,Jennifer Moore,2128132738,Verizon United States,,,2026-02-04,Complete
+Change Plan / Feature,2025-06-17,2601061,Ava Young,2127410987,Verizon United States,,,2025-06-24,Complete
+Suspend Service,2026-08-11,2601062,Sofia Wilson,6465384557,Verizon United States,,,2026-08-13,Complete
+Order New Device and Service,2024-08-06,2601063,Michael Nelson,4045593485,AT&T United States,,,2024-08-07,Complete
+Upgrade Device,2026-08-26,2601064,Joseph Roy,3128484783,AT&T United States,,,2026-08-26,Complete
+Upgrade Device,2024-02-28,2601065,Carlos Miller,6464673869,Verizon United States,,,2024-03-01,Complete
+Travel Request,2024-06-03,2601066,Ahmed Singh,6314705036,Verizon United States,2024-06-14,2024-06-21,2024-06-10,Complete
+Change Plan / Feature,2024-01-12,2601067,Ahmed Martin,3052316837,AT&T United States,,,2024-01-18,Complete
+Change Plan / Feature,2025-11-05,2601068,Olga Hernandez,4806428081,T-Mobile United States,,,2025-11-12,Complete
+Upgrade Device,2025-01-31,2601069,Stephanie Gagnon,5145780472,Rogers Canada,,,2025-02-07,Complete
+Transfer of Liability,2026-05-25,2601070,Carlos Harris,3122315556,AT&T United States,,,2026-06-01,Complete
+Travel Request,2026-08-29,2601071,Mark Harris,9172955056,Verizon United States,2026-09-09,2026-09-24,2026-09-04,Complete
+Order New Device and Service,2024-09-04,2601072,Thomas Lopez,3058107584,AT&T United States,,,2024-09-05,Complete
+Upgrade Device,2024-04-12,2601073,Michelle Hernandez,5142289804,Rogers Canada,,,2024-04-15,Complete
+Suspend Service,2025-02-25,2601074,Sandra Moore,2127351092,Verizon United States,,,2025-02-25,Complete
+Lost / Stolen Device,2025-09-23,2601075,Melissa Nguyen,3059534380,AT&T United States,,,2025-09-24,Complete
+Upgrade Device,2025-07-15,2601076,William Wright,3124729113,AT&T United States,,,2025-07-22,Complete
+Order New Device and Service,2026-05-02,2601077,Richard Kim,2018003281,Verizon United States,,,2026-05-07,Complete
+Disconnect Service,2025-02-23,2601078,Jennifer Nguyen,9739023744,Verizon United States,,,2025-02-28,Complete
+Travel Request,2025-12-21,2601079,Olga Lopez,9052048618,Bell Canada,2026-01-01,2026-01-11,,Cancelled
+Travel Request,2024-07-19,2601080,Noah Tremblay,4158224789,AT&T United States,2024-08-06,2024-08-25,2024-07-22,Complete
+Disconnect Service,2026-07-19,2601081,Brian Smith,9733494468,Verizon United States,,,2026-07-20,Complete
+Upgrade Device,2024-08-16,2601082,Yuki Green,3128938622,AT&T United States,,,2024-08-16,Complete
+Lost / Stolen Device,2024-10-04,2601083,Hiroshi Brown,3103547514,AT&T United States,,,2024-10-08,Complete
+Travel Request,2024-08-27,2601084,Melissa Brown,6463150682,Verizon United States,2024-09-25,2024-10-04,2024-09-02,Complete
+Travel Request,2024-02-24,2601085,Thomas Hernandez,9173662911,Verizon United States,2024-03-18,2024-03-26,2024-02-27,Complete
+Travel Request,2026-09-17,2601086,Sofia Nguyen,6475578569,Bell Canada,2026-10-03,2026-10-23,2026-09-21,Complete
+Travel Request,2024-06-22,2601087,David Carter,2013190217,Verizon United States,2024-07-11,2024-07-26,2024-06-27,Complete
+Lost / Stolen Device,2024-12-02,2601088,Sarah Hall,9059417138,Bell Canada,,,2024-12-09,Complete
+Lost / Stolen Device,2024-12-02,2601089,Noah Robinson,2015516542,Verizon United States,,,2024-12-06,Complete
+Upgrade Device,2024-07-25,2601090,Fatima Green,3104695859,AT&T United States,,,2024-07-29,Complete
+Change Plan / Feature,2024-04-21,2601091,Anthony Taylor,5143019472,Rogers Canada,,,2024-04-21,Complete
+Disconnect Service,2025-05-23,2601092,Hiroshi Perez,3052401492,AT&T United States,,,2025-05-29,Complete
+Order New Device and Service,2025-05-19,2601093,Priya Patel,9733569266,Verizon United States,,,2025-05-21,Complete
+Order New Device and Service,2025-10-06,2601094,Patricia Anderson,4154871884,AT&T United States,,,2025-10-09,Complete
+Order New Device and Service,2025-05-21,2601095,Mia Anderson,6463588247,Verizon United States,,,,Cancelled
+Order New Device and Service,2024-01-11,2601096,Yuki Rodriguez,3103527772,AT&T United States,,,2024-01-18,Complete
+Travel Request,2025-04-14,2601097,Ava Carter,2018254466,Verizon United States,2025-05-12,2025-06-02,2025-04-22,Complete
+Suspend Service,2026-04-01,2601098,Yuki Young,2127471549,Verizon United States,,,2026-04-08,Complete
+Suspend Service,2024-08-14,2601099,Liam Williams,9178750847,Verizon United States,,,2024-08-19,Complete
+Change Plan / Feature,2024-06-24,2601100,Wei Walker,7029611311,T-Mobile United States,,,2024-06-24,Complete
+Disconnect Service,2025-06-30,2601101,Ahmed Jackson,6472119720,Bell Canada,,,2025-07-08,Complete
+Travel Request,2024-02-05,2601102,Sandra Baker,2012479647,Verizon United States,2024-03-03,2024-03-21,2024-02-13,Complete
+Disconnect Service,2024-06-03,2601103,Jessica Martin,6475605163,Bell Canada,,,2024-06-03,Complete
+Change Plan / Feature,2026-03-21,2601104,Mark Martinez,3108647839,AT&T United States,,,2026-03-27,Complete
+Order New Device and Service,2026-03-29,2601105,Ashley Smith,2142329898,AT&T United States,,,2026-04-06,Complete
+Change Plan / Feature,2024-01-13,2601106,Mateo Adams,2016091333,Verizon United States,,,,Cancelled
+Change Plan / Feature,2025-11-27,2601107,Karen Roberts,3054310054,AT&T United States,,,2025-12-04,Complete
+Disconnect Service,2024-06-17,2601108,Stephanie Green,6046165123,Rogers Canada,,,2024-06-18,Complete
+Travel Request,2024-04-17,2601109,Raj Carter,6465017543,Verizon United States,2024-05-08,2024-05-15,2024-04-17,Complete
+Upgrade Device,2024-09-03,2601110,Joshua Kim,4169102332,Bell Canada,,,2024-09-03,Complete
+Transfer of Liability,2025-08-14,2601111,Yuki Green,3128938622,AT&T United States,,,,Cancelled
+Change Plan / Feature,2025-10-16,2601112,Sandra Scott,2018306076,Verizon United States,,,2025-10-17,Complete
+Order New Device and Service,2025-01-04,2601113,Mark Harris,9172955056,Verizon United States,,,2025-01-09,Complete
+Change Plan / Feature,2024-02-05,2601114,Mateo Adams,2016091333,Verizon United States,,,2024-02-12,Complete
+Upgrade Device,2025-11-24,2601115,Sandra Rodriguez,6049021661,Rogers Canada,,,2025-11-26,Complete
+Disconnect Service,2025-05-20,2601116,Ahmed Martin,2018942772,Verizon United States,,,2025-05-28,Complete
+Lost / Stolen Device,2026-01-20,2601117,Mateo Adams,2016091333,Verizon United States,,,2026-01-22,Complete
+Upgrade Device,2025-07-29,2601118,Sarah Roberts,6313840087,Verizon United States,,,2025-08-05,Complete
+Order New Device and Service,2025-02-20,2601119,Jennifer Moore,2128132738,Verizon United States,,,2025-02-24,Complete
+Travel Request,2024-10-12,2601120,Barbara Williams,2145843363,AT&T United States,2024-10-22,2024-11-02,2024-10-17,Complete
+Change Plan / Feature,2025-07-08,2601121,Liam Thomas,3109539636,AT&T United States,,,,Cancelled
+Travel Request,2025-06-29,2601122,Ahmed Young,5032788430,T-Mobile United States,2025-07-05,2025-07-16,,Cancelled
+Change Plan / Feature,2026-07-12,2601123,Wei Lopez,4165019329,Bell Canada,,,2026-07-13,Complete
+Transfer of Liability,2026-05-15,2601124,Stephanie Gagnon,5145780472,Rogers Canada,,,2026-05-18,Complete
+Order New Device and Service,2024-10-23,2601125,Richard Thomas,4156929163,AT&T United States,,,2024-10-24,Complete
+Travel Request,2026-04-22,2601126,John Sanchez,6463666365,Verizon United States,2026-04-30,2026-05-16,2026-04-27,Complete
+Suspend Service,2025-03-12,2601127,Carlos Young,7022397100,T-Mobile United States,,,2025-03-17,Complete
+Travel Request,2026-07-18,2601128,Sofia Patel,3056246783,AT&T United States,2026-08-08,2026-08-22,,Cancelled
+Upgrade Device,2024-12-11,2601129,Robert Clark,6319530861,Verizon United States,,,2024-12-17,Complete
+Upgrade Device,2025-06-19,2601130,Mia Brown,6316694536,Verizon United States,,,2025-06-25,Complete
+Order New Device and Service,2025-11-05,2601131,Kevin Flores,3124752048,AT&T United States,,,2025-11-06,Complete
+Change Plan / Feature,2026-04-28,2601132,Ahmed Campbell,2145678311,AT&T United States,,,2026-04-29,Complete
+Lost / Stolen Device,2025-11-08,2601133,Brian Smith,4049682430,AT&T United States,,,2025-11-12,Complete
+Travel Request,2024-10-31,2601134,Robert Clark,6319530861,Verizon United States,2024-11-23,2024-12-02,2024-11-01,Complete
+Suspend Service,2025-11-26,2601135,John Sanchez,6463666365,Verizon United States,,,2025-11-28,Complete
+Order New Device and Service,2024-02-17,2601136,Ahmed Martin,2018942772,Verizon United States,,,2024-02-21,Complete
+Suspend Service,2024-05-31,2601137,Hiroshi Carter,6465587245,Verizon United States,,,2024-06-04,Complete
+Travel Request,2026-08-28,2601138,Ahmed Jackson,6472119720,Bell Canada,2026-09-22,2026-09-30,,Cancelled
+Disconnect Service,2026-07-15,2601139,Yuki Rodriguez,3103527772,AT&T United States,,,2026-07-16,Complete
+Lost / Stolen Device,2025-05-15,2601140,Michelle Wilson,9057535421,Bell Canada,,,2025-05-15,Complete
+Upgrade Device,2024-07-03,2601141,Ava Hall,4802925452,T-Mobile United States,,,2024-07-09,Complete
+Transfer of Liability,2024-04-19,2601142,Jennifer Roberts,4164246730,Bell Canada,,,2024-04-24,Complete
+Suspend Service,2024-08-06,2601143,Ashley Baker,2145919602,AT&T United States,,,2024-08-08,Complete
+Disconnect Service,2025-02-04,2601144,Andrew Davis,4046108536,AT&T United States,,,2025-02-10,Complete
+Upgrade Device,2025-04-03,2601145,Raj Harris,2124263683,Verizon United States,,,2025-04-07,Complete
+Change Plan / Feature,2024-02-01,2601146,Anthony Harris,2065297004,T-Mobile United States,,,2024-02-05,Complete
+Travel Request,2026-08-11,2601147,Jennifer Young,2147324423,AT&T United States,2026-08-31,2026-09-21,2026-08-12,Complete
+Order New Device and Service,2025-01-28,2601148,Carlos Smith,4164490915,Bell Canada,,,2025-01-29,Complete
+Change Plan / Feature,2025-06-30,2601149,Ashley Jones,6043374170,Rogers Canada,,,2025-07-03,Complete
+Travel Request,2024-09-03,2601150,Zoe Singh,9176977753,Verizon United States,2024-09-20,2024-10-10,2024-09-06,Complete
+Suspend Service,2025-03-07,2601151,Richard King,4042651112,AT&T United States,,,2025-03-10,Complete
+Lost / Stolen Device,2024-01-21,2601152,Hiroshi Clark,2012196268,Verizon United States,,,2024-01-22,Complete
+Transfer of Liability,2026-07-09,2601153,Melissa Mitchell,5033437697,T-Mobile United States,,,2026-07-09,Complete
+Upgrade Device,2024-06-14,2601154,Melissa Brown,2013038045,Verizon United States,,,2024-06-17,Complete
+Transfer of Liability,2025-02-14,2601155,Zoe Young,9177922280,Verizon United States,,,2025-02-21,Complete
+Suspend Service,2026-02-24,2601156,Ahmed Martin,2018942772,Verizon United States,,,2026-03-04,Complete
+Suspend Service,2025-12-17,2601157,Joshua Davis,2149879187,AT&T United States,,,2025-12-22,Complete
+Upgrade Device,2025-05-22,2601158,Wei Hall,4809171902,T-Mobile United States,,,2025-05-30,Complete
+Disconnect Service,2026-02-15,2601159,Yuki Wright,2128896436,Verizon United States,,,2026-02-17,Complete
+Order New Device and Service,2024-10-03,2601160,Mateo Adams,2129400220,Verizon United States,,,2024-10-09,Complete
+Travel Request,2026-06-04,2601161,Linda Johnson,4374614270,Rogers Canada,2026-06-17,2026-07-08,2026-06-08,Complete
+Disconnect Service,2024-04-01,2601162,Joshua Harris,9735852584,Verizon United States,,,2024-04-08,Complete
+Disconnect Service,2025-12-08,2601163,Kevin Carter,9732982906,Verizon United States,,,,Cancelled
+Upgrade Device,2026-04-08,2601164,Mateo Adams,2129400220,Verizon United States,,,2026-04-09,Complete
+Travel Request,2025-03-15,2601165,Joseph Rodriguez,4154035722,AT&T United States,2025-03-29,2025-04-16,2025-03-19,Complete
+Travel Request,2024-08-10,2601166,Carlos Harris,3122315556,AT&T United States,2024-09-08,2024-09-12,2024-08-10,Complete
+Transfer of Liability,2026-07-28,2601167,Yuki Flores,2015764508,Verizon United States,,,2026-07-31,Complete
+Disconnect Service,2024-01-01,2601168,Brian Patel,9056168515,Bell Canada,,,2024-01-01,Complete
+Disconnect Service,2025-01-26,2601169,Michael Carter,4808145111,T-Mobile United States,,,2025-01-27,Complete
+Lost / Stolen Device,2024-11-06,2601170,Melissa Garcia,6313907785,Verizon United States,,,2024-11-13,Complete
+Travel Request,2024-03-19,2601171,Paul Johnson,4153575410,AT&T United States,2024-03-28,2024-04-03,2024-03-19,Complete
+Disconnect Service,2024-05-03,2601172,Michelle King,9175327426,Verizon United States,,,2024-05-06,Complete
+Order New Device and Service,2026-04-18,2601173,Linda Chen,9739421290,Verizon United States,,,2026-04-24,Complete
+Change Plan / Feature,2024-08-14,2601174,Jennifer Young,2147324423,AT&T United States,,,2024-08-14,Complete
+Suspend Service,2025-11-30,2601175,Lisa Lewis,5143092155,Rogers Canada,,,2025-11-30,Complete
+Lost / Stolen Device,2024-11-10,2601176,Hiroshi Brown,3103547514,AT&T United States,,,2024-11-11,Complete
+Disconnect Service,2025-06-03,2601177,John Sanchez,6463666365,Verizon United States,,,2025-06-06,Complete
+Change Plan / Feature,2025-02-12,2601178,Ahmed Martin,3052316837,AT&T United States,,,2025-02-18,Complete
+Change Plan / Feature,2026-03-08,2601179,Leila Moore,2125185549,Verizon United States,,,2026-03-13,Complete
+Travel Request,2024-10-30,2601180,Charles Lewis,6462189944,Verizon United States,2024-11-08,2024-11-23,2024-11-01,Complete
+Travel Request,2026-01-18,2601181,Daniel Campbell,6468888102,Verizon United States,2026-02-13,2026-02-28,2026-01-20,Complete
+Disconnect Service,2026-05-16,2601182,Mateo Rodriguez,9739798644,Verizon United States,,,2026-05-21,Complete
+Upgrade Device,2024-08-21,2601183,Charles Lewis,6462189944,Verizon United States,,,2024-08-22,Complete
+Disconnect Service,2025-05-06,2601184,Ahmed Campbell,6047911672,Rogers Canada,,,2025-05-08,Complete
+Lost / Stolen Device,2026-02-25,2601185,Liam Hall,4043008605,AT&T United States,,,2026-03-03,Complete
+Upgrade Device,2025-11-10,2601186,Amanda Smith,9735349685,Verizon United States,,,2025-11-10,Complete
+Travel Request,2025-07-04,2601187,Sarah Green,9177772718,Verizon United States,2025-07-16,2025-07-22,2025-07-14,Complete
+Upgrade Device,2024-07-31,2601188,Priya Nguyen,3052071072,AT&T United States,,,2024-08-05,Complete
+Upgrade Device,2026-01-29,2601189,Mary Flores,3124403431,AT&T United States,,,2026-01-29,Complete
+Disconnect Service,2026-07-16,2601190,Karen Singh,9736729005,Verizon United States,,,2026-07-17,Complete
+Travel Request,2025-09-12,2601191,Lisa Lewis,5143092155,Rogers Canada,2025-09-18,2025-09-23,2025-09-17,Complete
+Travel Request,2025-12-18,2601192,Anthony Thomas,2017049359,Verizon United States,2025-12-29,2026-01-11,2025-12-23,Complete
+Suspend Service,2026-03-09,2601193,Mary Flores,3124403431,AT&T United States,,,2026-03-13,Complete
+Change Plan / Feature,2026-08-06,2601194,Yuki Scott,5145497111,Rogers Canada,,,2026-08-12,Complete
+Upgrade Device,2024-09-22,2601195,Linda Roberts,2144800431,AT&T United States,,,2024-09-22,Complete
+Travel Request,2024-01-14,2601196,Emily Anderson,7025275950,T-Mobile United States,2024-02-01,2024-02-04,2024-01-22,Complete
+Upgrade Device,2026-07-30,2601197,Amanda Patel,6462946879,Verizon United States,,,2026-08-05,Complete
+Travel Request,2024-07-27,2601198,Ashley Baker,2145919602,AT&T United States,2024-08-12,2024-08-26,2024-07-31,Complete
+Travel Request,2025-07-04,2601199,Mark Hill,3054043206,AT&T United States,2025-07-19,2025-07-24,,Cancelled
+Travel Request,2025-09-11,2601200,Priya Kim,6462949643,Verizon United States,2025-09-24,2025-09-29,2025-09-18,Complete
+Travel Request,2024-04-26,2601201,Paul Johnson,4153575410,AT&T United States,2024-05-15,2024-05-23,2024-05-01,Complete
+Order New Device and Service,2024-06-04,2601202,Sandra Baker,2012479647,Verizon United States,,,2024-06-10,Complete
+Upgrade Device,2025-11-26,2601203,Anthony Taylor,5143019472,Rogers Canada,,,2025-12-04,Complete
+Order New Device and Service,2026-08-18,2601204,Susan Gonzalez,7026879882,T-Mobile United States,,,2026-08-21,Complete
+Transfer of Liability,2024-08-08,2601205,Mary Rodriguez,9736392111,Verizon United States,,,2024-08-08,Complete
+Upgrade Device,2026-07-17,2601206,Ethan Mitchell,6462284023,Verizon United States,,,2026-07-21,Complete
+Order New Device and Service,2025-09-08,2601207,Daniel Campbell,4159486112,AT&T United States,,,2025-09-08,Complete
+Order New Device and Service,2024-08-02,2601208,Ava Hall,4802925452,T-Mobile United States,,,2024-08-06,Complete
+Travel Request,2024-08-26,2601209,Jessica Anderson,2129653764,Verizon United States,2024-09-04,2024-09-18,2024-08-27,Complete
+Upgrade Device,2025-02-04,2601210,Patricia Martinez,3102375558,AT&T United States,,,2025-02-12,Complete
+Travel Request,2025-03-30,2601211,Ashley White,3105261196,AT&T United States,2025-04-15,2025-05-03,2025-04-01,Complete
+Suspend Service,2024-01-11,2601212,Joshua Baker,6318781684,Verizon United States,,,2024-01-16,Complete
+Travel Request,2025-01-17,2601213,Olga Gonzalez,3104841760,AT&T United States,2025-02-04,2025-02-11,2025-01-23,Complete
+Order New Device and Service,2024-07-30,2601214,Robert Anderson,6318755901,Verizon United States,,,2024-08-05,Complete
+Transfer of Liability,2024-05-13,2601215,Brian Sanchez,4155246249,AT&T United States,,,2024-05-14,Complete
+Upgrade Device,2024-11-02,2601216,Ana Thompson,3102812654,AT&T United States,,,2024-11-06,Complete
+Travel Request,2024-04-18,2601217,Jessica Mitchell,6474690491,Bell Canada,2024-05-04,2024-05-22,2024-04-25,Complete
+Change Plan / Feature,2024-11-17,2601218,Robert Lewis,4379830579,Rogers Canada,,,2024-11-22,Complete
+Disconnect Service,2024-03-29,2601219,James Nelson,5145983485,Rogers Canada,,,2024-04-08,Complete
+Disconnect Service,2025-07-21,2601220,Charles Anderson,6045211932,Rogers Canada,,,,Cancelled
+Change Plan / Feature,2025-07-29,2601221,Kevin Gonzalez,6319502024,Verizon United States,,,2025-07-29,Complete
+Suspend Service,2025-06-05,2601222,Michelle King,9175327426,Verizon United States,,,2025-06-11,Complete
+Order New Device and Service,2024-06-12,2601223,Priya Scott,2147031310,AT&T United States,,,2024-06-13,Complete
+Travel Request,2025-06-28,2601224,Ethan Mitchell,6462284023,Verizon United States,2025-07-05,2025-07-13,2025-06-28,Complete
+Order New Device and Service,2026-08-23,2601225,Ashley Smith,2142329898,AT&T United States,,,2026-08-24,Complete
+Travel Request,2024-09-15,2601226,Zoe Rodriguez,2146956168,AT&T United States,2024-10-06,2024-10-11,2024-09-20,Complete
+Travel Request,2026-01-01,2601227,Mateo Young,4162749829,Bell Canada,2026-01-13,2026-01-19,,Cancelled
+Lost / Stolen Device,2024-12-09,2601228,Raj Lee,9177090506,Verizon United States,,,2024-12-16,Complete
+Travel Request,2025-06-25,2601229,Patricia Smith,2065515681,T-Mobile United States,2025-07-20,2025-07-23,2025-07-01,Complete
+Upgrade Device,2025-05-10,2601230,Sarah Gonzalez,2122979189,Verizon United States,,,2025-05-15,Complete
+Upgrade Device,2025-07-19,2601231,Chloe White,9176989038,Verizon United States,,,2025-07-21,Complete
+Upgrade Device,2026-07-09,2601232,Liam Williams,9178750847,Verizon United States,,,2026-07-16,Complete
+Disconnect Service,2024-05-30,2601233,Andrew Anderson,3102729360,AT&T United States,,,2024-06-04,Complete
+Travel Request,2026-02-21,2601234,Jennifer Thomas,3056726566,AT&T United States,2026-02-24,2026-03-07,2026-02-25,Complete
+Travel Request,2026-02-16,2601235,Patricia Scott,4046659021,AT&T United States,2026-03-06,2026-03-11,2026-02-24,Complete
+Change Plan / Feature,2024-03-14,2601236,Mateo Scott,2127197794,Verizon United States,,,2024-03-19,Complete
+Disconnect Service,2026-09-13,2601237,Steven Thompson,4049525747,AT&T United States,,,,In Progress
+Upgrade Device,2024-01-19,2601238,Stephanie Lee,6466523614,Verizon United States,,,2024-01-25,Complete
+Travel Request,2024-03-27,2601239,Raj Jones,3107364223,AT&T United States,2024-04-04,2024-04-17,2024-03-28,Complete
+Disconnect Service,2024-03-02,2601240,Nancy Hernandez,9175103609,Verizon United States,,,2024-03-07,Complete
+Suspend Service,2026-04-19,2601241,Daniel Campbell,2014370774,Verizon United States,,,2026-04-22,Complete
+Suspend Service,2026-01-07,2601242,Anthony Harris,2065297004,T-Mobile United States,,,2026-01-13,Complete
+Order New Device and Service,2024-06-21,2601243,Leila Scott,5149609852,Rogers Canada,,,2024-06-25,Complete
+Lost / Stolen Device,2025-05-10,2601244,Sofia Nguyen,6475578569,Bell Canada,,,2025-05-13,Complete
+Disconnect Service,2024-12-19,2601245,Betty White,9177640514,Verizon United States,,,2024-12-19,Complete
+Travel Request,2025-10-23,2601246,Ava Lopez,3056727523,AT&T United States,2025-11-07,2025-11-21,2025-10-23,Complete
+Order New Device and Service,2026-06-02,2601247,Mary Flores,3124403431,AT&T United States,,,2026-06-10,Complete
+Upgrade Device,2026-04-22,2601248,Yuki Flores,2015764508,Verizon United States,,,2026-04-29,Complete
+Order New Device and Service,2025-12-04,2601249,Chloe Campbell,9174807890,Verizon United States,,,2025-12-05,Complete
+Suspend Service,2026-05-13,2601250,Ava Clark,6467880947,Verizon United States,,,2026-05-14,Complete
+Suspend Service,2024-05-01,2601251,Ahmed Martin,9057739915,Bell Canada,,,2024-05-01,Complete
+Travel Request,2025-07-09,2601252,Olga Gonzalez,5034861759,T-Mobile United States,2025-07-29,2025-08-03,2025-07-14,Complete
+Travel Request,2026-06-10,2601253,James Wilson,2146143232,AT&T United States,2026-07-05,2026-07-09,2026-06-12,Complete
+Order New Device and Service,2025-05-12,2601254,Wei Walker,7029611311,T-Mobile United States,,,2025-05-12,Complete
+Change Plan / Feature,2024-01-03,2601255,Robert Clark,6319530861,Verizon United States,,,2024-01-05,Complete
+Lost / Stolen Device,2024-02-05,2601256,Michelle King,9175327426,Verizon United States,,,2024-02-09,Complete
+Change Plan / Feature,2024-02-17,2601257,Ethan Mitchell,6462284023,Verizon United States,,,2024-02-20,Complete
+Travel Request,2024-08-29,2601258,Anthony Smith,6479506716,Bell Canada,2024-09-17,2024-10-06,2024-09-05,Complete
+Lost / Stolen Device,2024-04-28,2601259,Wei Mitchell,3127986388,AT&T United States,,,2024-05-06,Complete
+Change Plan / Feature,2024-08-23,2601260,Betty White,9177640514,Verizon United States,,,2024-08-28,Complete
+Order New Device and Service,2026-03-04,2601261,Priya Scott,2147031310,AT&T United States,,,,Cancelled
+Upgrade Device,2024-12-25,2601262,Thomas White,6469387287,Verizon United States,,,2024-12-30,Complete
+Upgrade Device,2024-01-27,2601263,Stephanie Brown,3124544706,AT&T United States,,,2024-02-05,Complete
+Travel Request,2024-11-01,2601264,Mia Thomas,9737663763,Verizon United States,2024-11-19,2024-12-01,2024-11-05,Complete
+Upgrade Device,2026-01-29,2601265,Wei Jones,4153170870,AT&T United States,,,2026-02-02,Complete
+Order New Device and Service,2024-01-27,2601266,Nancy Robinson,4805966825,T-Mobile United States,,,2024-01-31,Complete
+Upgrade Device,2025-02-06,2601267,Ahmed Baker,4168625959,Bell Canada,,,,Cancelled
+Travel Request,2026-04-10,2601268,John Sanchez,6463666365,Verizon United States,2026-04-28,2026-05-07,2026-04-17,Complete
+Change Plan / Feature,2025-09-26,2601269,Lisa Ramirez,3058207878,AT&T United States,,,2025-10-03,Complete
+Upgrade Device,2026-07-21,2601270,Noah Tremblay,4158224789,AT&T United States,,,2026-07-22,Complete
+Suspend Service,2025-11-21,2601271,Amanda Patel,6462946879,Verizon United States,,,2025-12-01,Complete
+Lost / Stolen Device,2024-08-21,2601272,Raj Torres,6044825067,Rogers Canada,,,2024-08-28,Complete
+Upgrade Device,2026-06-22,2601273,Fatima Green,2016897843,Verizon United States,,,2026-06-22,Complete
+Travel Request,2024-01-16,2601274,Priya Cohen,9178524718,Verizon United States,2024-02-15,2024-03-06,2024-01-24,Complete
+Order New Device and Service,2024-05-19,2601275,Jennifer Hernandez,2144894626,AT&T United States,,,2024-05-19,Complete
+Change Plan / Feature,2025-06-21,2601276,John Roy,9739403509,Verizon United States,,,2025-06-25,Complete
+Suspend Service,2025-12-30,2601277,Wei Walker,7029611311,T-Mobile United States,,,2026-01-05,Complete
+Travel Request,2026-04-15,2601278,Michael Baker,3126775668,AT&T United States,2026-05-03,2026-05-07,2026-04-23,Complete
+Lost / Stolen Device,2026-01-13,2601279,Amanda Smith,9735349685,Verizon United States,,,,Cancelled
+Change Plan / Feature,2024-02-14,2601280,Robert Anderson,6318755901,Verizon United States,,,2024-02-16,Complete
+Change Plan / Feature,2025-07-15,2601281,Joseph Allen,6469870840,Verizon United States,,,2025-07-21,Complete
+Order New Device and Service,2024-01-28,2601282,Michelle King,9175327426,Verizon United States,,,2024-02-05,Complete
+Upgrade Device,2026-07-23,2601283,Hiroshi Nelson,3102059383,AT&T United States,,,2026-07-31,Complete
+Change Plan / Feature,2025-06-04,2601284,Lisa Jones,4157374953,AT&T United States,,,2025-06-05,Complete
+Travel Request,2026-07-23,2601285,Ahmed Campbell,3059796044,AT&T United States,2026-08-22,2026-08-25,2026-07-23,Complete
+Change Plan / Feature,2025-04-03,2601286,Anthony Baker,6315084500,Verizon United States,,,2025-04-09,Complete
+Order New Device and Service,2024-03-27,2601287,Richard Martinez,9738146931,Verizon United States,,,,Cancelled
+Upgrade Device,2026-09-10,2601288,Joseph Sanchez,9738365511,Verizon United States,,,,In Progress
+Change Plan / Feature,2026-08-27,2601289,Ava Clark,6467880947,Verizon United States,,,2026-08-27,Complete
+Travel Request,2025-12-01,2601290,Lisa Jones,4157374953,AT&T United States,2025-12-17,2025-12-25,2025-12-08,Complete
+Suspend Service,2024-01-24,2601291,Sofia Patel,3056246783,AT&T United States,,,2024-01-24,Complete
+Order New Device and Service,2025-06-26,2601292,Yuki Green,3128938622,AT&T United States,,,,Cancelled
+Travel Request,2024-07-24,2601293,Nancy Patel,6047792660,Rogers Canada,2024-08-23,2024-09-09,2024-07-24,Complete
+Transfer of Liability,2025-04-24,2601294,Mia Lee,4156396773,AT&T United States,,,,In Progress
+Travel Request,2025-08-19,2601295,Lisa Ramirez,3058207878,AT&T United States,2025-09-13,2025-10-04,2025-08-19,Complete
+Travel Request,2026-01-23,2601296,Andrew Anderson,3102729360,AT&T United States,2026-02-19,2026-03-04,2026-01-27,Complete
+Suspend Service,2025-05-03,2601297,Amanda Scott,3123162880,AT&T United States,,,2025-05-06,Complete
+Suspend Service,2025-05-02,2601298,Mateo Adams,2016091333,Verizon United States,,,,Cancelled
+Upgrade Device,2026-05-17,2601299,Daniel Campbell,2014370774,Verizon United States,,,2026-05-25,Complete
+Travel Request,2025-10-31,2601300,Wei Jones,4153170870,AT&T United States,2025-11-06,2025-11-13,2025-11-05,Complete
+Disconnect Service,2024-05-24,2601301,Robert Lewis,4379830579,Rogers Canada,,,2024-05-29,Complete
+Upgrade Device,2025-09-02,2601302,Raj Lee,9177090506,Verizon United States,,,2025-09-08,Complete
+Order New Device and Service,2024-01-28,2601303,Emily Jackson,4049882378,AT&T United States,,,2024-01-29,Complete
+Disconnect Service,2024-11-02,2601304,Mia Davis,6466408505,Verizon United States,,,2024-11-04,Complete
+Travel Request,2025-03-17,2601305,Sarah Clark,6046159501,Rogers Canada,2025-03-31,2025-04-03,2025-03-21,Complete
+Upgrade Device,2026-08-02,2601306,David Martinez,9172392350,Verizon United States,,,2026-08-04,Complete
+Order New Device and Service,2025-03-02,2601307,Barbara Sanchez,4152932845,AT&T United States,,,2025-03-07,Complete
+Travel Request,2024-07-12,2601308,Linda Taylor,9735410870,Verizon United States,2024-07-24,2024-08-07,,Cancelled
+Upgrade Device,2026-01-05,2601309,Jennifer Allen,6044515371,Rogers Canada,,,2026-01-08,Complete
+Change Plan / Feature,2026-03-12,2601310,Lisa Ramirez,3058207878,AT&T United States,,,2026-03-12,Complete
+Travel Request,2026-08-04,2601311,Mary Walker,5034533844,T-Mobile United States,2026-08-11,2026-08-31,2026-08-07,Complete
+Transfer of Liability,2024-07-10,2601312,Paul Lewis,9735239559,Verizon United States,,,2024-07-15,Complete
+Change Plan / Feature,2026-02-11,2601313,Elizabeth Young,6466360289,Verizon United States,,,2026-02-17,Complete
+Disconnect Service,2026-01-21,2601314,Omar Young,4159593318,AT&T United States,,,2026-01-29,Complete
+Suspend Service,2025-08-18,2601315,Olga Nguyen,6464105075,Verizon United States,,,2025-08-20,Complete
+Suspend Service,2025-02-22,2601316,Chloe White,9176989038,Verizon United States,,,2025-02-26,Complete
+Upgrade Device,2026-08-09,2601317,Brian Patel,9056168515,Bell Canada,,,2026-08-09,Complete
+Change Plan / Feature,2024-01-12,2601318,Fatima Green,2016897843,Verizon United States,,,2024-01-17,Complete
+Upgrade Device,2025-10-16,2601319,Jessica Mitchell,6474690491,Bell Canada,,,2025-10-24,Complete
+Travel Request,2026-05-10,2601320,Noah Tremblay,4158224789,AT&T United States,2026-05-31,2026-06-21,2026-05-12,Complete
+Change Plan / Feature,2024-01-18,2601321,Ava Clark,6467880947,Verizon United States,,,2024-01-23,Complete
+Upgrade Device,2024-06-15,2601322,Daniel Campbell,2014370774,Verizon United States,,,,Cancelled
+Upgrade Device,2025-05-06,2601323,Ana Thompson,3102812654,AT&T United States,,,2025-05-06,Complete
+Order New Device and Service,2024-10-13,2601324,Amanda Harris,6472065229,Bell Canada,,,2024-10-18,Complete
+Transfer of Liability,2024-01-18,2601325,Joshua Kim,6318660612,Verizon United States,,,,Cancelled
+Change Plan / Feature,2024-03-17,2601326,Jessica Campbell,2016841915,Verizon United States,,,2024-03-25,Complete
+Travel Request,2024-06-23,2601327,Nancy Adams,7029556586,T-Mobile United States,2024-07-02,2024-07-14,2024-06-24,Complete
+Travel Request,2025-03-21,2601328,Ahmed Martin,2018942772,Verizon United States,2025-04-17,2025-05-03,2025-03-31,Complete
+Upgrade Device,2024-02-23,2601329,Olga Cohen,2015985113,Verizon United States,,,2024-02-23,Complete
+Upgrade Device,2026-02-16,2601330,Thomas Adams,2144649309,AT&T United States,,,2026-02-19,Complete
+Lost / Stolen Device,2026-01-15,2601331,Noah Johnson,9733221163,Verizon United States,,,2026-01-23,Complete
+Order New Device and Service,2026-08-26,2601332,Michael Nelson,4045593485,AT&T United States,,,2026-09-01,Complete
+Travel Request,2025-01-19,2601333,Noah Novak,2129553696,Verizon United States,2025-02-15,2025-03-04,2025-01-20,Complete
+Change Plan / Feature,2025-02-28,2601334,Nancy Rodriguez,9179769499,Verizon United States,,,2025-03-10,Complete
+Travel Request,2024-08-15,2601335,Daniel Campbell,7027532612,T-Mobile United States,2024-09-07,2024-09-28,,Cancelled
+Upgrade Device,2026-03-28,2601336,Omar Young,4159593318,AT&T United States,,,2026-04-02,Complete
+Suspend Service,2026-05-10,2601337,Jennifer Nguyen,9739023744,Verizon United States,,,2026-05-12,Complete
+Upgrade Device,2025-10-29,2601338,David Martinez,3123646030,AT&T United States,,,2025-10-30,Complete
+Upgrade Device,2026-09-13,2601339,John Roy,9739403509,Verizon United States,,,2026-09-15,Complete
+Order New Device and Service,2026-05-31,2601340,Richard King,4042651112,AT&T United States,,,2026-06-01,Complete
+Change Plan / Feature,2026-04-20,2601341,Michelle Hill,3104675148,AT&T United States,,,2026-04-22,Complete
+Transfer of Liability,2024-02-27,2601342,Wei Garcia,2067866025,T-Mobile United States,,,2024-02-29,Complete
+Travel Request,2025-10-30,2601343,Brian Smith,9733494468,Verizon United States,2025-11-23,2025-11-30,2025-10-31,Complete
+Change Plan / Feature,2024-09-10,2601344,Elizabeth Nelson,9058730095,Bell Canada,,,2024-09-18,Complete
+Lost / Stolen Device,2024-09-18,2601345,Ahmed Martin,3105286465,AT&T United States,,,2024-09-26,Complete
+Suspend Service,2024-07-27,2601346,Paul Rivera,4044909859,AT&T United States,,,,Cancelled
+Upgrade Device,2026-01-18,2601347,Richard Martinez,9738146931,Verizon United States,,,2026-01-18,Complete
+Lost / Stolen Device,2025-07-22,2601348,Melissa Ramirez,6464343322,Verizon United States,,,2025-07-29,Complete
+Travel Request,2025-06-11,2601349,Ava Lopez,3056727523,AT&T United States,2025-06-16,2025-06-24,2025-06-19,Complete
+Order New Device and Service,2025-12-10,2601350,Mateo Robinson,6464701261,Verizon United States,,,2025-12-17,Complete
+Travel Request,2024-07-17,2601351,Yuki Rodriguez,3103527772,AT&T United States,2024-07-21,2024-08-11,2024-07-19,Complete
+Suspend Service,2024-06-09,2601352,Richard Martinez,9738146931,Verizon United States,,,2024-06-11,Complete
+Disconnect Service,2026-05-23,2601353,Jennifer Walker,6046106701,Rogers Canada,,,2026-05-25,Complete
+Upgrade Device,2024-10-02,2601354,Joseph Sanchez,9738365511,Verizon United States,,,2024-10-07,Complete
+Upgrade Device,2024-08-18,2601355,Kevin Roy,7028973130,T-Mobile United States,,,2024-08-26,Complete
+Upgrade Device,2026-03-26,2601356,Lisa Lewis,5143092155,Rogers Canada,,,2026-04-03,Complete
+Travel Request,2025-12-11,2601357,Stephanie Brown,3124544706,AT&T United States,2025-12-27,2026-01-10,2025-12-12,Complete
+Travel Request,2026-05-21,2601358,Michael Thompson,6315621071,Verizon United States,2026-05-31,2026-06-10,2026-05-26,Complete
+Order New Device and Service,2025-10-05,2601359,Sofia Patel,3056246783,AT&T United States,,,2025-10-06,Complete
+Upgrade Device,2024-06-01,2601360,Joshua Taylor,2066087074,T-Mobile United States,,,2024-06-05,Complete
+Suspend Service,2025-07-18,2601361,Richard Thomas,4156929163,AT&T United States,,,2025-07-28,Complete
+Upgrade Device,2024-06-26,2601362,Chloe Hall,9174948096,Verizon United States,,,2024-07-01,Complete
+Upgrade Device,2024-04-25,2601363,Sofia Patel,3056246783,AT&T United States,,,2024-05-01,Complete
+Order New Device and Service,2024-03-30,2601364,Barbara Roberts,6463001942,Verizon United States,,,2024-04-02,Complete
+Travel Request,2024-08-12,2601365,Brian Sanchez,4155246249,AT&T United States,2024-09-05,2024-09-13,2024-08-20,Complete
+Transfer of Liability,2025-04-18,2601366,Daniel Lopez,6468991610,Verizon United States,,,2025-04-25,Complete
+Travel Request,2025-05-03,2601367,Liam Scott,4155717786,AT&T United States,2025-05-29,2025-06-05,2025-05-08,Complete
+Order New Device and Service,2026-07-08,2601368,Hiroshi Clark,2012196268,Verizon United States,,,2026-07-15,Complete
+Change Plan / Feature,2024-04-23,2601369,Chloe Hall,9174948096,Verizon United States,,,2024-04-23,Complete
+Suspend Service,2026-08-20,2601370,Mia Lee,4156396773,AT&T United States,,,2026-08-21,Complete
+Upgrade Device,2024-06-10,2601371,Zoe Harris,9738246947,Verizon United States,,,2024-06-17,Complete
+Upgrade Device,2024-07-01,2601372,Patricia Scott,4046659021,AT&T United States,,,2024-07-09,Complete
+Upgrade Device,2025-07-21,2601373,Ahmed Martin,3105286465,AT&T United States,,,2025-07-21,Complete
+Upgrade Device,2024-12-21,2601374,Lisa Chen,4169113483,Bell Canada,,,2024-12-26,Complete
+Transfer of Liability,2026-02-07,2601375,Yuki King,4155307035,AT&T United States,,,,In Progress
+Order New Device and Service,2024-09-13,2601376,Amanda Harris,6472065229,Bell Canada,,,2024-09-19,Complete
+Change Plan / Feature,2024-05-02,2601377,Kevin Roy,7028973130,T-Mobile United States,,,,Cancelled
+Upgrade Device,2026-08-13,2601378,Nancy Thomas,9178462897,Verizon United States,,,2026-08-17,Complete
+Travel Request,2025-06-03,2601379,Kevin Flores,3124752048,AT&T United States,2025-06-08,2025-06-27,2025-06-09,Complete
+Upgrade Device,2026-05-07,2601380,Ahmed Singh,6314705036,Verizon United States,,,2026-05-14,Complete
+Change Plan / Feature,2026-08-17,2601381,Carlos Martin,6317789809,Verizon United States,,,2026-08-17,Complete
+Order New Device and Service,2025-05-31,2601382,Ahmed Campbell,3059796044,AT&T United States,,,2025-06-04,Complete
+Disconnect Service,2024-11-16,2601383,Ava Garcia,3055995282,AT&T United States,,,2024-11-22,Complete
+Upgrade Device,2025-03-25,2601384,David Walker,2015212780,Verizon United States,,,2025-03-25,Complete
+Travel Request,2024-09-04,2601385,John Nelson,2146383990,AT&T United States,2024-09-13,2024-09-29,,Cancelled
+Travel Request,2025-01-07,2601386,Paul Lewis,4047112381,AT&T United States,2025-01-29,2025-02-14,2025-01-13,Complete
+Transfer of Liability,2024-11-09,2601387,Stephanie Jackson,9737917326,Verizon United States,,,2024-11-12,Complete
+Change Plan / Feature,2026-07-16,2601388,Carlos Moore,6312889276,Verizon United States,,,2026-07-21,Complete
+Transfer of Liability,2026-05-24,2601389,Michael Lewis,4803571153,T-Mobile United States,,,2026-05-29,Complete
+Upgrade Device,2025-04-15,2601390,Stephanie Lee,6466523614,Verizon United States,,,2025-04-18,Complete
+Order New Device and Service,2025-04-19,2601391,Kevin Carter,9732982906,Verizon United States,,,2025-04-23,Complete
+Change Plan / Feature,2026-02-15,2601392,Ethan Anderson,2067313448,T-Mobile United States,,,2026-02-23,Complete
+Lost / Stolen Device,2025-05-16,2601393,Ahmed Moore,4375792166,Rogers Canada,,,2025-05-16,Complete
+Change Plan / Feature,2025-04-22,2601394,Charles Lee,5036497372,T-Mobile United States,,,2025-04-30,Complete
+Travel Request,2025-01-18,2601395,Paul Lewis,9735239559,Verizon United States,2025-02-16,2025-03-02,2025-01-22,Complete
+Travel Request,2024-03-11,2601396,John Brown,9059016347,Bell Canada,2024-04-05,2024-04-18,2024-03-14,Complete
+Upgrade Device,2026-01-21,2601397,Zoe Singh,9176977753,Verizon United States,,,,Cancelled
+Upgrade Device,2025-10-09,2601398,Nancy Lee,4152453460,AT&T United States,,,2025-10-17,Complete
+Change Plan / Feature,2025-07-31,2601399,Nancy Garcia,3106497478,AT&T United States,,,2025-08-05,Complete
+Travel Request,2025-08-11,2601400,Hiroshi Clark,5146329619,Rogers Canada,2025-08-17,2025-08-22,2025-08-13,Complete
+Disconnect Service,2025-02-19,2601401,Nancy Adams,7029556586,T-Mobile United States,,,2025-02-27,Complete
+Order New Device and Service,2025-05-11,2601402,Karen Moore,2129014916,Verizon United States,,,,Cancelled
+Order New Device and Service,2024-06-30,2601403,Mateo Chen,2124544925,Verizon United States,,,2024-06-30,Complete
+Travel Request,2026-08-16,2601404,Ahmed Martin,3052316837,AT&T United States,2026-08-20,2026-08-30,2026-08-19,Complete
+Transfer of Liability,2025-10-25,2601405,Stephanie Taylor,2018642732,Verizon United States,,,2025-10-25,Complete
+Upgrade Device,2025-01-16,2601406,Michael Torres,9737184007,Verizon United States,,,2025-01-21,Complete
+Change Plan / Feature,2026-01-06,2601407,Raj Harris,2124263683,Verizon United States,,,,In Progress
+Lost / Stolen Device,2026-08-03,2601408,Paul Lewis,4047112381,AT&T United States,,,,Cancelled
+Disconnect Service,2025-10-16,2601409,Fatima Green,9173436577,Verizon United States,,,,Cancelled
+Disconnect Service,2024-02-12,2601410,Hiroshi Brown,3103547514,AT&T United States,,,2024-02-13,Complete
+Upgrade Device,2024-10-26,2601411,Richard Thomas,4156929163,AT&T United States,,,2024-10-30,Complete
+Travel Request,2025-11-30,2601412,Ava Clark,6467880947,Verizon United States,2025-12-21,2026-01-06,2025-12-03,Complete
+Travel Request,2024-05-29,2601413,Linda Roberts,2144800431,AT&T United States,2024-06-11,2024-06-14,,Cancelled
+Travel Request,2025-05-22,2601414,Melissa Hill,7029997758,T-Mobile United States,2025-06-06,2025-06-18,2025-05-29,Complete
+Change Plan / Feature,2024-09-05,2601415,Joshua Singh,3058710812,AT&T United States,,,2024-09-09,Complete
+Travel Request,2024-01-23,2601416,Karen Singh,9736729005,Verizon United States,2024-02-13,2024-03-03,2024-01-23,Complete
+Upgrade Device,2025-12-22,2601417,Betty Taylor,5147065848,Rogers Canada,,,2025-12-30,Complete
+Suspend Service,2025-08-11,2601418,Mia Miller,2122417711,Verizon United States,,,2025-08-15,Complete
+Travel Request,2026-04-18,2601419,Hiroshi Brown,3103547514,AT&T United States,2026-05-07,2026-05-13,2026-04-23,Complete
+Change Plan / Feature,2026-08-18,2601420,Stephanie Green,6046165123,Rogers Canada,,,2026-08-18,Complete
+Change Plan / Feature,2025-11-06,2601421,Ahmed Campbell,3052683798,AT&T United States,,,2025-11-13,Complete
+Change Plan / Feature,2026-08-25,2601422,Leila Davis,2148428737,AT&T United States,,,2026-08-27,Complete
+Travel Request,2026-08-18,2601423,David Nelson,4803174560,T-Mobile United States,2026-09-01,2026-09-15,2026-08-24,Complete
+Travel Request,2025-08-14,2601424,Yuki Garcia,2014894312,Verizon United States,2025-08-20,2025-09-04,,Cancelled
+Upgrade Device,2026-03-29,2601425,Stephanie Baker,6319249685,Verizon United States,,,2026-03-30,Complete
+Suspend Service,2025-01-22,2601426,Ahmed Singh,6314705036,Verizon United States,,,,In Progress
+Change Plan / Feature,2024-05-25,2601427,Karen Singh,9736729005,Verizon United States,,,2024-05-29,Complete
+Upgrade Device,2025-02-19,2601428,Sandra Moore,2127351092,Verizon United States,,,2025-02-19,Complete
+Upgrade Device,2024-04-08,2601429,Zoe Thompson,6317988369,Verizon United States,,,2024-04-16,Complete
+Travel Request,2024-08-28,2601430,Zoe Brown,4048356031,AT&T United States,2024-09-08,2024-09-19,2024-09-05,Complete
+Order New Device and Service,2024-07-06,2601431,Thomas Brown,2063262879,T-Mobile United States,,,2024-07-09,Complete
+Travel Request,2026-04-30,2601432,Robert Lewis,4379830579,Rogers Canada,2026-05-07,2026-05-14,2026-05-05,Complete
+Upgrade Device,2026-06-23,2601433,Fatima Green,2016897843,Verizon United States,,,2026-06-26,Complete
+Upgrade Device,2026-07-14,2601434,Ethan Wright,3128510747,AT&T United States,,,2026-07-21,Complete
+Suspend Service,2024-02-19,2601435,Joshua Kim,6318660612,Verizon United States,,,2024-02-26,Complete
+Upgrade Device,2026-06-13,2601436,Olga Walker,9734934664,Verizon United States,,,2026-06-18,Complete
+Upgrade Device,2025-01-19,2601437,Michelle Wright,4169603471,Bell Canada,,,2025-01-22,Complete
+Order New Device and Service,2026-07-06,2601438,Charles Martin,5035531588,T-Mobile United States,,,2026-07-14,Complete
+Transfer of Liability,2026-03-07,2601439,Yuki Young,2127471549,Verizon United States,,,2026-03-12,Complete
+Suspend Service,2024-01-05,2601440,Charles Lewis,6462189944,Verizon United States,,,,Cancelled
+Suspend Service,2025-10-08,2601441,Ethan Wright,3128510747,AT&T United States,,,2025-10-15,Complete
+Order New Device and Service,2025-01-22,2601442,Lisa Lewis,5143092155,Rogers Canada,,,,Cancelled
+Travel Request,2024-06-10,2601443,Zoe Young,9177922280,Verizon United States,2024-06-28,2024-07-18,2024-06-14,Complete
+Upgrade Device,2025-03-27,2601444,Zoe Harris,9738246947,Verizon United States,,,,Cancelled
+Change Plan / Feature,2026-07-18,2601445,Olga Gonzalez,3104841760,AT&T United States,,,2026-07-20,Complete
+Travel Request,2026-07-28,2601446,Paul Lewis,9735239559,Verizon United States,2026-08-05,2026-08-16,2026-07-30,Complete
+Upgrade Device,2025-06-20,2601447,Wei Lopez,4165019329,Bell Canada,,,2025-06-24,Complete
+Suspend Service,2024-04-12,2601448,Daniel Campbell,6468888102,Verizon United States,,,,Cancelled
+Change Plan / Feature,2026-02-17,2601449,Andrew Anderson,3102729360,AT&T United States,,,2026-02-20,Complete
+Upgrade Device,2024-10-02,2601450,Richard Sanchez,6046109675,Rogers Canada,,,2024-10-08,Complete
+Upgrade Device,2026-01-26,2601451,Nancy Garcia,3106497478,AT&T United States,,,2026-01-29,Complete
+Travel Request,2025-01-09,2601452,Kevin Thomas,9178113788,Verizon United States,2025-01-20,2025-01-28,2025-01-10,Complete
+Travel Request,2025-10-13,2601453,Ana King,4045880424,AT&T United States,2025-10-25,2025-11-13,2025-10-20,Complete
+Upgrade Device,2026-04-04,2601454,Michelle Hill,3104675148,AT&T United States,,,2026-04-10,Complete
+Travel Request,2026-05-22,2601455,Ethan Campbell,9739399635,Verizon United States,2026-06-17,2026-06-27,2026-05-29,Complete
+Disconnect Service,2026-03-06,2601456,Raj Harris,2124263683,Verizon United States,,,2026-03-09,Complete
+Disconnect Service,2026-04-05,2601457,Barbara Roberts,6463001942,Verizon United States,,,2026-04-08,Complete
+Upgrade Device,2025-08-19,2601458,James Nelson,5145983485,Rogers Canada,,,2025-08-26,Complete
+Upgrade Device,2026-02-14,2601459,Stephanie Baker,9733828335,Verizon United States,,,2026-02-16,Complete
+Change Plan / Feature,2025-10-18,2601460,Olga Gonzalez,5034861759,T-Mobile United States,,,,Cancelled
+Order New Device and Service,2024-11-19,2601461,Betty White,6465066391,Verizon United States,,,2024-11-22,Complete
+Travel Request,2024-11-14,2601462,Wei Lopez,4165019329,Bell Canada,2024-12-02,2024-12-16,2024-11-21,Complete
+Upgrade Device,2024-06-29,2601463,Susan Nguyen,2016957105,Verizon United States,,,2024-07-04,Complete
+Travel Request,2026-03-06,2601464,Mateo Adams,9733978008,Verizon United States,2026-03-10,2026-03-17,2026-03-16,Complete
+Lost / Stolen Device,2024-09-18,2601465,Paul Lewis,3108792402,AT&T United States,,,2024-09-19,Complete
+Order New Device and Service,2024-06-09,2601466,Ashley White,3105261196,AT&T United States,,,2024-06-14,Complete
+Order New Device and Service,2026-02-13,2601467,Priya Nguyen,3052071072,AT&T United States,,,2026-02-23,Complete
+Disconnect Service,2026-02-02,2601468,Ana Torres,3104652668,AT&T United States,,,2026-02-05,Complete
+Travel Request,2024-12-06,2601469,Melissa Brown,6463150682,Verizon United States,2024-12-15,2025-01-03,2024-12-09,Complete
+Travel Request,2026-08-16,2601470,Mateo Rodriguez,9739798644,Verizon United States,2026-08-25,2026-08-28,2026-08-20,Complete
+Lost / Stolen Device,2026-04-05,2601471,Kevin Carter,9732982906,Verizon United States,,,2026-04-09,Complete
+Travel Request,2026-07-10,2601472,Yuki Gagnon,7026984915,T-Mobile United States,2026-08-02,2026-08-23,2026-07-13,Complete
+Travel Request,2025-03-29,2601473,Mary Flores,3124403431,AT&T United States,2025-04-28,2025-05-05,2025-04-01,Complete
+Disconnect Service,2026-04-29,2601474,Paul Lewis,4045238693,AT&T United States,,,2026-05-01,Complete
+Change Plan / Feature,2026-07-28,2601475,Karen Hernandez,6313261241,Verizon United States,,,2026-08-03,Complete
+Upgrade Device,2024-09-18,2601476,Carlos Moore,6312889276,Verizon United States,,,2024-09-26,Complete
+Upgrade Device,2025-02-21,2601477,Fatima Green,3104695859,AT&T United States,,,2025-02-24,Complete
+Upgrade Device,2025-09-14,2601478,Ana Nguyen,4048195356,AT&T United States,,,2025-09-14,Complete
+Lost / Stolen Device,2026-03-08,2601479,Noah Tremblay,4158224789,AT&T United States,,,2026-03-11,Complete
+Upgrade Device,2026-02-27,2601480,Noah Novak,2129553696,Verizon United States,,,2026-03-05,Complete
+Upgrade Device,2026-07-11,2601481,Hiroshi Perez,3052401492,AT&T United States,,,2026-07-15,Complete
+Upgrade Device,2025-03-31,2601482,Fatima Green,9173436577,Verizon United States,,,2025-03-31,Complete
+Order New Device and Service,2026-01-01,2601483,Steven Thompson,4049525747,AT&T United States,,,2026-01-08,Complete
+Order New Device and Service,2025-09-22,2601484,Mary Lopez,4806537531,T-Mobile United States,,,2025-09-22,Complete
+Order New Device and Service,2026-09-10,2601485,Karen Moore,2129014916,Verizon United States,,,,In Progress
+Upgrade Device,2025-07-25,2601486,Mateo Baker,5032442095,T-Mobile United States,,,2025-08-04,Complete
+Order New Device and Service,2024-12-22,2601487,Joshua Anderson,9176532071,Verizon United States,,,2024-12-24,Complete
+Upgrade Device,2024-05-19,2601488,Carlos Flores,2125464092,Verizon United States,,,2024-05-20,Complete
+Travel Request,2024-05-30,2601489,Anthony Thomas,2017049359,Verizon United States,2024-06-09,2024-06-14,2024-05-30,Complete
+Travel Request,2025-09-12,2601490,Mia Miller,2122417711,Verizon United States,2025-10-06,2025-10-26,2025-09-17,Complete
+Order New Device and Service,2025-03-25,2601491,Olga Walker,9734934664,Verizon United States,,,2025-04-02,Complete
+Upgrade Device,2024-03-30,2601492,Noah Wright,6319745690,Verizon United States,,,2024-04-08,Complete
+Transfer of Liability,2026-01-15,2601493,Yuki Ramirez,9179783793,Verizon United States,,,,Cancelled
+Lost / Stolen Device,2026-02-04,2601494,Wei Johnson,3102389308,AT&T United States,,,2026-02-11,Complete
+Travel Request,2024-01-15,2601495,Kevin Flores,3124752048,AT&T United States,2024-02-09,2024-02-18,2024-01-15,Complete
+Upgrade Device,2025-11-07,2601496,Joseph Brown,2124407073,Verizon United States,,,2025-11-17,Complete
+Suspend Service,2024-05-06,2601497,Yuki Garcia,2014894312,Verizon United States,,,2024-05-07,Complete
+Order New Device and Service,2025-11-23,2601498,Patricia Scott,6045133143,Rogers Canada,,,2025-11-28,Complete
+Travel Request,2024-06-14,2601499,Michael Ramirez,7029680388,T-Mobile United States,2024-07-02,2024-07-23,2024-06-21,Complete
+Upgrade Device,2024-08-08,2601500,Zoe Miller,5037242726,T-Mobile United States,,,2024-08-16,Complete
+Upgrade Device,2025-01-25,2601501,Daniel Campbell,6468888102,Verizon United States,,,2025-01-25,Complete
+Suspend Service,2025-04-05,2601502,Mary Rodriguez,9736392111,Verizon United States,,,2025-04-10,Complete
+Change Plan / Feature,2026-02-14,2601503,Anthony Thomas,2125349053,Verizon United States,,,2026-02-16,Complete
+Suspend Service,2026-07-14,2601504,Ahmed Campbell,6047911672,Rogers Canada,,,2026-07-14,Complete
+Order New Device and Service,2026-04-20,2601505,Ava Lopez,3056727523,AT&T United States,,,2026-04-21,Complete
+Disconnect Service,2025-05-12,2601506,Mateo Adams,2016091333,Verizon United States,,,2025-05-16,Complete
+Travel Request,2026-06-04,2601507,Ahmed Young,5032788430,T-Mobile United States,2026-06-25,2026-07-15,2026-06-05,Complete
+Upgrade Device,2026-04-10,2601508,Ana Adams,2126194478,Verizon United States,,,2026-04-15,Complete
+Lost / Stolen Device,2024-11-05,2601509,Richard Kim,2018003281,Verizon United States,,,2024-11-12,Complete
+Upgrade Device,2025-07-31,2601510,David Martinez,3123646030,AT&T United States,,,2025-08-08,Complete
+Travel Request,2024-08-22,2601511,Daniel Campbell,6468888102,Verizon United States,2024-08-25,2024-08-28,2024-08-26,Complete
+Disconnect Service,2026-09-03,2601512,David Flores,2065860665,T-Mobile United States,,,2026-09-08,Complete
+Travel Request,2024-03-30,2601513,Stephanie Baker,6462716322,Verizon United States,2024-04-29,2024-05-06,2024-04-03,Complete
+Suspend Service,2026-05-28,2601514,Amanda Patel,6462946879,Verizon United States,,,2026-06-03,Complete
+Upgrade Device,2026-03-01,2601515,William Wright,3124729113,AT&T United States,,,2026-03-03,Complete
+Travel Request,2024-05-08,2601516,Ahmed Jackson,6472119720,Bell Canada,2024-06-04,2024-06-09,2024-05-10,Complete
+Disconnect Service,2026-01-24,2601517,Noah Anderson,4047098437,AT&T United States,,,,Cancelled
+Lost / Stolen Device,2026-01-26,2601518,Robert Williams,2014764129,Verizon United States,,,2026-01-26,Complete
+Upgrade Device,2025-07-12,2601519,Carlos Adams,2017741435,Verizon United States,,,2025-07-17,Complete
+Upgrade Device,2025-11-19,2601520,Patricia Martinez,3102375558,AT&T United States,,,2025-11-26,Complete
+Upgrade Device,2026-05-09,2601521,David Williams,9174028740,Verizon United States,,,2026-05-14,Complete
+Order New Device and Service,2026-06-07,2601522,Priya Lopez,6042738899,Rogers Canada,,,2026-06-12,Complete
+Travel Request,2025-09-08,2601523,William King,6313739614,Verizon United States,2025-09-17,2025-09-29,2025-09-12,Complete
+Change Plan / Feature,2024-01-27,2601524,Elizabeth Young,6466360289,Verizon United States,,,2024-01-31,Complete
+Upgrade Device,2026-02-06,2601525,Wei Walker,7029611311,T-Mobile United States,,,2026-02-12,Complete
+Travel Request,2024-06-06,2601526,Ava Carter,2018254466,Verizon United States,2024-06-12,2024-06-25,2024-06-10,Complete
+Travel Request,2026-04-19,2601527,Anthony Miller,6318279731,Verizon United States,2026-05-07,2026-05-16,2026-04-19,Complete
+Upgrade Device,2024-05-26,2601528,Elizabeth Smith,4803345554,T-Mobile United States,,,2024-05-31,Complete
+Change Plan / Feature,2026-08-11,2601529,Mateo Adams,9733978008,Verizon United States,,,2026-08-12,Complete
+Order New Device and Service,2024-12-02,2601530,Ava Roberts,4376160555,Rogers Canada,,,2024-12-05,Complete
+Lost / Stolen Device,2026-04-04,2601531,Thomas White,6469387287,Verizon United States,,,2026-04-07,Complete
+Suspend Service,2025-06-11,2601532,Michelle Wilson,9057535421,Bell Canada,,,2025-06-19,Complete
+Lost / Stolen Device,2026-02-28,2601533,Wei Walker,7029611311,T-Mobile United States,,,2026-03-04,Complete
+Order New Device and Service,2024-10-20,2601534,Jessica Thomas,3103305106,AT&T United States,,,2024-10-21,Complete
+Travel Request,2024-05-13,2601535,Mark Scott,5033720043,T-Mobile United States,2024-05-26,2024-06-02,2024-05-20,Complete
+Transfer of Liability,2026-08-31,2601536,Leila Davis,2148428737,AT&T United States,,,2026-09-08,Complete
+Upgrade Device,2025-01-06,2601537,Kevin Nelson,4046289977,AT&T United States,,,2025-01-09,Complete
+Disconnect Service,2026-02-09,2601538,Charles Lewis,6462189944,Verizon United States,,,2026-02-10,Complete
+Order New Device and Service,2026-04-02,2601539,Hiroshi Clark,2012109790,Verizon United States,,,2026-04-08,Complete
+Travel Request,2024-08-31,2601540,John Roy,9739403509,Verizon United States,2024-09-22,2024-10-11,,Cancelled
+Suspend Service,2024-07-05,2601541,Joseph Roy,3128484783,AT&T United States,,,,Cancelled
+Disconnect Service,2024-02-22,2601542,Priya Kim,6462949643,Verizon United States,,,2024-02-27,Complete
+Upgrade Device,2024-12-07,2601543,Mia Nelson,4162990877,Bell Canada,,,2024-12-12,Complete
+Order New Device and Service,2025-11-17,2601544,Stephanie Anderson,3058517551,AT&T United States,,,2025-11-17,Complete
+Order New Device and Service,2024-08-05,2601545,Richard King,4373664974,Rogers Canada,,,2024-08-12,Complete
+Travel Request,2026-02-26,2601546,Susan Lewis,9057579341,Bell Canada,2026-03-05,2026-03-19,2026-03-06,Complete
+Change Plan / Feature,2024-09-17,2601547,Sarah Kim,4375508504,Rogers Canada,,,2024-09-20,Complete
+Order New Device and Service,2025-10-11,2601548,Mia Clark,4157909435,AT&T United States,,,2025-10-16,Complete
+Upgrade Device,2026-07-27,2601549,Stephanie Green,6046165123,Rogers Canada,,,2026-07-27,Complete

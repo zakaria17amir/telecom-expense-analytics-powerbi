@@ -1,0 +1,18 @@
+expression DataFolder = "E:\Data Visualization\NewPBI\telecom-expense-service-analytics\data\" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: 0822e8f3-6c03-1199-972a-846916419f82
+
+	annotation PBI_ResultType = Text
+
+expression LoadCsv =
+		(name as text, types as list) as table =>
+		let
+		    Source = Csv.Document(File.Contents(DataFolder & name & ".csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+		    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+		    Selected = Table.SelectColumns(Promoted, List.Transform(types, each _{0})),
+		    Blanks = Table.ReplaceValue(Selected, "", null, Replacer.ReplaceValue, Table.ColumnNames(Selected)),
+		    Typed = Table.TransformColumnTypes(Blanks, types, "en-US")
+		in
+		    Typed
+	lineageTag: 3b8faa18-37f8-a88b-17fc-695a07a0ca6e
+
+	annotation PBI_ResultType = Function

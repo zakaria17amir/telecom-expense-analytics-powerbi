@@ -1,0 +1,108 @@
+table 'Tangoe Activities'
+	lineageTag: 57a28e2f-9baf-47b1-8d11-c5b4c6a4ec5e
+
+	column 'Activity Type'
+		dataType: string
+		lineageTag: 5a892b2d-b896-4637-8c09-31385d02bba4
+		summarizeBy: none
+		sourceColumn: Activity Type
+
+		annotation SummarizationSetBy = Automatic
+
+	column Created
+		dataType: dateTime
+		formatString: mm/dd/yyyy
+		lineageTag: 22bea394-1c74-4b21-93dc-72cf3c694d33
+		summarizeBy: none
+		sourceColumn: Created
+
+		changedProperty = DataType
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isDateTimeCustom":true}
+
+	column ID
+		dataType: int64
+		formatString: 0
+		lineageTag: 70f43ed0-da2f-457e-b38d-a74771233693
+		summarizeBy: none
+		sourceColumn: ID
+
+		annotation SummarizationSetBy = User
+
+	column 'Person Activity For'
+		dataType: string
+		lineageTag: 674534e0-f3dc-4f81-8523-25041a3a95b0
+		summarizeBy: none
+		sourceColumn: Person Activity For
+
+		annotation SummarizationSetBy = Automatic
+
+	column Line
+		dataType: string
+		lineageTag: 4f4630ba-4d59-422b-baa9-bb1396fdbace
+		summarizeBy: none
+		sourceColumn: Line
+
+		annotation SummarizationSetBy = Automatic
+
+	column Carrier
+		dataType: string
+		lineageTag: 0c2096b1-5720-477b-a16a-286cf7e41b9c
+		summarizeBy: none
+		sourceColumn: Carrier
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Departure Date'
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 9ade0195-8007-4ced-9a90-786df8dce4d3
+		summarizeBy: none
+		sourceColumn: Departure Date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column 'Return Date'
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: c87f42a4-fab6-44d3-b9b9-a90031780345
+		summarizeBy: none
+		sourceColumn: Return Date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column 'Completed At'
+		dataType: dateTime
+		formatString: General Date
+		lineageTag: d2349495-f073-4982-9e3c-0b2bd96d9c03
+		summarizeBy: none
+		sourceColumn: Completed At
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Activity State'
+		dataType: string
+		lineageTag: 0cbf99e1-20ed-4c26-831e-5a6a9f55a85d
+		summarizeBy: none
+		sourceColumn: Activity State
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Tangoe Activities' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("Tangoe Activities", {{"Activity Type", type text}, {"Created", type date}, {"ID", Int64.Type}, {"Person Activity For", type text}, {"Line", type text}, {"Carrier", type text}, {"Departure Date", type date}, {"Return Date", type date}, {"Completed At", type date}, {"Activity State", type text}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

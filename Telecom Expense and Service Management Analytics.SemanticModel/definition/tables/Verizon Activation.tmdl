@@ -1,0 +1,178 @@
+table 'Verizon Activation'
+	lineageTag: 3b3ee0f2-9cb1-4e50-b214-3f5cc49959fb
+
+	column 'Wireless number'
+		dataType: string
+		lineageTag: b332c9b5-5473-4375-93c8-258cb2127399
+		summarizeBy: none
+		sourceColumn: Wireless number
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Wireless number status'
+		dataType: string
+		lineageTag: a6482c8f-86c7-4de7-a796-c13ca6fbf74a
+		summarizeBy: none
+		sourceColumn: Wireless number status
+
+		annotation SummarizationSetBy = Automatic
+
+	column Owner
+		dataType: string
+		lineageTag: 189961ce-6fa2-464f-a70e-50a75942c9dd
+		summarizeBy: none
+		sourceColumn: Owner
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Owner -> Email'
+		dataType: string
+		lineageTag: fa8963a7-c85d-4df4-b526-1bddb94f04f3
+		summarizeBy: none
+		sourceColumn: Owner -> Email
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Owner -> Do Not Change'
+		dataType: string
+		lineageTag: 9a7aecf2-503a-4549-9eed-3f5866aa0c4d
+		summarizeBy: none
+		sourceColumn: Owner -> Do Not Change
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Current device ID'
+		dataType: string
+		lineageTag: 659d64f6-35a4-43b2-9147-644cbc0db607
+		summarizeBy: none
+		sourceColumn: Current device ID
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Current device'
+		dataType: string
+		lineageTag: 2207706f-6adf-4b5d-9784-d54a33951200
+		summarizeBy: none
+		sourceColumn: Current device
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Ordered device ID'
+		dataType: string
+		lineageTag: fe6cd63b-ea18-4967-a483-a23187344b55
+		summarizeBy: none
+		sourceColumn: Ordered device ID
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Ordered device'
+		dataType: string
+		lineageTag: e3be4e58-10dd-4c48-b375-1f16f79065bd
+		summarizeBy: none
+		sourceColumn: Ordered device
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Chargeback date'
+		dataType: dateTime
+		formatString: mm/dd/yyyy
+		lineageTag: ad7aa111-cea5-4f4a-a6b0-0ba55e3f5aa1
+		summarizeBy: none
+		sourceColumn: Chargeback date
+
+		changedProperty = DataType
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+		annotation PBI_FormatHint = {"isDateTimeCustom":true}
+
+	column 'Number of Days Left'
+		dataType: string
+		lineageTag: be53cb17-f00d-4db4-aa68-5cce9fb557d7
+		summarizeBy: none
+		sourceColumn: Number of Days Left
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Full retail price'
+		dataType: string
+		lineageTag: 32418ac1-06cd-43a5-9401-6b27a4a204ff
+		summarizeBy: none
+		sourceColumn: Full retail price
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Purchase price'
+		dataType: string
+		lineageTag: 3ab25d83-ffd5-4521-9c15-135b7e66f06d
+		summarizeBy: none
+		sourceColumn: Purchase price
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Chargeback amount'
+		dataType: double
+		lineageTag: 007fc539-6b43-45ee-b323-0561acc71a31
+		summarizeBy: none
+		sourceColumn: Chargeback amount
+
+		changedProperty = DataType
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Email sent'
+		dataType: string
+		lineageTag: 6c04f506-9a9b-4104-a7a1-9bb31a92d5c3
+		summarizeBy: none
+		sourceColumn: Email sent
+
+		annotation SummarizationSetBy = Automatic
+
+	column Reminder
+		dataType: string
+		lineageTag: c9c11d78-81a1-4bb5-9243-de7ca917cf6a
+		summarizeBy: none
+		sourceColumn: Reminder
+
+		annotation SummarizationSetBy = Automatic
+
+	column '2nd Reminder'
+		dataType: string
+		lineageTag: d6d11d6a-8064-4fe3-87de-ead195615cfb
+		summarizeBy: none
+		sourceColumn: 2nd Reminder
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Contacted via Teams'
+		dataType: string
+		lineageTag: 4a68bd93-1044-454d-bc3c-1f7afe0f7a7b
+		summarizeBy: none
+		sourceColumn: Contacted via Teams
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Activation confirmed'
+		dataType: string
+		lineageTag: 575165b7-2954-432c-9d8f-db7a4fde9ba8
+		summarizeBy: none
+		sourceColumn: Activation confirmed
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Verizon Activation' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("Verizon Activation", {{"Wireless number", type text}, {"Wireless number status", type text}, {"Owner", type text}, {"Owner -> Email", type text}, {"Owner -> Do Not Change", type text}, {"Current device ID", type text}, {"Current device", type text}, {"Ordered device ID", type text}, {"Ordered device", type text}, {"Chargeback date", type date}, {"Number of Days Left", type text}, {"Full retail price", type text}, {"Purchase price", type text}, {"Chargeback amount", type number}, {"Email sent", type text}, {"Reminder", type text}, {"2nd Reminder", type text}, {"Contacted via Teams", type text}, {"Activation confirmed", type text}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

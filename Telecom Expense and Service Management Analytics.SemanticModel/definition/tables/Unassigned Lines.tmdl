@@ -1,0 +1,107 @@
+table 'Unassigned Lines'
+	lineageTag: 822e9728-adf9-4654-b3b3-7708c2f300a8
+
+	column 'International Number'
+		dataType: int64
+		formatString: 0
+		lineageTag: 389e96a2-17d1-4a3a-9c35-a48575147239
+		summarizeBy: none
+		sourceColumn: International Number
+
+		annotation SummarizationSetBy = User
+
+	column Carrier
+		dataType: string
+		lineageTag: 460b1ddb-4442-4f32-b7dc-e6002e41f601
+		summarizeBy: none
+		sourceColumn: Carrier
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Account Number'
+		dataType: int64
+		formatString: 0
+		lineageTag: 2a33c1af-e7cc-427d-961a-a352096d49a3
+		summarizeBy: none
+		sourceColumn: Account Number
+
+		annotation SummarizationSetBy = User
+
+	column 'Line Status'
+		dataType: string
+		lineageTag: e7397449-00c8-4e73-99e5-f39416323a2e
+		summarizeBy: none
+		sourceColumn: Line Status
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Findings Owner'
+		dataType: string
+		lineageTag: 2299a8eb-92bb-4cec-9fa6-575ca6dd7603
+		summarizeBy: none
+		sourceColumn: Findings Owner
+
+		annotation SummarizationSetBy = Automatic
+
+	column IMEI
+		dataType: int64
+		formatString: 0
+		lineageTag: 6547b6e6-c5ca-4fe5-a667-4fc9a95e4bdb
+		summarizeBy: none
+		sourceColumn: IMEI
+
+		annotation SummarizationSetBy = User
+
+	column Device
+		dataType: string
+		lineageTag: 475fbf61-7a7b-41dd-a4f6-9cf49fb26031
+		summarizeBy: none
+		sourceColumn: Device
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Cost Center'
+		dataType: int64
+		formatString: 0
+		lineageTag: 9ff0de70-a9c0-4aee-9043-10e4c852b789
+		summarizeBy: none
+		sourceColumn: Cost Center
+
+		annotation SummarizationSetBy = User
+
+	column Action
+		dataType: string
+		lineageTag: 55cf5d9e-1942-4c24-b63d-e3d31dc5434b
+		summarizeBy: none
+		sourceColumn: Action
+
+		annotation SummarizationSetBy = Automatic
+
+	column Address
+		dataType: string
+		lineageTag: be6a5eed-80d9-448b-8207-520afd500e54
+		summarizeBy: none
+		sourceColumn: Address
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Line Bill -> Total Charges'
+		dataType: string
+		lineageTag: bb959ddb-bebe-42bc-b776-79881807afdd
+		summarizeBy: none
+		sourceColumn: Line Bill -> Total Charges
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Unassigned Lines' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("Unassigned Lines", {{"International Number", Int64.Type}, {"Carrier", type text}, {"Account Number", Int64.Type}, {"Line Status", type text}, {"Findings Owner", type text}, {"IMEI", Int64.Type}, {"Device", type text}, {"Cost Center", Int64.Type}, {"Action", type text}, {"Address", type text}, {"Line Bill -> Total Charges", type text}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

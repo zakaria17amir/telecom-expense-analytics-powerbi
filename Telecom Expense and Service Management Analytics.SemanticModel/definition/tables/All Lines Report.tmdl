@@ -1,0 +1,286 @@
+table 'All Lines Report'
+	lineageTag: a75f177f-7fac-4c9a-b793-353f8ad34d4a
+
+	column 'International Number'
+		dataType: string
+		lineageTag: 56177c55-5eaa-48d8-866c-900612ab0845
+		summarizeBy: none
+		sourceColumn: International Number
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Line Status'
+		dataType: string
+		lineageTag: 17f216ad-9e17-4041-96f1-a9040c58b3b8
+		summarizeBy: none
+		sourceColumn: Line Status
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Do Not Change'
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: c9575ffc-7c02-41a1-9ccd-14d4450695f0
+		summarizeBy: none
+		sourceColumn: Do Not Change
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Owner -> Do Not Change'
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 429359fa-d8ec-4011-83df-3a4ca76fa7d7
+		summarizeBy: none
+		sourceColumn: Owner -> Do Not Change
+
+		annotation SummarizationSetBy = Automatic
+
+	column Carrier
+		dataType: string
+		lineageTag: a80fc6b1-abbe-4397-8d26-98075a2887fb
+		summarizeBy: none
+		sourceColumn: Carrier
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Carrier Label'
+		dataType: string
+		lineageTag: 802153d7-8588-4028-b85f-78d3b4d86a7d
+		summarizeBy: none
+		sourceColumn: Carrier Label
+
+		annotation SummarizationSetBy = Automatic
+
+	column Owner
+		dataType: string
+		lineageTag: c5fa0d2a-a420-4f27-904e-2d4c1da5dfe9
+		summarizeBy: none
+		sourceColumn: Owner
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Owner -> Active?'
+		dataType: string
+		lineageTag: 0c665959-0000-41d6-8ca7-c0b88d2e1e2c
+		summarizeBy: none
+		sourceColumn: Owner -> Active?
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Owner -> Email'
+		dataType: string
+		lineageTag: f9a2160b-21c6-49f4-9638-1c31a7dbb2af
+		summarizeBy: none
+		sourceColumn: Owner -> Email
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Employee -> Cost Center'
+		dataType: int64
+		formatString: 0
+		lineageTag: 51121d3c-68ae-4012-94ae-d82a19ff1194
+		summarizeBy: none
+		sourceColumn: Employee -> Cost Center
+
+		annotation SummarizationSetBy = User
+
+	column 'Cost Center'
+		dataType: string
+		lineageTag: 0f0723bd-5ce6-438b-828d-49fc8f403fc8
+		summarizeBy: none
+		sourceColumn: Cost Center
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Owner -> Supervisor'
+		dataType: string
+		lineageTag: 067a7570-74e2-4079-8587-9fca85e45571
+		summarizeBy: none
+		sourceColumn: Owner -> Supervisor
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Owner -> Supervisor Email'
+		dataType: string
+		lineageTag: 3cd5c5c4-5087-4f49-a249-3e95318f41a3
+		summarizeBy: none
+		sourceColumn: Owner -> Supervisor Email
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Ref Device'
+		dataType: string
+		lineageTag: ec9cfe49-d827-4e17-ae1e-4b5d224ce023
+		summarizeBy: none
+		sourceColumn: Ref Device
+
+		annotation SummarizationSetBy = Automatic
+
+	column Plan
+		dataType: string
+		lineageTag: b9ad9275-b1f6-4d59-b440-b45932d69a1c
+		summarizeBy: none
+		sourceColumn: Plan
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Plan -> Plan Name'
+		dataType: string
+		lineageTag: 6cd39ff4-0b6a-446d-97f6-1bb00adc63d6
+		summarizeBy: none
+		sourceColumn: Plan -> Plan Name
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Is ESIM'
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 4ae89dad-b393-4651-9fc4-2bd721f80f9b
+		summarizeBy: none
+		sourceColumn: Is ESIM
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Contract Start Date'
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: c230d587-f6c2-4e36-b2fd-fb75189f7351
+		summarizeBy: none
+		sourceColumn: Contract Start Date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column 'Contract Ends Date'
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 58e15077-6523-4131-b4c9-c1d2103e489d
+		summarizeBy: none
+		sourceColumn: Contract Ends Date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column 'Suspended At'
+		dataType: string
+		lineageTag: 4858e0a1-f9c5-4481-907b-efef3b7edbe6
+		summarizeBy: none
+		sourceColumn: Suspended At
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Upgrade Eligible Date'
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: ece0fa60-7db3-49df-a3ae-16e006a9c84e
+		summarizeBy: none
+		sourceColumn: Upgrade Eligible Date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column 'Line Bill -> Total Recurring Charges'
+		dataType: double
+		lineageTag: b7799b21-b876-4e78-9597-71eb86253d4c
+		summarizeBy: none
+		sourceColumn: Line Bill -> Total Recurring Charges
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Line Bill -> Total Charges'
+		dataType: double
+		lineageTag: be66f05b-f41b-4b45-8ca4-6a92985fedd9
+		summarizeBy: none
+		sourceColumn: Line Bill -> Total Charges
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Zerouserecommendationrejected
+		dataType: int64
+		formatString: 0
+		lineageTag: 88db10f8-5399-4c9b-afbc-112d5db2b1b9
+		summarizeBy: none
+		sourceColumn: Zerouserecommendationrejected
+
+		annotation SummarizationSetBy = User
+
+	column IMEI
+		dataType: int64
+		formatString: 0
+		lineageTag: 80b3d783-7fc9-4501-9ba6-c21e064f614c
+		summarizeBy: none
+		sourceColumn: IMEI
+
+		annotation SummarizationSetBy = User
+
+	column 'Device -> IMEI'
+		dataType: int64
+		formatString: 0
+		lineageTag: 67caafce-48b6-4d3f-acc5-708a7fe95870
+		summarizeBy: none
+		sourceColumn: Device -> IMEI
+
+		annotation SummarizationSetBy = User
+
+	column 'Previous Device -> IMEI2'
+		dataType: int64
+		formatString: 0
+		lineageTag: 7f631b52-19a5-4c4d-9885-116d52cb78d5
+		summarizeBy: none
+		sourceColumn: Previous Device -> IMEI2
+
+		annotation SummarizationSetBy = User
+
+	column Serial
+		dataType: int64
+		formatString: 0
+		lineageTag: 50ae4cd3-d0e6-479b-8049-aff654aff347
+		summarizeBy: none
+		sourceColumn: Serial
+
+		annotation SummarizationSetBy = User
+
+	column 'Device -> Serial Number'
+		dataType: string
+		lineageTag: 7588f5ba-5411-46f9-8308-fd4bac4620ff
+		summarizeBy: none
+		sourceColumn: Device -> Serial Number
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Owner -> Group'
+		dataType: string
+		lineageTag: 4a24a52f-72bc-4c4c-86c3-2da30994d12a
+		summarizeBy: none
+		sourceColumn: Owner -> Group
+
+		annotation SummarizationSetBy = Automatic
+
+	column Formula
+		dataType: int64
+		formatString: 0
+		lineageTag: df0f99b3-dd5b-40d0-bd43-a7ceca061569
+		summarizeBy: none
+		sourceColumn: Formula
+
+		annotation SummarizationSetBy = User
+
+	partition 'All Lines Report' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("All Lines Report", {{"International Number", type text}, {"Line Status", type text}, {"Do Not Change", type logical}, {"Owner -> Do Not Change", type logical}, {"Carrier", type text}, {"Carrier Label", type text}, {"Owner", type text}, {"Owner -> Active?", type text}, {"Owner -> Email", type text}, {"Employee -> Cost Center", Int64.Type}, {"Cost Center", type text}, {"Owner -> Supervisor", type text}, {"Owner -> Supervisor Email", type text}, {"Ref Device", type text}, {"Plan", type text}, {"Plan -> Plan Name", type text}, {"Is ESIM", type logical}, {"Contract Start Date", type date}, {"Contract Ends Date", type date}, {"Suspended At", type text}, {"Upgrade Eligible Date", type date}, {"Line Bill -> Total Recurring Charges", type number}, {"Line Bill -> Total Charges", type number}, {"Zerouserecommendationrejected", Int64.Type}, {"IMEI", Int64.Type}, {"Device -> IMEI", Int64.Type}, {"Previous Device -> IMEI2", Int64.Type}, {"Serial", Int64.Type}, {"Device -> Serial Number", type text}, {"Owner -> Group", type text}, {"Formula", Int64.Type}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

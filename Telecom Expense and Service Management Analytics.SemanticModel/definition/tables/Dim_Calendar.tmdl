@@ -1,0 +1,198 @@
+table Dim_Calendar
+	lineageTag: 340e34f4-1768-433f-9932-2b9a59cc7e77
+
+	column Date
+		formatString: mm/dd/yyyy
+		lineageTag: b82fc137-b47e-43dc-8852-c43cfdbf1061
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Date]
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isDateTimeCustom":true}
+
+	column DateAsInteger
+		lineageTag: 4f509a15-5ea6-4db8-acdb-c2f05443c2ec
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [DateAsInteger]
+
+		annotation SummarizationSetBy = Automatic
+
+	column Year
+		formatString: 0
+		lineageTag: 978762de-810b-41e0-a7cc-fd194bfc4db1
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Year]
+
+		annotation SummarizationSetBy = User
+
+	column FiscalYear
+		lineageTag: 7fcc0390-8801-412d-a2e2-5f5871af1e2c
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [FiscalYear]
+		sortByColumn: FiscalYearNum
+
+		annotation SummarizationSetBy = Automatic
+
+	column FiscalYearNum
+		formatString: 0
+		lineageTag: d6905ef7-55d8-4ff4-bb08-c32cb37e9476
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [FiscalYearNum]
+
+		annotation SummarizationSetBy = User
+
+	column MonthNumber
+		formatString: 0
+		lineageTag: dc7b04f4-c83e-4734-a607-ec03d66a833f
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [MonthNumber]
+
+		annotation SummarizationSetBy = User
+
+	column YearMonthNumber
+		lineageTag: ef8e8ab8-065c-4914-a01e-da0b43b5b6cb
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [YearMonthNumber]
+
+		annotation SummarizationSetBy = Automatic
+
+	column FiscalMonth
+		lineageTag: 524101ce-ed80-4e19-9273-98ef9c174a2b
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [FiscalMonth]
+		sortByColumn: FiscalMonthNumber
+
+		annotation SummarizationSetBy = Automatic
+
+	column MonthNameShort
+		lineageTag: bf038497-534c-4f3a-a197-51258c1efa32
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [MonthNameShort]
+
+		annotation SummarizationSetBy = Automatic
+
+	column MonthNameLong
+		lineageTag: 233c6f7c-37da-4fb2-80f0-a8c027ea2d16
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [MonthNameLong]
+
+		annotation SummarizationSetBy = Automatic
+
+	column Quarter
+		lineageTag: 19bcf0f2-8263-4571-97ec-7cfdbe744309
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Quarter]
+
+		annotation SummarizationSetBy = Automatic
+
+	column FiscalQuarter
+		lineageTag: aa323d88-21fb-425b-93f7-204c8b0bf832
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [FiscalQuarter]
+
+		annotation SummarizationSetBy = Automatic
+
+	column DayOfWeekNumber
+		formatString: 0
+		lineageTag: b80660a8-4ddf-48ee-9251-4d3255d0c694
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [DayOfWeekNumber]
+
+		annotation SummarizationSetBy = User
+
+	column DayOfWeek
+		lineageTag: a20968dd-f7cd-424e-8dd0-06efb2c582ce
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [DayOfWeek]
+
+		annotation SummarizationSetBy = Automatic
+
+	column IsWeekend
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: b0782566-434e-47f1-bf45-fae4f6289212
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [IsWeekend]
+
+		annotation SummarizationSetBy = Automatic
+
+	column FiscalMonthNumber
+		formatString: 0
+		lineageTag: 12dfb9f8-7517-4bd9-93f2-ca5b83f93d18
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [FiscalMonthNumber]
+
+		annotation SummarizationSetBy = User
+
+	column 'Last Refresh'
+		formatString: dd-mmm-yy hh:nn
+		lineageTag: 969d9a83-0579-4bd6-ac98-c5861655718b
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Last Refresh]
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isDateTimeCustom":true}
+
+	hierarchy 'FiscalYear Hierarchy'
+		lineageTag: 0caeff9b-a603-4ce6-bcf5-2b5b95391fd3
+
+		level FiscalYear
+			lineageTag: fc792f30-49c5-4157-ae52-d3015c162cd3
+			column: FiscalYear
+
+		level FiscalQuarter
+			lineageTag: 16a3848f-3a74-4577-b2f0-a06979620b94
+			column: FiscalQuarter
+
+		level FiscalMonth
+			lineageTag: 0c76e94f-b78e-4b5a-b1da-800c35da23d1
+			column: FiscalMonth
+
+	partition Dim_Calendar = calculated
+		mode: import
+		source = ```
+				
+				ADDCOLUMNS (
+				    CALENDAR ( DATE ( 2023, 7, 1 ), TODAY() ),
+				
+				    "DateAsInteger",     FORMAT ( [Date], "YYYYMMDD" ),
+				    "Year",              YEAR ( [Date] ),
+				    "FiscalYear",        IF ( MONTH ( [Date] ) <= 6, 
+				                              "FY" & FORMAT ( [Date], "yy" ), 
+				                              "FY" & FORMAT ( DATE ( YEAR ( [Date] ) + 1, MONTH ( [Date] ), 1 ), "yy" ) ),
+				    "FiscalYearNum",     IF ( MONTH ( [Date] ) <= 6, YEAR ( [Date] ), YEAR ( [Date] ) + 1 ),
+				    "FiscalMonthNumber", IF ( MONTH ( [Date] ) >= 7, MONTH ( [Date] ) - 6, MONTH ( [Date] ) + 6 ),
+				    "MonthNumber",       MONTH ( [Date] ),
+				    "YearMonthNumber",   FORMAT ( [Date], "YYYYMM" ),
+				    "FiscalMonth",       FORMAT ( [Date], "MMM" ),
+				    "MonthNameShort",    FORMAT ( [Date], "mmm" ),
+				    "MonthNameLong",     FORMAT ( [Date], "mmmm" ),
+				    "Quarter",           "Q" & FORMAT ( [Date], "Q" ),
+				    "FiscalQuarter",     "Q" & IF ( MONTH ( [Date] ) <= 3, 3, IF ( MONTH ( [Date] ) <= 6, 4, IF ( MONTH ( [Date] ) <= 9, 1, 2 ) ) ),
+				    "DayOfWeekNumber",   WEEKDAY ( [Date] ),
+				    "DayOfWeek",         FORMAT ( [Date], "dddd" ),
+				    "IsWeekend",         IF ( WEEKDAY ( [Date] ) IN { 1, 7 }, TRUE (), FALSE () ),
+				    "Last Refresh",      NOW()
+				)
+				```
+
+	annotation PBI_Id = c8a97e652799469daabe249fc86b0d02
+

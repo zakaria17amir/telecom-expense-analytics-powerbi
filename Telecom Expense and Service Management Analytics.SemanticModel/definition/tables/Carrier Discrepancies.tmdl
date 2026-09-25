@@ -1,0 +1,55 @@
+table 'Carrier Discrepancies'
+	lineageTag: 5a6fa8c7-b366-4f45-9228-56e8e05bb319
+
+	column Date
+		dataType: dateTime
+		formatString: mm/dd/yyyy
+		lineageTag: 7d408601-6121-41f9-ade5-ae47f5881967
+		summarizeBy: none
+		sourceColumn: Date
+
+		changedProperty = DataType
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+		annotation PBI_FormatHint = {"isDateTimeCustom":true}
+
+	column Carrier
+		dataType: string
+		lineageTag: a290899d-4da7-444e-9b36-081ee242c320
+		summarizeBy: none
+		sourceColumn: Carrier
+
+		annotation SummarizationSetBy = Automatic
+
+	column Type
+		dataType: string
+		lineageTag: 35e1dfa5-9c04-40c0-9a36-2838e9041e89
+		summarizeBy: none
+		sourceColumn: Type
+
+		annotation SummarizationSetBy = Automatic
+
+	column Count
+		dataType: int64
+		formatString: 0
+		lineageTag: e7213de1-8300-4706-b60b-091cbe6495a6
+		summarizeBy: none
+		sourceColumn: Count
+
+		annotation SummarizationSetBy = User
+
+	partition 'Carrier Discrepancies' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("Carrier Discrepancies", {{"Date", type date}, {"Carrier", type text}, {"Type", type text}, {"Count", Int64.Type}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

@@ -1,0 +1,147 @@
+International Number,Carrier,Account Number,Line Status,Findings Owner,IMEI,Device,Cost Center,Action,Address,Line Bill -> Total Charges
+6313507195,Verizon United States,786579303,Active,Grace Lindqvist,354666798432483,Inseego MiFi X PRO,41100,Assigned,1463 King St W,50.76
+4373673715,Rogers Canada,826600539,Active,Aisha Karim,357610343235237,Samsung Galaxy S24,41405,Assigned,5694 King St W,49.56
+3106773396,AT&T United States,126855092,Active,Tom Okafor,359284332890068,Google Pixel 8,41500,Cancelled,2014 King St W,60.87
+2142847979,AT&T United States,126855092,Active,Grace Lindqvist,358469441639125,Apple iPhone 13,41103,Cancelled,5526 Main St,72.16
+9052966627,Bell Canada,249827706,Active,Dana Whitfield,356046340866002,Apple iPhone 16,41507,Assigned,4922 King St W,56.72
+6318044180,Verizon United States,786579303,Suspended,Marco Bellini,359567145473398,Apple iPad 10th Gen,41905,Assigned,2114 Lakeshore Blvd,64.57
+6478803954,Bell Canada,249827706,Suspended,Dana Whitfield,353666366840783,Apple iPhone 13,41305,Pending Owner Confirmation,5709 Main St,51.63
+4153199139,AT&T United States,126855092,Suspended,Tom Okafor,358960194081391,Apple iPhone 14,41206,Assigned,6195 Oak Ave,42.76
+6049646457,Rogers Canada,826600539,Suspended,Aisha Karim,353362369759381,Apple iPhone 16,41306,Assigned,3617 King St W,53.75
+4159427171,AT&T United States,126855092,Suspended,Grace Lindqvist,359587447702963,Apple iPhone 16,41101,Cancelled,274 Main St,46.09
+4158504987,AT&T United States,126855092,Active,Tom Okafor,355823764947806,Apple iPhone 16,41203,Assigned,2700 Market St,33.49
+6476045906,Bell Canada,249827706,Active,Aisha Karim,357630609183133,Apple iPhone 16,41807,Assigned,6297 Market St,46.93
+9737985844,Verizon United States,786579303,Suspended,Victor Hale,357263500509242,Apple iPhone 15,41807,Suspended,3003 Oak Ave,57.69
+2125059959,Verizon United States,786579303,Active,Marco Bellini,356688888508423,Apple iPad 10th Gen,41403,Pending Owner Confirmation,5490 King St W,23.50
+7029984727,T-Mobile United States,362950628,Suspended,Aisha Karim,359462800683261,Apple iPhone 15,41405,Assigned,8790 Market St,51.50
+6462674140,Verizon United States,786579303,Suspended,Aisha Karim,357575954384768,Samsung Galaxy S23,41802,Assigned,3253 Market St,39.67
+9736688617,Verizon United States,786579303,Active,Grace Lindqvist,356574111204305,Samsung Galaxy S24,41505,Assigned,142 King St W,20.77
+2018667134,Verizon United States,786579303,Active,Grace Lindqvist,351911367661267,Apple iPhone 15,41100,Suspended,8235 Main St,23.29
+5032875112,T-Mobile United States,362950628,Active,Dana Whitfield,352620596698761,Apple iPhone 13,41803,Assigned,7106 Oak Ave,49.42
+2126978986,Verizon United States,786579303,Active,Tom Okafor,351794986926589,Apple iPhone 16,42005,Cancelled,5254 Oak Ave,36.57
+2126168977,Verizon United States,786579303,Active,Dana Whitfield,355300112334370,Apple iPhone 14,41206,Assigned,4323 Market St,58.87
+2123893198,Verizon United States,786579303,Active,Grace Lindqvist,356896742625293,Apple iPhone 14,41708,Suspended,2272 Market St,35.86
+6462276614,Verizon United States,786579303,Active,Dana Whitfield,356540950609200,Apple iPhone 15,41402,Assigned,9657 Lakeshore Blvd,27.79
+2014553371,Verizon United States,786579303,Suspended,Grace Lindqvist,353264051850090,Apple iPad 10th Gen,41702,Under Review,4562 Main St,21.73
+9733333017,Verizon United States,786579303,Active,Dana Whitfield,357645914016965,Apple iPad 10th Gen,41108,Suspended,1576 Lakeshore Blvd,61.66
+4164628752,Bell Canada,249827706,Active,Marco Bellini,352776294862178,Apple iPhone 16,41208,Assigned,2865 King St W,29.98
+6463623985,Verizon United States,786579303,Suspended,Aisha Karim,358245008182441,Netgear Nighthawk M6,41705,Assigned,3558 King St W,30.21
+9178247253,Verizon United States,786579303,Active,Dana Whitfield,355639308837064,Google Pixel 8,41603,Cancelled,7045 Market St,34.72
+7024537164,T-Mobile United States,362950628,Suspended,Victor Hale,359330819305043,Samsung Galaxy S23,41404,Assigned,9395 Lakeshore Blvd,55.03
+6465646631,Verizon United States,786579303,Suspended,Dana Whitfield,358112293253369,Apple iPhone SE,41405,Suspended,9229 Main St,34.71
+5035784035,T-Mobile United States,362950628,Suspended,Grace Lindqvist,358331148922627,Apple iPhone 14,41304,Assigned,4377 Oak Ave,63.05
+9739146076,Verizon United States,786579303,Active,Tom Okafor,355767194535946,Apple iPhone 15,41303,Cancelled,5216 Market St,38.59
+2146172085,AT&T United States,126855092,Suspended,Grace Lindqvist,353711197425486,Samsung Galaxy S24,41409,Assigned,6371 Oak Ave,70.81
+2012832566,Verizon United States,786579303,Active,Victor Hale,354951074505475,Apple iPhone 16,41909,Assigned,4705 Oak Ave,50.17
+2147910428,AT&T United States,126855092,Active,Dana Whitfield,353587882722178,Apple iPhone 14,41505,Cancelled,9680 Market St,53.88
+2066251575,T-Mobile United States,362950628,Active,Marco Bellini,352466731731305,Samsung Galaxy S23,41509,Cancelled,8452 Market St,58.21
+2014137765,Verizon United States,786579303,Active,Dana Whitfield,355815068159516,Apple iPhone 15,41805,Cancelled,7906 Lakeshore Blvd,69.71
+2019494507,Verizon United States,786579303,Active,Dana Whitfield,358006317765454,Samsung Galaxy Tab S9,41401,Cancelled,4889 Oak Ave,41.83
+6469669472,Verizon United States,786579303,Suspended,Victor Hale,357833999265785,Apple iPhone 15,41505,Assigned,6653 Market St,70.44
+6469669585,Verizon United States,786579303,Suspended,Grace Lindqvist,351198859456307,Apple iPhone 16,41408,Cancelled,9392 King St W,47.81
+3103856776,AT&T United States,126855092,Suspended,Tom Okafor,356139867272204,Kyocera DuraXV Extreme,41406,Cancelled,6727 Oak Ave,74.43
+9734293579,Verizon United States,786579303,Active,Grace Lindqvist,351576002090824,Samsung Galaxy S24,41206,Pending Owner Confirmation,1770 Market St,39.24
+4809944045,T-Mobile United States,362950628,Active,Aisha Karim,352433464020736,Apple iPhone 16,41702,Assigned,4469 King St W,31.85
+6478723360,Bell Canada,249827706,Suspended,Aisha Karim,355948233500497,Apple iPhone 14,41701,Under Review,8947 King St W,24.87
+2017059838,Verizon United States,786579303,Active,Dana Whitfield,355419495472618,Apple iPhone 16,41200,Assigned,6571 Main St,73.64
+2148731360,AT&T United States,126855092,Suspended,Dana Whitfield,356484022209203,Samsung Galaxy S24,41300,Under Review,643 Market St,49.13
+6473216622,Bell Canada,249827706,Suspended,Dana Whitfield,355333791891258,Apple iPhone 14,41509,Assigned,3296 King St W,47.61
+7023590981,T-Mobile United States,362950628,Active,Marco Bellini,358482153808440,Apple iPhone 15,41505,Suspended,9274 Main St,46.71
+5147566261,Rogers Canada,826600539,Active,Aisha Karim,359455876655869,Apple iPhone 13,41507,Under Review,1425 Oak Ave,26.38
+4167965069,Bell Canada,249827706,Suspended,Dana Whitfield,353383691210337,Google Pixel 8,41703,Under Review,80 Market St,73.39
+3104961507,AT&T United States,126855092,Active,Grace Lindqvist,356264049360881,Apple iPad Air,41907,Assigned,7949 Main St,62.49
+4047226037,AT&T United States,126855092,Active,Aisha Karim,358541362076506,Netgear Nighthawk M6,41306,Cancelled,3923 Lakeshore Blvd,63.37
+2015081821,Verizon United States,786579303,Active,Tom Okafor,353977641848059,Inseego MiFi X PRO,41206,Cancelled,1959 King St W,35.62
+2125433568,Verizon United States,786579303,Active,Tom Okafor,354262722971876,Samsung Galaxy S24,41801,Assigned,8986 King St W,64.78
+6469758140,Verizon United States,786579303,Suspended,Dana Whitfield,353443845052661,Kyocera DuraXV Extreme,41104,Assigned,1075 Oak Ave,52.11
+3057385880,AT&T United States,126855092,Active,Grace Lindqvist,359913269722441,Apple iPhone SE,41106,Pending Owner Confirmation,9805 Market St,73.96
+6319175582,Verizon United States,786579303,Active,Aisha Karim,358073454716659,Apple iPhone 16,41702,Assigned,8281 King St W,68.76
+9059411415,Bell Canada,249827706,Active,Tom Okafor,353342493233615,Apple iPhone 15,41202,Cancelled,434 King St W,41.05
+2122844817,Verizon United States,786579303,Suspended,Victor Hale,355831498825481,Apple iPhone 16,41408,Under Review,93 Oak Ave,48.01
+5144660663,Rogers Canada,826600539,Suspended,Grace Lindqvist,352807356712560,Apple iPhone 14,41305,Assigned,6757 Oak Ave,49.78
+2126972221,Verizon United States,786579303,Active,Dana Whitfield,358170326406298,Apple iPhone 15,41208,Assigned,1833 Main St,39.31
+5033469047,T-Mobile United States,362950628,Active,Marco Bellini,353725397552649,Apple iPhone 15,41705,Assigned,4560 Oak Ave,37.97
+9738059756,Verizon United States,786579303,Active,Dana Whitfield,352620374851083,Apple iPhone 15,41201,Suspended,9090 King St W,44.88
+2069211891,T-Mobile United States,362950628,Suspended,Aisha Karim,351522555845442,Apple iPhone 15,41506,Assigned,7268 Market St,29.06
+3106474739,AT&T United States,126855092,Active,Victor Hale,351721470943860,Apple iPhone 13,41709,Suspended,8598 Market St,21.61
+5142244916,Rogers Canada,826600539,Active,Aisha Karim,355266317409018,Apple iPhone 16,41306,Assigned,5464 Market St,63.27
+2144684717,AT&T United States,126855092,Active,Tom Okafor,358992074575080,Samsung Galaxy Tab S9,41309,Suspended,2121 Lakeshore Blvd,22.00
+9738243658,Verizon United States,786579303,Active,Marco Bellini,357059150920178,Apple iPhone 14,41208,Pending Owner Confirmation,9172 Main St,57.05
+2128832390,Verizon United States,786579303,Active,Victor Hale,355408546128945,Apple iPhone 13,41201,Under Review,6604 Lakeshore Blvd,51.66
+9175528077,Verizon United States,786579303,Suspended,Grace Lindqvist,356384051452137,Apple iPhone 15,41400,Cancelled,4568 Market St,51.68
+4807800800,T-Mobile United States,362950628,Active,Aisha Karim,353696783607442,Apple iPad Air,41207,Cancelled,8910 Oak Ave,20.81
+9176307531,Verizon United States,786579303,Active,Tom Okafor,355809316026675,Apple iPhone 16,41406,Cancelled,718 Main St,41.95
+6466289177,Verizon United States,786579303,Active,Grace Lindqvist,353461267886490,Apple iPhone 14,41101,Assigned,345 Lakeshore Blvd,35.42
+3053646517,AT&T United States,126855092,Active,Aisha Karim,359778214635541,Apple iPhone 14,41604,Assigned,159 Lakeshore Blvd,35.51
+9173783483,Verizon United States,786579303,Active,Dana Whitfield,351561639096599,Samsung Galaxy S23,41201,Assigned,2074 King St W,26.08
+2018141769,Verizon United States,786579303,Active,Aisha Karim,359067302893677,Apple iPhone 15,41508,Under Review,9593 Main St,41.13
+6472152656,Bell Canada,249827706,Active,Aisha Karim,352079978882722,Apple iPhone 13,41904,Pending Owner Confirmation,3498 Market St,56.14
+3054985879,AT&T United States,126855092,Active,Marco Bellini,352455342467621,Apple iPhone 15,41505,Cancelled,2292 Lakeshore Blvd,41.28
+6468197128,Verizon United States,786579303,Active,Victor Hale,358782870061429,Apple iPhone 16,41902,Assigned,4851 Market St,53.01
+4166177602,Bell Canada,249827706,Active,Marco Bellini,353099831726883,Apple iPhone 16,41509,Suspended,9682 Market St,69.49
+2126053625,Verizon United States,786579303,Suspended,Aisha Karim,351583048357101,Apple iPhone 15,41408,Assigned,3788 Lakeshore Blvd,28.63
+9172073030,Verizon United States,786579303,Active,Tom Okafor,351857211213851,Apple iPhone 13,41500,Cancelled,3999 Market St,40.55
+2128181012,Verizon United States,786579303,Active,Victor Hale,354229908516709,Apple iPhone 13,41206,Cancelled,7059 Main St,40.72
+6319354600,Verizon United States,786579303,Suspended,Dana Whitfield,357224990162259,Apple iPhone 15,41401,Assigned,7374 Lakeshore Blvd,74.86
+2064925638,T-Mobile United States,362950628,Suspended,Marco Bellini,352457000365123,Apple iPhone 15,41802,Suspended,7689 Oak Ave,70.38
+3125854745,AT&T United States,126855092,Active,Aisha Karim,355311450808336,Apple iPhone 16,41704,Assigned,1947 Lakeshore Blvd,36.26
+2062827395,T-Mobile United States,362950628,Suspended,Tom Okafor,358404391318130,Apple iPhone 15,41709,Assigned,5655 Market St,56.24
+3103280434,AT&T United States,126855092,Suspended,Marco Bellini,352522796865380,Samsung Galaxy S23,41405,Cancelled,910 Oak Ave,56.42
+5033354028,T-Mobile United States,362950628,Active,Dana Whitfield,359415519369959,Apple iPhone SE,41208,Suspended,7248 Main St,41.25
+4165434031,Bell Canada,249827706,Active,Marco Bellini,359554217452198,Apple iPhone SE,41506,Cancelled,9607 Market St,23.94
+9739374660,Verizon United States,786579303,Active,Aisha Karim,354880133950140,Apple iPad Air,41208,Assigned,4696 Market St,53.35
+6314507431,Verizon United States,786579303,Suspended,Marco Bellini,352287190065361,Apple iPhone 16,41806,Assigned,7175 King St W,52.97
+4048273419,AT&T United States,126855092,Active,Tom Okafor,352817878643736,Apple iPad 10th Gen,41800,Suspended,3314 Oak Ave,42.70
+3124158581,AT&T United States,126855092,Active,Dana Whitfield,351536315994479,Apple iPad 10th Gen,41801,Suspended,2691 Oak Ave,41.61
+6465771042,Verizon United States,786579303,Suspended,Tom Okafor,356558888768044,Apple iPhone 14,41201,Assigned,4088 Oak Ave,72.26
+2018287688,Verizon United States,786579303,Suspended,Aisha Karim,358763277661738,Apple iPhone 14,41204,Assigned,6987 Market St,29.06
+7023230355,T-Mobile United States,362950628,Active,Victor Hale,356536805935702,Apple iPhone 13,41305,Pending Owner Confirmation,9489 Market St,73.39
+9173122342,Verizon United States,786579303,Suspended,Dana Whitfield,358421129542469,Apple iPhone 14,41802,Suspended,6856 Oak Ave,29.86
+4372227222,Rogers Canada,826600539,Active,Marco Bellini,355741117055710,Samsung Galaxy S23,41501,Assigned,9439 Main St,36.56
+4163902414,Bell Canada,249827706,Suspended,Aisha Karim,359683964223320,Apple iPhone SE,41303,Cancelled,112 King St W,70.09
+6043406120,Rogers Canada,826600539,Active,Grace Lindqvist,351913348156907,Samsung Galaxy S23,41304,Assigned,3781 Lakeshore Blvd,49.13
+6313473981,Verizon United States,786579303,Active,Victor Hale,355744663944848,Apple iPhone 14,41907,Assigned,6476 Oak Ave,42.01
+5036163599,T-Mobile United States,362950628,Active,Grace Lindqvist,354527999259975,Apple iPhone 16,41205,Assigned,2276 Market St,21.49
+4378928486,Rogers Canada,826600539,Active,Aisha Karim,357820951380210,Apple iPhone 16,41907,Suspended,8908 Market St,31.25
+4808919441,T-Mobile United States,362950628,Active,Grace Lindqvist,359772064706035,Apple iPhone 14,41301,Suspended,6255 Main St,66.85
+3126459820,AT&T United States,126855092,Active,Grace Lindqvist,357519697527157,Apple iPhone 15,41705,Assigned,861 Main St,67.69
+2127773525,Verizon United States,786579303,Active,Victor Hale,351016641364922,Apple iPhone SE,41301,Assigned,5446 King St W,41.53
+3059320983,AT&T United States,126855092,Active,Dana Whitfield,356025265162502,Google Pixel 8,42009,Cancelled,1013 King St W,23.38
+2017215569,Verizon United States,786579303,Active,Marco Bellini,356810376231480,Apple iPhone 15,41807,Cancelled,1698 King St W,48.33
+9175608285,Verizon United States,786579303,Active,Dana Whitfield,352812527834095,Apple iPhone 15,41504,Cancelled,5216 Oak Ave,35.50
+2017624296,Verizon United States,786579303,Active,Grace Lindqvist,353718874078721,Apple iPad Air,41404,Suspended,1692 Oak Ave,69.36
+2144097925,AT&T United States,126855092,Suspended,Tom Okafor,352877301896211,Apple iPhone 13,41300,Cancelled,6387 Oak Ave,73.95
+3107829359,AT&T United States,126855092,Active,Tom Okafor,357268240802944,Apple iPhone 14,41408,Suspended,8551 Market St,56.52
+2129365256,Verizon United States,786579303,Suspended,Aisha Karim,354648730667087,Apple iPhone 16,41302,Assigned,5851 Lakeshore Blvd,23.68
+6313538936,Verizon United States,786579303,Active,Aisha Karim,355213156137576,Apple iPhone 15,41208,Cancelled,9730 Lakeshore Blvd,28.97
+6462967669,Verizon United States,786579303,Suspended,Victor Hale,356894765209128,Apple iPhone 14,41903,Assigned,5420 Lakeshore Blvd,64.79
+6048193408,Rogers Canada,826600539,Active,Marco Bellini,353667202436618,Apple iPhone 14,41402,Assigned,2591 Oak Ave,29.83
+5034615188,T-Mobile United States,362950628,Active,Aisha Karim,352076791767829,Apple iPhone 14,41307,Assigned,8494 King St W,71.89
+3107577653,AT&T United States,126855092,Suspended,Dana Whitfield,353201050056493,Netgear Nighthawk M6,41809,Cancelled,3676 Lakeshore Blvd,67.58
+6476807469,Bell Canada,249827706,Suspended,Dana Whitfield,359820831842445,Netgear Nighthawk M6,41106,Assigned,2111 Oak Ave,55.89
+4372620141,Rogers Canada,826600539,Active,Dana Whitfield,352284824120066,Apple iPhone 15,41400,Under Review,4575 Market St,30.64
+2142535714,AT&T United States,126855092,Suspended,Tom Okafor,352651284577607,Apple iPhone 14,41600,Under Review,9506 Lakeshore Blvd,54.70
+9736445732,Verizon United States,786579303,Suspended,Tom Okafor,359009124726759,Apple iPhone 14,41405,Assigned,9959 Lakeshore Blvd,59.79
+6464944358,Verizon United States,786579303,Active,Grace Lindqvist,357449809940577,Apple iPad 10th Gen,41403,Assigned,4622 Market St,74.25
+6469997518,Verizon United States,786579303,Active,Victor Hale,353234165962046,Samsung Galaxy S24,41404,Cancelled,4243 Market St,74.12
+3129094661,AT&T United States,126855092,Active,Marco Bellini,351882277908998,Apple iPhone 14,41707,Assigned,9623 Main St,24.54
+4372980718,Rogers Canada,826600539,Active,Victor Hale,358370814103816,Apple iPhone 16,41504,Assigned,545 Market St,42.07
+2144677679,AT&T United States,126855092,Suspended,Grace Lindqvist,354577080222861,Samsung Galaxy S24,41208,Assigned,8326 Lakeshore Blvd,59.26
+9733911766,Verizon United States,786579303,Active,Tom Okafor,357761361496077,Samsung Galaxy Tab S9,41404,Pending Owner Confirmation,8289 Oak Ave,74.17
+6463590375,Verizon United States,786579303,Suspended,Dana Whitfield,359705682708814,Apple iPhone 15,41501,Suspended,6689 Oak Ave,40.07
+4807515457,T-Mobile United States,362950628,Active,Grace Lindqvist,353928745250270,Apple iPhone 15,41808,Suspended,4762 Main St,22.17
+6318732314,Verizon United States,786579303,Active,Tom Okafor,351874730523557,Apple iPad 10th Gen,41506,Assigned,6186 Main St,37.58
+3124863415,AT&T United States,126855092,Suspended,Tom Okafor,353018108116117,Apple iPhone 13,41400,Pending Owner Confirmation,3334 Main St,68.35
+4155276894,AT&T United States,126855092,Suspended,Marco Bellini,352572013278537,Apple iPhone 15,41201,Assigned,627 Lakeshore Blvd,22.88
+4167667264,Bell Canada,249827706,Active,Victor Hale,356450058001400,Apple iPhone 13,41807,Pending Owner Confirmation,2852 Lakeshore Blvd,55.40
+6042665490,Rogers Canada,826600539,Active,Grace Lindqvist,354164342917318,Apple iPhone 15,41207,Cancelled,3780 Main St,70.79
+4046341450,AT&T United States,126855092,Active,Tom Okafor,353995284027751,Apple iPhone SE,41105,Under Review,415 Lakeshore Blvd,63.39
+6318507030,Verizon United States,786579303,Active,Aisha Karim,356332511473117,Kyocera DuraXV Extreme,41304,Under Review,4211 Oak Ave,66.57
+4162751446,Bell Canada,249827706,Active,Aisha Karim,354732098421494,Inseego MiFi X PRO,41508,Assigned,7098 Oak Ave,71.14
+3123421550,AT&T United States,126855092,Active,Dana Whitfield,356427752018427,Apple iPhone SE,41108,Suspended,9945 Market St,46.09
+6312291701,Verizon United States,786579303,Active,Tom Okafor,359424265423207,Apple iPad 10th Gen,41303,Cancelled,7853 Oak Ave,67.84
+6466183869,Verizon United States,786579303,Active,Grace Lindqvist,357290695869076,Apple iPhone 13,41305,Assigned,6506 Market St,45.29
+6466357082,Verizon United States,786579303,Active,Grace Lindqvist,351195484915566,Apple iPhone 13,41106,Suspended,3200 Oak Ave,55.40
+9173733068,Verizon United States,786579303,Active,Victor Hale,351011206412227,Apple iPhone 14,41600,Assigned,9573 Market St,64.46
+3125497808,AT&T United States,126855092,Active,Marco Bellini,356675515101323,Apple iPhone 16,41603,Under Review,6238 King St W,21.37
+6479598719,Bell Canada,249827706,Active,Dana Whitfield,352275280062040,Inseego MiFi X PRO,41701,Assigned,7232 Main St,69.06

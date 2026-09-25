@@ -1,0 +1,76 @@
+table 'Out Of Contract Devices'
+	lineageTag: 210d1a38-424d-4984-ae01-0baa5947b987
+
+	column 'International Number'
+		dataType: string
+		lineageTag: 81bd93a8-6ebb-4578-8544-2862477cc9b7
+		summarizeBy: none
+		sourceColumn: International Number
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Line Status'
+		dataType: string
+		lineageTag: 6562ec4c-f0fd-4b00-a45d-784f989e2ed8
+		summarizeBy: none
+		sourceColumn: Line Status
+
+		annotation SummarizationSetBy = Automatic
+
+	column Carrier
+		dataType: string
+		lineageTag: dd83118c-a99a-4688-8cb0-c52cf09da5d5
+		summarizeBy: none
+		sourceColumn: Carrier
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Contract Start Date'
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 0bb88f66-4d51-405e-89de-cb0436596113
+		summarizeBy: none
+		sourceColumn: Contract Start Date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column 'Contract Ends'
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 4461efa6-c76c-49f5-882f-ef2059489e4c
+		summarizeBy: none
+		sourceColumn: Contract Ends
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column 'Contract Status' =
+			IF(
+			    ISBLANK('Out Of Contract Devices'[Contract Start Date]),
+			    "No Contract",
+			    IF(
+			        'Out Of Contract Devices'[Contract Ends] < TODAY(),
+			        "Out of Contract",
+			        "In Contract"
+			    )
+			)
+		lineageTag: ccff82a4-1c16-46b1-ab8e-bb69fc249e8a
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Out Of Contract Devices' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("Out Of Contract Devices", {{"International Number", type text}, {"Line Status", type text}, {"Carrier", type text}, {"Contract Start Date", type date}, {"Contract Ends", type date}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

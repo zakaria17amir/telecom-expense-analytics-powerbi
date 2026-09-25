@@ -1,0 +1,89 @@
+Model,Mfr,Color,Memory (Gb),Carrier Lock,Carrier,iOS Lock,MDM,Carrier Lock Status,ETF,Contract End,IMEI,Serial Number,EID,Tangoe Administered? ,Deployed
+Samsung Galaxy S23,Samsung,Cream,256,Unlocked,Verizon United States,No,Intune,Unlocked,0,,355610371672495,F1695051469,458261230662566899,Yes,No
+Samsung Galaxy S24,Samsung,Marble Grey,256,Unlocked,Verizon United States,No,Intune,Unlocked,0,,351514934210268,F7748296211,985449926492504615,Yes,No
+Apple iPhone 13,Apple,Midnight,64,Unlocked,AT&T United States,No,Intune,Unlocked,0,,357501645173497,F3721004965,582767401259797922,Yes,No
+Apple iPhone SE,Apple,Black,64,Unlocked,Verizon United States,No,Intune,Unlocked,0,,357105760899154,F1230635757,590563075730986376,Yes,No
+Apple iPhone 14,Apple,Midnight,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,358531018678757,F8115232441,562593727442226225,Yes,No
+Samsung Galaxy S24,Samsung,Onyx Black,256,Unlocked,Verizon United States,No,Intune,Unlocked,0,,354109895904255,F5224074302,529473945194920865,No,No
+Apple iPad Air,Apple,Blue,256,Unlocked,Rogers Canada,No,Intune,Unlocked,0,,351264298760165,F5760317765,695219217771151170,No,No
+Google Pixel 8,Google,Hazel,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,354041176715540,F6834132918,115702760770187019,No,No
+Apple iPhone SE,Apple,White,128,Unlocked,Rogers Canada,No,Intune,Unlocked,0,,358476730561197,F1327017477,227867896868016338,No,No
+Apple iPhone 16,Apple,Black,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,357019305276192,F6274116540,902934070068710957,Yes,No
+Samsung Galaxy S23,Samsung,Phantom Black,256,Unlocked,AT&T United States,No,Intune,Unlocked,0,,353970552102427,F3207854145,247477916870811624,Yes,No
+Apple iPad Air,Apple,Space Grey,128,Unlocked,Bell Canada,No,Intune,Unlocked,0,,355724249378715,F1202503746,393377806105214498,Yes,No
+Samsung Galaxy S24,Samsung,Marble Grey,256,Unlocked,Verizon United States,No,Intune,Unlocked,0,,352352399536143,F1478475087,323146911115799095,Yes,No
+Google Pixel 8,Google,Hazel,256,Unlocked,AT&T United States,No,Intune,Unlocked,0,,358928874128489,F8617354929,337824574528409523,Yes,No
+Apple iPhone SE,Apple,Black,256,Unlocked,Verizon United States,No,Intune,Unlocked,0,,357676693718496,F3942409085,183904972786528088,No,No
+Samsung Galaxy S24,Samsung,Onyx Black,64,Unlocked,T-Mobile United States,No,Intune,Unlocked,0,,357810890582434,F5133116579,148079770132592331,Yes,No
+Samsung Galaxy Tab S9,Samsung,Graphite,64,Unlocked,Verizon United States,No,Intune,Unlocked,0,,355041473433613,F4563721269,819571692271877018,No,No
+Samsung Galaxy S24,Samsung,Onyx Black,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,352828540692186,F3210629192,607909871915923821,Yes,No
+Apple iPhone SE,Apple,Black,256,Unlocked,Verizon United States,No,Intune,Unlocked,0,,355905592460035,F6386329670,872487307058133987,No,No
+Apple iPhone SE,Apple,White,256,Unlocked,Verizon United States,No,Intune,Unlocked,0,,354700250634769,F9070278706,176043691717637733,Yes,No
+Apple iPad 10th Gen,Apple,Silver,256,Unlocked,AT&T United States,No,Intune,Unlocked,0,,352883568520802,F9656805484,850449231871701902,Yes,No
+Samsung Galaxy Tab S9,Samsung,Graphite,128,Unlocked,AT&T United States,No,Intune,Unlocked,0,,353586100022729,F7599779355,679157695242251093,Yes,No
+Apple iPhone SE,Apple,White,256,Unlocked,Rogers Canada,No,Intune,Unlocked,0,,353726343926462,F3572043011,462596214400323405,Yes,No
+Apple iPhone 14,Apple,Starlight,64,Unlocked,Verizon United States,No,Intune,Unlocked,0,,355463061708671,F2618524777,723092992921880046,Yes,No
+Samsung Galaxy S23,Samsung,Cream,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,354585887774323,F3786134479,618273336785440669,Yes,No
+Apple iPhone 13,Apple,Midnight,64,Unlocked,Verizon United States,No,Intune,Unlocked,0,,359794159022593,F5424175216,753223705843738022,Yes,No
+Apple iPhone 14,Apple,Blue,64,Unlocked,AT&T United States,No,Intune,Unlocked,0,,353951553456802,F1625801142,117181798126711029,Yes,No
+Apple iPhone 14,Apple,Midnight,64,Unlocked,Verizon United States,No,Intune,Unlocked,0,,357788290393191,F7276274926,232141327690269816,Yes,No
+Apple iPhone 16,Apple,Teal,256,Unlocked,AT&T United States,No,Intune,Unlocked,0,,351193796237493,F3352529803,440655686782110787,Yes,No
+Samsung Galaxy S23,Samsung,Phantom Black,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,355139165235372,F5051895109,688375908943014406,Yes,No
+Google Pixel 8,Google,Hazel,256,Unlocked,T-Mobile United States,No,Intune,Unlocked,0,,354427977693030,F6647288607,778726728159416731,Yes,No
+Samsung Galaxy Tab S9,Samsung,Graphite,64,Unlocked,Verizon United States,No,Intune,Unlocked,0,,351300624454083,F8523051084,310269168816025099,Yes,No
+Apple iPhone SE,Apple,White,256,Unlocked,AT&T United States,No,Intune,Unlocked,0,,356828590736935,F3959368248,599043036657346572,No,No
+Samsung Galaxy Tab S9,Samsung,Graphite,256,Unlocked,Verizon United States,No,Intune,Unlocked,0,,351227950345879,F6888264673,199775843518429577,Yes,No
+Apple iPhone 13,Apple,Starlight,64,Unlocked,T-Mobile United States,No,Intune,Unlocked,0,,356697453020058,F5726918971,409979732301795672,Yes,No
+Google Pixel 8,Google,Obsidian,64,Unlocked,Verizon United States,No,Intune,Unlocked,0,,358559978444915,F6163848174,262362148558759139,Yes,No
+Apple iPad 10th Gen,Apple,Blue,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,353081194060697,F3638678581,135319604992844313,Yes,No
+Apple iPad 10th Gen,Apple,Blue,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,352365129125485,F7740305600,534714324147383344,Yes,No
+Apple iPad 10th Gen,Apple,Silver,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,353332540798533,F9539473635,827562344479121439,Yes,No
+Apple iPad Air,Apple,Space Grey,256,Unlocked,Verizon United States,No,Intune,Unlocked,0,,352387178993260,F7274884996,688562691684750169,Yes,No
+Apple iPhone 15,Apple,Blue,256,Unlocked,AT&T United States,No,Intune,Unlocked,0,,352587875464090,F5887542842,543986112285438427,Yes,No
+Apple iPhone 15,Apple,Black,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,358084944639308,F5037120597,406989712840380767,Yes,No
+Apple iPhone 14,Apple,Blue,256,Unlocked,Verizon United States,No,Intune,Unlocked,0,,352308193930567,F2929639043,915268784350190792,No,No
+Apple iPhone SE,Apple,White,128,Unlocked,Bell Canada,No,Intune,Unlocked,0,,357096936081247,F8219905539,660442712029068887,No,No
+Apple iPhone 16,Apple,White,256,Unlocked,T-Mobile United States,No,Intune,Unlocked,0,,351047787605937,F1607892230,672938532805330812,No,No
+Apple iPad 10th Gen,Apple,Silver,64,Unlocked,Verizon United States,No,Intune,Unlocked,0,,354862890572834,F9153894150,417179058783147352,No,No
+Google Pixel 8,Google,Obsidian,128,Unlocked,Bell Canada,No,Intune,Unlocked,0,,359271525115879,F5260089897,287874322798023517,No,No
+Apple iPad 10th Gen,Apple,Blue,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,359538777062205,F1784983542,401855101999926283,Yes,No
+Apple iPhone 13,Apple,Midnight,128,Unlocked,Rogers Canada,No,Intune,Unlocked,0,,357850784170669,F8612524573,655097490510669627,Yes,No
+Samsung Galaxy S24,Samsung,Onyx Black,64,Unlocked,Verizon United States,No,Intune,Unlocked,0,,352923317546584,F3821524038,314362437571493905,Yes,No
+Apple iPhone 16,Apple,Teal,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,358751530970191,F3446034887,150555777430691040,Yes,No
+Apple iPhone 15,Apple,Blue,128,Unlocked,AT&T United States,No,Intune,Unlocked,0,,355511793853313,F3807387390,681279979960263375,Yes,No
+Apple iPhone SE,Apple,White,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,353476675108896,F7536523492,783795525858214621,Yes,No
+Apple iPhone 13,Apple,Starlight,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,355905956848776,F9403317775,233239775826542166,Yes,No
+Apple iPhone 15,Apple,Pink,128,Unlocked,Rogers Canada,No,Intune,Unlocked,0,,352454011441528,F4321925889,397242682275132118,Yes,No
+Apple iPhone 14,Apple,Starlight,256,Unlocked,Verizon United States,No,Intune,Unlocked,0,,352207672544610,F2274617096,514986082639582965,Yes,No
+Apple iPad Air,Apple,Space Grey,128,Unlocked,Bell Canada,No,Intune,Unlocked,0,,358400878840050,F3276073600,602007071369136094,Yes,No
+Samsung Galaxy S23,Samsung,Cream,128,Unlocked,AT&T United States,No,Intune,Unlocked,0,,359854255220306,F6054647130,362694900638288063,Yes,No
+Samsung Galaxy Tab S9,Samsung,Graphite,256,Unlocked,Bell Canada,No,Intune,Unlocked,0,,351835543762913,F6715950029,613645060531040446,No,No
+Apple iPhone SE,Apple,Black,256,Unlocked,Verizon United States,No,Intune,Unlocked,0,,356903947405966,F2513714920,283839982252072000,Yes,No
+Apple iPhone 14,Apple,Blue,64,Unlocked,AT&T United States,No,Intune,Unlocked,0,,356711300020068,F1460163367,825123127453839987,Yes,No
+Apple iPhone 16,Apple,Teal,64,Unlocked,Bell Canada,No,Intune,Unlocked,0,,359139393025437,F9338265776,792936971537995891,No,No
+Apple iPhone 16,Apple,Black,128,Unlocked,T-Mobile United States,No,Intune,Unlocked,0,,351950858794259,F1760843165,127431469215627691,Yes,No
+Apple iPad 10th Gen,Apple,Blue,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,352464328283537,F3931692836,100749437425729472,No,No
+Samsung Galaxy Tab S9,Samsung,Graphite,128,Unlocked,AT&T United States,No,Intune,Unlocked,0,,357285967634414,F1255640911,975697550880743512,No,No
+Apple iPhone 16,Apple,Black,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,357106921689849,F6410068252,491744618260944712,Yes,No
+Apple iPhone SE,Apple,Black,256,Unlocked,Verizon United States,No,Intune,Unlocked,0,,359156697526273,F8190081923,132339830899179674,No,No
+Samsung Galaxy Tab S9,Samsung,Graphite,64,Unlocked,Verizon United States,No,Intune,Unlocked,0,,356065452948597,F3671644472,450560144012547767,Yes,No
+Apple iPhone 16,Apple,Black,64,Unlocked,Verizon United States,No,Intune,Unlocked,0,,353217698674489,F5027337925,347316611656542395,Yes,No
+Apple iPad Air,Apple,Blue,64,Unlocked,Verizon United States,No,Intune,Unlocked,0,,356925568557337,F7637628689,976180214703098781,Yes,No
+Samsung Galaxy S24,Samsung,Marble Grey,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,352242911662357,F1142840593,756467143191494972,No,No
+Apple iPhone 16,Apple,Teal,64,Unlocked,Verizon United States,No,Intune,Unlocked,0,,352293037656439,F7643177611,606400389857657127,Yes,No
+Apple iPhone 16,Apple,Teal,128,Unlocked,Rogers Canada,No,Intune,Unlocked,0,,355696550834910,F8938293777,769908684952280162,Yes,No
+Samsung Galaxy S24,Samsung,Onyx Black,64,Unlocked,Verizon United States,No,Intune,Unlocked,0,,359063761483652,F5970031084,109280953289396727,Yes,No
+Samsung Galaxy Tab S9,Samsung,Graphite,64,Unlocked,Verizon United States,No,Intune,Unlocked,0,,356507777940296,F2095662785,550980232889541398,Yes,No
+Apple iPhone 15,Apple,Blue,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,354848932587103,F4389918146,481651581223202199,No,No
+Apple iPhone 15,Apple,Black,64,Unlocked,AT&T United States,No,Intune,Unlocked,0,,358421241121456,F5494231664,106477803869010741,Yes,No
+Apple iPad Air,Apple,Blue,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,353052577123948,F5674583340,611979941823267393,Yes,No
+Apple iPhone 14,Apple,Blue,64,Unlocked,Verizon United States,No,Intune,Unlocked,0,,356887018636272,F7255785422,748602291460068480,Yes,No
+Apple iPad Air,Apple,Blue,128,Unlocked,Bell Canada,No,Intune,Unlocked,0,,354276461774042,F1376783911,949641638613110828,Yes,No
+Samsung Galaxy S23,Samsung,Cream,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,355229869182158,F3981630061,526631683436151601,Yes,No
+Apple iPhone 14,Apple,Midnight,128,Unlocked,AT&T United States,No,Intune,Unlocked,0,,353218762228347,F2910906833,360156469146521374,Yes,No
+Apple iPad Air,Apple,Space Grey,128,Unlocked,Verizon United States,No,Intune,Unlocked,0,,352740184376657,F3835766081,506487426149209166,No,No
+Apple iPad Air,Apple,Space Grey,256,Unlocked,T-Mobile United States,No,Intune,Unlocked,0,,357441104022744,F3428990394,222689298906038085,Yes,No
+Apple iPad Air,Apple,Blue,128,Unlocked,AT&T United States,No,Intune,Unlocked,0,,352436883890654,F9077650488,964258391468955976,Yes,No
+Google Pixel 8,Google,Obsidian,64,Unlocked,Verizon United States,No,Intune,Unlocked,0,,351783903532489,F4044400489,491612127777628183,No,No
+Google Pixel 8,Google,Obsidian,64,Unlocked,AT&T United States,No,Intune,Unlocked,0,,353722762755347,F7794142030,298738586008481546,No,No
+Apple iPhone SE,Apple,White,128,Unlocked,Bell Canada,No,Intune,Unlocked,0,,352690745472158,F1593144041,969294460325727942,Yes,No

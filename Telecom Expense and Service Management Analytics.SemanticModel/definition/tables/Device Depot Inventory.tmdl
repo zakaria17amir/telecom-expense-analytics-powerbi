@@ -1,0 +1,143 @@
+table 'Device Depot Inventory'
+	lineageTag: 30e2a407-0579-4a9c-9703-38e415a75f91
+
+	column Model
+		dataType: string
+		lineageTag: 6115ac5d-44bd-4de4-bf36-092e4c382131
+		summarizeBy: none
+		sourceColumn: Model
+
+		annotation SummarizationSetBy = Automatic
+
+	column Mfr
+		dataType: string
+		lineageTag: 6d0bef61-f916-4b5e-bef9-290f03e20f31
+		summarizeBy: none
+		sourceColumn: Mfr
+
+		annotation SummarizationSetBy = Automatic
+
+	column Color
+		dataType: string
+		lineageTag: a6b52992-c62d-4857-9319-452c7656eb56
+		summarizeBy: none
+		sourceColumn: Color
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Memory (Gb)'
+		dataType: string
+		lineageTag: dcb8ae2a-7a23-4e4b-bcaf-dd1a5d44bc51
+		summarizeBy: none
+		sourceColumn: Memory (Gb)
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Carrier Lock'
+		dataType: string
+		lineageTag: 24cccf81-605c-4616-a943-0e30e20fde5e
+		summarizeBy: none
+		sourceColumn: Carrier Lock
+
+		annotation SummarizationSetBy = Automatic
+
+	column Carrier
+		dataType: string
+		lineageTag: 044f7eea-c4cb-4fed-ac79-ad182019e72d
+		summarizeBy: none
+		sourceColumn: Carrier
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'iOS Lock'
+		dataType: string
+		lineageTag: 545c4433-6d80-4662-beba-bd14e0326a06
+		summarizeBy: none
+		sourceColumn: iOS Lock
+
+		annotation SummarizationSetBy = Automatic
+
+	column MDM
+		dataType: string
+		lineageTag: b1652ad2-255d-453b-9971-53c2209feab4
+		summarizeBy: none
+		sourceColumn: MDM
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Carrier Lock Status'
+		dataType: string
+		lineageTag: 6abe436b-a6c6-48ed-b168-eb08da8f36ad
+		summarizeBy: none
+		sourceColumn: Carrier Lock Status
+
+		annotation SummarizationSetBy = Automatic
+
+	column ETF
+		dataType: string
+		lineageTag: 9a2c6a26-c31c-43b5-90ab-673df4070c83
+		summarizeBy: none
+		sourceColumn: ETF
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Contract End'
+		dataType: string
+		lineageTag: e6091fa3-a728-4820-90ac-0fb9dd4f2a93
+		summarizeBy: none
+		sourceColumn: Contract End
+
+		annotation SummarizationSetBy = Automatic
+
+	column IMEI
+		dataType: string
+		lineageTag: 8fe444df-a010-4421-aee4-51c2273d220f
+		summarizeBy: none
+		sourceColumn: IMEI
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Serial Number'
+		dataType: string
+		lineageTag: 8132bc7f-1227-4191-9617-1b339f76f3b1
+		summarizeBy: none
+		sourceColumn: Serial Number
+
+		annotation SummarizationSetBy = Automatic
+
+	column EID
+		dataType: string
+		lineageTag: 1a3dfc1b-141b-4c87-b9b2-64a4f4fd8cb6
+		summarizeBy: none
+		sourceColumn: EID
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Tangoe Administered? '
+		dataType: string
+		lineageTag: 515db196-95df-4419-b679-688610b04800
+		summarizeBy: none
+		sourceColumn: "Tangoe Administered? "
+
+		annotation SummarizationSetBy = Automatic
+
+	column Deployed
+		dataType: string
+		lineageTag: 350a43a2-e652-46ba-bd1c-044132ed40a7
+		summarizeBy: none
+		sourceColumn: Deployed
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Device Depot Inventory' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("Device Depot Inventory", {{"Model", type text}, {"Mfr", type text}, {"Color", type text}, {"Memory (Gb)", type text}, {"Carrier Lock", type text}, {"Carrier", type text}, {"iOS Lock", type text}, {"MDM", type text}, {"Carrier Lock Status", type text}, {"ETF", type text}, {"Contract End", type text}, {"IMEI", type text}, {"Serial Number", type text}, {"EID", type text}, {"Tangoe Administered? ", type text}, {"Deployed", type text}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

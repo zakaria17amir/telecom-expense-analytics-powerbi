@@ -1,0 +1,64 @@
+table 'Active Inactive Users'
+	lineageTag: 1ed5bd75-dccc-468a-87ff-f262fb6fba35
+
+	column Date
+		dataType: dateTime
+		formatString: mm/dd/yyyy
+		lineageTag: 5e94d408-04fc-40d0-b939-28a17b886743
+		summarizeBy: none
+		sourceColumn: Date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+		annotation PBI_FormatHint = {"isDateTimeCustom":true}
+
+	column Carrier
+		dataType: string
+		lineageTag: ff619ddb-69e9-4ad7-9c24-079d6e94bddf
+		summarizeBy: none
+		sourceColumn: Carrier
+
+		annotation SummarizationSetBy = Automatic
+
+	column Qty
+		dataType: int64
+		formatString: 0
+		lineageTag: a3f2e01b-5beb-4d20-8cf9-712f12b8affd
+		summarizeBy: none
+		sourceColumn: Qty
+
+		annotation SummarizationSetBy = User
+
+	column 'Monthly Recurring Charges'
+		dataType: double
+		lineageTag: a86389f5-3c50-40e9-acb9-e6c0e286bf23
+		summarizeBy: none
+		sourceColumn: Monthly Recurring Charges
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Annual Saving'
+		dataType: double
+		formatString: 0.0
+		lineageTag: 0503faeb-d699-4212-b2c8-b20eea3768cb
+		summarizeBy: none
+		sourceColumn: Annual Saving
+
+		annotation SummarizationSetBy = User
+
+	partition 'Active Inactive Users' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("Active Inactive Users", {{"Date", type date}, {"Carrier", type text}, {"Qty", Int64.Type}, {"Monthly Recurring Charges", type number}, {"Annual Saving", type number}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

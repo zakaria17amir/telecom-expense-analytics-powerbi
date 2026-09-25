@@ -1,0 +1,128 @@
+relationship 486b01a2-8e4b-97c1-3812-32fdd9f31db3
+	fromColumn: 'Monthly Billings All'.'International Number'
+	toColumn: 'VVIP List'.'Device number'
+
+relationship 891ec06c-efe4-76fa-b0e7-92bd8f1ab5fd
+	fromColumn: 'Monthly Billings All'.'International Number'
+	toColumn: 'Exception List'.'Device Number'
+
+relationship 817b7342-574f-72c0-603a-7a6b0521d077
+	crossFilteringBehavior: bothDirections
+	toCardinality: many
+	fromColumn: 'Device Depot Inventory'.Model
+	toColumn: 'Reissued Devices'.Model
+
+relationship AutoDetected_4eb92d2f-84fe-4b31-b539-05a1e6fc5785
+	fromColumn: 'Monthly Billings All'.Carrier
+	toColumn: 'All Carriers'.Carrier
+
+relationship AutoDetected_77c3754f-63d6-410e-b181-1e92805fae4c
+	fromColumn: 'Granite Rock Report'.Carrier
+	toColumn: 'All Carriers'.Carrier
+
+relationship d2ba64ab-2839-8856-e589-e845539eb12a
+	fromColumn: 'Monthly Billings All'.'Bill Cycle End Date'
+	toColumn: Dim_Calendar.Date
+
+relationship 923d55b8-00d7-3c18-7d70-69ea67527917
+	fromColumn: 'Granite Rock Report'.'Invoice Date'
+	toColumn: Dim_Calendar.Date
+
+relationship f9b8274b-485d-edc0-570a-eef1dcf26e8d
+	fromColumn: 'Returned Devices'.Date
+	toColumn: Dim_Calendar.Date
+
+relationship 06587107-bb88-9a44-80c6-025502b96ad1
+	fromColumn: 'Tangoe Activities'.Created
+	toColumn: Dim_Calendar.Date
+
+relationship ce2083f6-21eb-fab4-645d-85d90551a897
+	fromColumn: 'ServiceNow Tickets'.sys_created_on
+	toColumn: Dim_Calendar.Date
+
+relationship AutoDetected_fd7c6ff1-13e8-4786-a375-68290a10881f
+	fromColumn: 'Out Of Contract Devices'.Carrier
+	toColumn: 'All Carriers'.Carrier
+
+relationship 502dd2f0-f479-5d63-7007-dd3154b42463
+	fromColumn: 'Granite Overall'.Carrier
+	toColumn: 'All Carriers'.Carrier
+
+relationship b1165d63-1989-863b-b3ae-8348256b87d4
+	fromColumn: 'Tangoe Devices'.Carrier
+	toColumn: 'All Carriers'.Carrier
+
+relationship d5c3da15-7960-a5d6-d9ab-7f43714ce786
+	fromColumn: 'Active Inactive Users'.Date
+	toColumn: Dim_Calendar.Date
+
+relationship 9fab162f-74dc-f16a-1bd1-439038e550e9
+	fromColumn: 'Zero Use Report'.Date
+	toColumn: Dim_Calendar.Date
+
+relationship 70b3ad80-29c9-afcf-994d-5a8c8755e111
+	fromColumn: 'Verizon Activation'.'Chargeback date'
+	toColumn: Dim_Calendar.Date
+
+relationship b9ff14c8-63a6-3bd4-466e-995bd5886637
+	toCardinality: many
+	fromColumn: 'Granite Overall'.'Device Type'
+	toColumn: 'Tangoe Devices'.'Device Category'
+
+relationship 9283da19-7c75-33d0-cb17-c4c0e38cadf4
+	fromColumn: 'Carrier Discrepancies'.Date
+	toColumn: Dim_Calendar.Date
+
+relationship eaf76e2f-5656-05b6-abba-e3be784cb2d1
+	fromColumn: 'Carrier Discrepancies'.Carrier
+	toColumn: 'All Carriers'.Carrier
+
+relationship 1edfbaa7-e276-df15-86c8-5c6591924724
+	fromColumn: 'Unassigned Lines'.Carrier
+	toColumn: 'All Carriers'.Carrier
+
+relationship 06cf025c-ef90-f73e-d85a-66a222ebfd4f
+	fromColumn: 'Active Inactive Users'.Carrier
+	toColumn: 'All Carriers'.Carrier
+
+relationship 9da1635c-c747-8b6e-1bc3-0b604f853748
+	crossFilteringBehavior: bothDirections
+	toCardinality: many
+	fromColumn: 'Monthly Billings All'.'Product Category'
+	toColumn: 'Tangoe Devices'.'Device Category'
+
+relationship 0b387b5f-1735-7282-ed83-16d5298674c1
+	fromColumn: 'Reissued Devices'.'Date of giving out'
+	toColumn: Dim_Calendar.Date
+
+relationship 50cd067b-8a75-b3b2-109d-b5c5352888ed
+	fromColumn: 'Upgrades and Order Approvals'.Deadline
+	toColumn: Dim_Calendar.Date
+
+relationship 77a26581-647e-6ed6-ac5a-652207755ecf
+	fromColumn: 'All Lines Report'.Carrier
+	toColumn: 'All Carriers'.Carrier
+
+relationship d3fa2351-51bf-12f1-fab1-4c0df3d0bda5
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	toCardinality: many
+	fromColumn: 'Granite Overall'.'Device Type'
+	toColumn: 'Monthly Billings All'.'Product Category'
+
+relationship 52280296-a6d4-a396-b86b-4fd27823552e
+	fromColumn: 'Granite Overall'.Msisdn
+	toColumn: 'VVIP List'.'Device number'
+
+relationship 6e2ceba6-30bd-39c9-ee27-c616bf4a7910
+	fromColumn: 'Granite Overall'.'Device Type'
+	toColumn: 'Dim Device Category'.'Device Category'
+
+relationship 2c9e512a-2edb-b18f-02b5-db6f3b00917b
+	fromColumn: 'Tangoe Devices'.'Device Category'
+	toColumn: 'Dim Device Category'.'Device Category'
+
+relationship 4728f404-bfe7-e2e8-6fd4-e502af79c961
+	fromColumn: 'Monthly Billings All'.'Product Category'
+	toColumn: 'Dim Device Category'.'Device Category'
+

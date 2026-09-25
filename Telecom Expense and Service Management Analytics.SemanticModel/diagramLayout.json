@@ -1,0 +1,351 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 3124.0404533617425,
+        "y": 245.656562573982
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 852,
+            "y": 628.9911689758301
+          },
+          "nodeIndex": "Dim_Calendar",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 568,
+            "y": 578.9911689758301
+          },
+          "nodeIndex": "Monthly Billings All",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1704,
+            "y": 578.9911689758301
+          },
+          "nodeIndex": "Device Depot Inventory",
+          "nodeLineageTag": "30e2a407-0579-4a9c-9703-38e415a75f91",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1988,
+            "y": 578.9911689758301
+          },
+          "nodeIndex": "Reissued Devices",
+          "nodeLineageTag": "8a80ba09-0746-41dc-a50a-342a221e8869",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2606,
+            "y": 590.9911689758301
+          },
+          "nodeIndex": "Exception List",
+          "nodeLineageTag": "37b3be2b-9ab6-41d3-aadc-2e44845d5256",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2322,
+            "y": 602.9911689758301
+          },
+          "nodeIndex": "VVIP List",
+          "nodeLineageTag": "ce4ca3dc-130d-443d-a8ec-1fbff9a333c0",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3124,
+            "y": 664.4911689758301
+          },
+          "nodeIndex": "All Measures",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3408,
+            "y": 560.2411689758301
+          },
+          "nodeIndex": "Granite Overall",
+          "nodeLineageTag": "3c992def-81c3-4a10-a343-2d2275cde3ce",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3976,
+            "y": 574.2411689758301
+          },
+          "nodeIndex": "Tangoe Devices",
+          "nodeLineageTag": "f3830346-c4fa-494d-b439-4b17251c164b",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4260,
+            "y": 658.2411689758301
+          },
+          "nodeIndex": "All Carriers",
+          "nodeLineageTag": "af499eb4-9573-4df2-8105-cb4351de6b33",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3692,
+            "y": 560.2411689758301
+          },
+          "nodeIndex": "Granite Rock Report",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4544,
+            "y": 555.5536689758301
+          },
+          "nodeIndex": "Returned Devices",
+          "nodeLineageTag": "85398c85-221c-4ab4-857c-e1c4ade97885",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4828,
+            "y": 550.8661689758301
+          },
+          "nodeIndex": "Tangoe Activities",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5112,
+            "y": 545.0067939758301
+          },
+          "nodeIndex": "Upgrades and Order Approvals",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5680,
+            "y": 525.9638252258301
+          },
+          "nodeIndex": "ServiceNow Tickets",
+          "nodeLineageTag": "f08b9600-1974-4c50-b282-704ecba35662",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5964,
+            "y": 567.4677314758301
+          },
+          "nodeIndex": "Out Of Contract Devices",
+          "nodeLineageTag": "210d1a38-424d-4984-ae01-0baa5947b987",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6532,
+            "y": 536.7060127258301
+          },
+          "nodeIndex": "Active Inactive Users",
+          "nodeLineageTag": "1ed5bd75-dccc-468a-87ff-f262fb6fba35",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6816,
+            "y": 522.3205146789551
+          },
+          "nodeIndex": "Zero Use Report",
+          "nodeLineageTag": "07a32fc3-d273-4660-a94f-88fe242436eb",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7100,
+            "y": 506.7422676086426
+          },
+          "nodeIndex": "Multiple Devices",
+          "nodeLineageTag": "918e6e89-53d8-4d31-ad68-029e1a15524d",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7384,
+            "y": 420.7422676086426
+          },
+          "nodeIndex": "Unassigned Lines",
+          "nodeLineageTag": "822e9728-adf9-4654-b3b3-7708c2f300a8",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7952,
+            "y": 400.9851875305176
+          },
+          "nodeIndex": "Verizon Activation",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7668,
+            "y": 462.9851875305176
+          },
+          "nodeIndex": "Carrier Discrepancies",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8236,
+            "y": 335.14035415649414
+          },
+          "nodeIndex": "Device Orders",
+          "nodeLineageTag": "175787a5-6e34-4d3c-afd5-538dcde0c7a1",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8520,
+            "y": 335.14035415649414
+          },
+          "nodeIndex": "Device Upgrade",
+          "nodeLineageTag": "a190b1f0-0262-477e-b3fb-cc74f530eed9",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8804,
+            "y": 233.63885879516602
+          },
+          "nodeIndex": "All Lines Report",
+          "nodeLineageTag": "a75f177f-7fac-4c9a-b793-353f8ad34d4a",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 9088,
+            "y": 0
+          },
+          "nodeIndex": "Dim Device Category",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 99,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

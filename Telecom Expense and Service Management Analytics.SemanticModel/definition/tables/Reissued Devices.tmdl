@@ -1,0 +1,235 @@
+table 'Reissued Devices'
+	lineageTag: 8a80ba09-0746-41dc-a50a-342a221e8869
+
+	column 'New user'
+		dataType: string
+		lineageTag: b97c68b0-6143-4d64-be2b-b2babf7425f2
+		summarizeBy: none
+		sourceColumn: New user
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Email address'
+		dataType: string
+		lineageTag: 6e9369dc-80ca-483a-8f4d-aafacfdf9142
+		summarizeBy: none
+		sourceColumn: Email address
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Date of giving out'
+		dataType: dateTime
+		formatString: mm/dd/yyyy
+		lineageTag: 1e156d5b-bcde-4973-919a-d434d37a0df4
+		summarizeBy: none
+		sourceColumn: Date of giving out
+
+		changedProperty = DataType
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+		annotation PBI_FormatHint = {"isDateTimeCustom":true}
+
+	column 'Tracking info'
+		dataType: string
+		lineageTag: b2c5c889-5145-4ce9-adde-b7256cca73be
+		summarizeBy: none
+		sourceColumn: Tracking info
+
+		annotation SummarizationSetBy = Automatic
+
+	column Reissued
+		dataType: string
+		lineageTag: 0c4d3c4c-59fd-48ee-9044-0a6ae2ae1c3f
+		summarizeBy: none
+		sourceColumn: Reissued
+
+		annotation SummarizationSetBy = Automatic
+
+	column Comment
+		dataType: string
+		lineageTag: 29afd3e7-81b6-43fe-a2d6-aa6b3455362f
+		summarizeBy: none
+		sourceColumn: Comment
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Comment 2'
+		dataType: string
+		lineageTag: e6bdcd98-e164-48a2-bed3-6385bfcde887
+		summarizeBy: none
+		sourceColumn: Comment 2
+
+		annotation SummarizationSetBy = Automatic
+
+	column Model
+		dataType: string
+		lineageTag: ebe5ea9a-a4e3-474a-9666-121c6a91a82a
+		summarizeBy: none
+		sourceColumn: Model
+
+		annotation SummarizationSetBy = Automatic
+
+	column Mfr
+		dataType: string
+		lineageTag: f4eeaf6a-40e5-4b80-9fd2-88a22ec2682b
+		summarizeBy: none
+		sourceColumn: Mfr
+
+		annotation SummarizationSetBy = Automatic
+
+	column Color
+		dataType: string
+		lineageTag: c692fce3-b6aa-40d2-a953-bb291fa5ab30
+		summarizeBy: none
+		sourceColumn: Color
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Memory (Gb)'
+		dataType: string
+		lineageTag: e365d899-1e77-4856-aa00-cbcc9e469d5c
+		summarizeBy: none
+		sourceColumn: Memory (Gb)
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Carrier Lock'
+		dataType: string
+		lineageTag: 41b5252d-f47a-4255-85e5-87f68546ff1a
+		summarizeBy: none
+		sourceColumn: Carrier Lock
+
+		annotation SummarizationSetBy = Automatic
+
+	column Carrier
+		dataType: string
+		lineageTag: 62764b4b-2524-48d4-9478-479bcec9508b
+		summarizeBy: none
+		sourceColumn: Carrier
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'iOS Lock'
+		dataType: string
+		lineageTag: 02e6ea85-76c5-482a-af3c-7303d845c82c
+		summarizeBy: none
+		sourceColumn: iOS Lock
+
+		annotation SummarizationSetBy = Automatic
+
+	column MDM
+		dataType: string
+		lineageTag: 95aa8eec-40f0-41c0-9fbd-52e33c789c26
+		summarizeBy: none
+		sourceColumn: MDM
+
+		annotation SummarizationSetBy = Automatic
+
+	column ETF
+		dataType: double
+		lineageTag: e39e15c4-5c11-4c68-b2e6-1d5342c899a4
+		summarizeBy: none
+		sourceColumn: ETF
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Contract End'
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 2d9d1e0b-2bc0-4af4-b4e0-c708948acb2f
+		summarizeBy: none
+		sourceColumn: Contract End
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column IMEI
+		dataType: string
+		lineageTag: 7e0407f8-1f99-4c99-b9bd-8ef69ae93d7c
+		summarizeBy: none
+		sourceColumn: IMEI
+
+		annotation SummarizationSetBy = Automatic
+
+	column IMEI2
+		dataType: string
+		lineageTag: 98bb7195-ab26-4c5e-81c7-ec425e72600b
+		summarizeBy: none
+		sourceColumn: IMEI2
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Serial Number'
+		dataType: string
+		lineageTag: 95fe0661-9f6f-4437-9b06-6d25dbd88eb2
+		summarizeBy: none
+		sourceColumn: Serial Number
+
+		annotation SummarizationSetBy = Automatic
+
+	column EID
+		dataType: string
+		lineageTag: b01d3e81-ae7a-487d-8c2f-05e7d8cce872
+		summarizeBy: none
+		sourceColumn: EID
+
+		annotation SummarizationSetBy = Automatic
+
+	column ICCID
+		dataType: string
+		lineageTag: 9a1ff32b-f143-4178-b56a-16e39f884c81
+		summarizeBy: none
+		sourceColumn: ICCID
+
+		annotation SummarizationSetBy = Automatic
+
+	column UIDID
+		dataType: string
+		lineageTag: aa6eed4d-81b1-4b9e-af7f-a3e76742f17c
+		summarizeBy: none
+		sourceColumn: UIDID
+
+		annotation SummarizationSetBy = Automatic
+
+	column SrcPartNum
+		dataType: string
+		lineageTag: f314d0eb-ce1d-48e5-99f4-8fddbf9a26fb
+		summarizeBy: none
+		sourceColumn: SrcPartNum
+
+		annotation SummarizationSetBy = Automatic
+
+	column Availability
+		dataType: string
+		lineageTag: 507a1b9b-2d1a-42ca-9121-be9bb91b464d
+		summarizeBy: none
+		sourceColumn: Availability
+
+		annotation SummarizationSetBy = Automatic
+
+	column Carrier_1
+		dataType: string
+		lineageTag: 0716b65d-df24-404b-9c55-d0955d2de860
+		summarizeBy: none
+		sourceColumn: Carrier_1
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Reissued Devices' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("Reissued Devices", {{"New user", type text}, {"Email address", type text}, {"Date of giving out", type date}, {"Tracking info", type text}, {"Reissued", type text}, {"Comment", type text}, {"Comment 2", type text}, {"Model", type text}, {"Mfr", type text}, {"Color", type text}, {"Memory (Gb)", type text}, {"Carrier Lock", type text}, {"Carrier", type text}, {"iOS Lock", type text}, {"MDM", type text}, {"ETF", type number}, {"Contract End", type date}, {"IMEI", type text}, {"IMEI2", type text}, {"Serial Number", type text}, {"EID", type text}, {"ICCID", type text}, {"UIDID", type text}, {"SrcPartNum", type text}, {"Availability", type text}, {"Carrier_1", type text}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

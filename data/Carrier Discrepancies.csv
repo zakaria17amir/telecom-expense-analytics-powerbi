@@ -1,0 +1,501 @@
+Date,Carrier,Type,Count
+2025-01-01,Verizon United States,Missing in Tangoe,10
+2025-01-01,Verizon United States,Missing on Carrier Bill,10
+2025-01-01,Verizon United States,Plan Mismatch,16
+2025-01-01,Verizon United States,Cost Center Mismatch,10
+2025-01-01,Verizon United States,Owner Mismatch,5
+2025-01-01,AT&T United States,Missing in Tangoe,13
+2025-01-01,AT&T United States,Missing on Carrier Bill,3
+2025-01-01,AT&T United States,Plan Mismatch,10
+2025-01-01,AT&T United States,Cost Center Mismatch,9
+2025-01-01,AT&T United States,Owner Mismatch,9
+2025-01-01,T-Mobile United States,Missing in Tangoe,3
+2025-01-01,T-Mobile United States,Missing on Carrier Bill,0
+2025-01-01,T-Mobile United States,Plan Mismatch,4
+2025-01-01,T-Mobile United States,Cost Center Mismatch,4
+2025-01-01,T-Mobile United States,Owner Mismatch,2
+2025-01-01,Bell Canada,Missing in Tangoe,6
+2025-01-01,Bell Canada,Missing on Carrier Bill,3
+2025-01-01,Bell Canada,Plan Mismatch,3
+2025-01-01,Bell Canada,Cost Center Mismatch,5
+2025-01-01,Bell Canada,Owner Mismatch,4
+2025-01-01,Rogers Canada,Missing in Tangoe,0
+2025-01-01,Rogers Canada,Missing on Carrier Bill,0
+2025-01-01,Rogers Canada,Plan Mismatch,0
+2025-01-01,Rogers Canada,Cost Center Mismatch,2
+2025-01-01,Rogers Canada,Owner Mismatch,0
+2025-02-01,Verizon United States,Missing in Tangoe,9
+2025-02-01,Verizon United States,Missing on Carrier Bill,7
+2025-02-01,Verizon United States,Plan Mismatch,18
+2025-02-01,Verizon United States,Cost Center Mismatch,12
+2025-02-01,Verizon United States,Owner Mismatch,6
+2025-02-01,AT&T United States,Missing in Tangoe,12
+2025-02-01,AT&T United States,Missing on Carrier Bill,6
+2025-02-01,AT&T United States,Plan Mismatch,13
+2025-02-01,AT&T United States,Cost Center Mismatch,10
+2025-02-01,AT&T United States,Owner Mismatch,5
+2025-02-01,T-Mobile United States,Missing in Tangoe,0
+2025-02-01,T-Mobile United States,Missing on Carrier Bill,3
+2025-02-01,T-Mobile United States,Plan Mismatch,3
+2025-02-01,T-Mobile United States,Cost Center Mismatch,4
+2025-02-01,T-Mobile United States,Owner Mismatch,4
+2025-02-01,Bell Canada,Missing in Tangoe,0
+2025-02-01,Bell Canada,Missing on Carrier Bill,1
+2025-02-01,Bell Canada,Plan Mismatch,5
+2025-02-01,Bell Canada,Cost Center Mismatch,2
+2025-02-01,Bell Canada,Owner Mismatch,4
+2025-02-01,Rogers Canada,Missing in Tangoe,0
+2025-02-01,Rogers Canada,Missing on Carrier Bill,3
+2025-02-01,Rogers Canada,Plan Mismatch,5
+2025-02-01,Rogers Canada,Cost Center Mismatch,0
+2025-02-01,Rogers Canada,Owner Mismatch,2
+2025-03-01,Verizon United States,Missing in Tangoe,8
+2025-03-01,Verizon United States,Missing on Carrier Bill,8
+2025-03-01,Verizon United States,Plan Mismatch,16
+2025-03-01,Verizon United States,Cost Center Mismatch,8
+2025-03-01,Verizon United States,Owner Mismatch,8
+2025-03-01,AT&T United States,Missing in Tangoe,8
+2025-03-01,AT&T United States,Missing on Carrier Bill,3
+2025-03-01,AT&T United States,Plan Mismatch,12
+2025-03-01,AT&T United States,Cost Center Mismatch,7
+2025-03-01,AT&T United States,Owner Mismatch,4
+2025-03-01,T-Mobile United States,Missing in Tangoe,0
+2025-03-01,T-Mobile United States,Missing on Carrier Bill,0
+2025-03-01,T-Mobile United States,Plan Mismatch,3
+2025-03-01,T-Mobile United States,Cost Center Mismatch,4
+2025-03-01,T-Mobile United States,Owner Mismatch,5
+2025-03-01,Bell Canada,Missing in Tangoe,4
+2025-03-01,Bell Canada,Missing on Carrier Bill,3
+2025-03-01,Bell Canada,Plan Mismatch,4
+2025-03-01,Bell Canada,Cost Center Mismatch,2
+2025-03-01,Bell Canada,Owner Mismatch,0
+2025-03-01,Rogers Canada,Missing in Tangoe,1
+2025-03-01,Rogers Canada,Missing on Carrier Bill,3
+2025-03-01,Rogers Canada,Plan Mismatch,3
+2025-03-01,Rogers Canada,Cost Center Mismatch,0
+2025-03-01,Rogers Canada,Owner Mismatch,0
+2025-04-01,Verizon United States,Missing in Tangoe,11
+2025-04-01,Verizon United States,Missing on Carrier Bill,8
+2025-04-01,Verizon United States,Plan Mismatch,16
+2025-04-01,Verizon United States,Cost Center Mismatch,9
+2025-04-01,Verizon United States,Owner Mismatch,4
+2025-04-01,AT&T United States,Missing in Tangoe,7
+2025-04-01,AT&T United States,Missing on Carrier Bill,3
+2025-04-01,AT&T United States,Plan Mismatch,8
+2025-04-01,AT&T United States,Cost Center Mismatch,6
+2025-04-01,AT&T United States,Owner Mismatch,6
+2025-04-01,T-Mobile United States,Missing in Tangoe,6
+2025-04-01,T-Mobile United States,Missing on Carrier Bill,2
+2025-04-01,T-Mobile United States,Plan Mismatch,4
+2025-04-01,T-Mobile United States,Cost Center Mismatch,0
+2025-04-01,T-Mobile United States,Owner Mismatch,0
+2025-04-01,Bell Canada,Missing in Tangoe,4
+2025-04-01,Bell Canada,Missing on Carrier Bill,4
+2025-04-01,Bell Canada,Plan Mismatch,6
+2025-04-01,Bell Canada,Cost Center Mismatch,5
+2025-04-01,Bell Canada,Owner Mismatch,5
+2025-04-01,Rogers Canada,Missing in Tangoe,4
+2025-04-01,Rogers Canada,Missing on Carrier Bill,0
+2025-04-01,Rogers Canada,Plan Mismatch,4
+2025-04-01,Rogers Canada,Cost Center Mismatch,3
+2025-04-01,Rogers Canada,Owner Mismatch,2
+2025-05-01,Verizon United States,Missing in Tangoe,9
+2025-05-01,Verizon United States,Missing on Carrier Bill,11
+2025-05-01,Verizon United States,Plan Mismatch,15
+2025-05-01,Verizon United States,Cost Center Mismatch,7
+2025-05-01,Verizon United States,Owner Mismatch,5
+2025-05-01,AT&T United States,Missing in Tangoe,9
+2025-05-01,AT&T United States,Missing on Carrier Bill,1
+2025-05-01,AT&T United States,Plan Mismatch,11
+2025-05-01,AT&T United States,Cost Center Mismatch,9
+2025-05-01,AT&T United States,Owner Mismatch,4
+2025-05-01,T-Mobile United States,Missing in Tangoe,3
+2025-05-01,T-Mobile United States,Missing on Carrier Bill,0
+2025-05-01,T-Mobile United States,Plan Mismatch,3
+2025-05-01,T-Mobile United States,Cost Center Mismatch,2
+2025-05-01,T-Mobile United States,Owner Mismatch,3
+2025-05-01,Bell Canada,Missing in Tangoe,2
+2025-05-01,Bell Canada,Missing on Carrier Bill,2
+2025-05-01,Bell Canada,Plan Mismatch,4
+2025-05-01,Bell Canada,Cost Center Mismatch,5
+2025-05-01,Bell Canada,Owner Mismatch,2
+2025-05-01,Rogers Canada,Missing in Tangoe,0
+2025-05-01,Rogers Canada,Missing on Carrier Bill,4
+2025-05-01,Rogers Canada,Plan Mismatch,1
+2025-05-01,Rogers Canada,Cost Center Mismatch,3
+2025-05-01,Rogers Canada,Owner Mismatch,3
+2025-06-01,Verizon United States,Missing in Tangoe,13
+2025-06-01,Verizon United States,Missing on Carrier Bill,6
+2025-06-01,Verizon United States,Plan Mismatch,16
+2025-06-01,Verizon United States,Cost Center Mismatch,9
+2025-06-01,Verizon United States,Owner Mismatch,8
+2025-06-01,AT&T United States,Missing in Tangoe,10
+2025-06-01,AT&T United States,Missing on Carrier Bill,9
+2025-06-01,AT&T United States,Plan Mismatch,12
+2025-06-01,AT&T United States,Cost Center Mismatch,6
+2025-06-01,AT&T United States,Owner Mismatch,5
+2025-06-01,T-Mobile United States,Missing in Tangoe,0
+2025-06-01,T-Mobile United States,Missing on Carrier Bill,0
+2025-06-01,T-Mobile United States,Plan Mismatch,4
+2025-06-01,T-Mobile United States,Cost Center Mismatch,5
+2025-06-01,T-Mobile United States,Owner Mismatch,5
+2025-06-01,Bell Canada,Missing in Tangoe,3
+2025-06-01,Bell Canada,Missing on Carrier Bill,4
+2025-06-01,Bell Canada,Plan Mismatch,10
+2025-06-01,Bell Canada,Cost Center Mismatch,0
+2025-06-01,Bell Canada,Owner Mismatch,5
+2025-06-01,Rogers Canada,Missing in Tangoe,2
+2025-06-01,Rogers Canada,Missing on Carrier Bill,3
+2025-06-01,Rogers Canada,Plan Mismatch,0
+2025-06-01,Rogers Canada,Cost Center Mismatch,4
+2025-06-01,Rogers Canada,Owner Mismatch,0
+2025-07-01,Verizon United States,Missing in Tangoe,6
+2025-07-01,Verizon United States,Missing on Carrier Bill,9
+2025-07-01,Verizon United States,Plan Mismatch,14
+2025-07-01,Verizon United States,Cost Center Mismatch,10
+2025-07-01,Verizon United States,Owner Mismatch,3
+2025-07-01,AT&T United States,Missing in Tangoe,5
+2025-07-01,AT&T United States,Missing on Carrier Bill,5
+2025-07-01,AT&T United States,Plan Mismatch,15
+2025-07-01,AT&T United States,Cost Center Mismatch,5
+2025-07-01,AT&T United States,Owner Mismatch,4
+2025-07-01,T-Mobile United States,Missing in Tangoe,4
+2025-07-01,T-Mobile United States,Missing on Carrier Bill,5
+2025-07-01,T-Mobile United States,Plan Mismatch,3
+2025-07-01,T-Mobile United States,Cost Center Mismatch,3
+2025-07-01,T-Mobile United States,Owner Mismatch,0
+2025-07-01,Bell Canada,Missing in Tangoe,1
+2025-07-01,Bell Canada,Missing on Carrier Bill,4
+2025-07-01,Bell Canada,Plan Mismatch,4
+2025-07-01,Bell Canada,Cost Center Mismatch,5
+2025-07-01,Bell Canada,Owner Mismatch,0
+2025-07-01,Rogers Canada,Missing in Tangoe,3
+2025-07-01,Rogers Canada,Missing on Carrier Bill,4
+2025-07-01,Rogers Canada,Plan Mismatch,6
+2025-07-01,Rogers Canada,Cost Center Mismatch,2
+2025-07-01,Rogers Canada,Owner Mismatch,0
+2025-08-01,Verizon United States,Missing in Tangoe,8
+2025-08-01,Verizon United States,Missing on Carrier Bill,5
+2025-08-01,Verizon United States,Plan Mismatch,14
+2025-08-01,Verizon United States,Cost Center Mismatch,11
+2025-08-01,Verizon United States,Owner Mismatch,3
+2025-08-01,AT&T United States,Missing in Tangoe,5
+2025-08-01,AT&T United States,Missing on Carrier Bill,4
+2025-08-01,AT&T United States,Plan Mismatch,11
+2025-08-01,AT&T United States,Cost Center Mismatch,5
+2025-08-01,AT&T United States,Owner Mismatch,5
+2025-08-01,T-Mobile United States,Missing in Tangoe,4
+2025-08-01,T-Mobile United States,Missing on Carrier Bill,2
+2025-08-01,T-Mobile United States,Plan Mismatch,5
+2025-08-01,T-Mobile United States,Cost Center Mismatch,2
+2025-08-01,T-Mobile United States,Owner Mismatch,2
+2025-08-01,Bell Canada,Missing in Tangoe,2
+2025-08-01,Bell Canada,Missing on Carrier Bill,2
+2025-08-01,Bell Canada,Plan Mismatch,4
+2025-08-01,Bell Canada,Cost Center Mismatch,5
+2025-08-01,Bell Canada,Owner Mismatch,0
+2025-08-01,Rogers Canada,Missing in Tangoe,4
+2025-08-01,Rogers Canada,Missing on Carrier Bill,1
+2025-08-01,Rogers Canada,Plan Mismatch,5
+2025-08-01,Rogers Canada,Cost Center Mismatch,4
+2025-08-01,Rogers Canada,Owner Mismatch,1
+2025-09-01,Verizon United States,Missing in Tangoe,7
+2025-09-01,Verizon United States,Missing on Carrier Bill,7
+2025-09-01,Verizon United States,Plan Mismatch,14
+2025-09-01,Verizon United States,Cost Center Mismatch,10
+2025-09-01,Verizon United States,Owner Mismatch,7
+2025-09-01,AT&T United States,Missing in Tangoe,7
+2025-09-01,AT&T United States,Missing on Carrier Bill,6
+2025-09-01,AT&T United States,Plan Mismatch,7
+2025-09-01,AT&T United States,Cost Center Mismatch,9
+2025-09-01,AT&T United States,Owner Mismatch,5
+2025-09-01,T-Mobile United States,Missing in Tangoe,1
+2025-09-01,T-Mobile United States,Missing on Carrier Bill,2
+2025-09-01,T-Mobile United States,Plan Mismatch,2
+2025-09-01,T-Mobile United States,Cost Center Mismatch,1
+2025-09-01,T-Mobile United States,Owner Mismatch,0
+2025-09-01,Bell Canada,Missing in Tangoe,0
+2025-09-01,Bell Canada,Missing on Carrier Bill,3
+2025-09-01,Bell Canada,Plan Mismatch,4
+2025-09-01,Bell Canada,Cost Center Mismatch,6
+2025-09-01,Bell Canada,Owner Mismatch,4
+2025-09-01,Rogers Canada,Missing in Tangoe,0
+2025-09-01,Rogers Canada,Missing on Carrier Bill,0
+2025-09-01,Rogers Canada,Plan Mismatch,2
+2025-09-01,Rogers Canada,Cost Center Mismatch,3
+2025-09-01,Rogers Canada,Owner Mismatch,1
+2025-10-01,Verizon United States,Missing in Tangoe,9
+2025-10-01,Verizon United States,Missing on Carrier Bill,7
+2025-10-01,Verizon United States,Plan Mismatch,15
+2025-10-01,Verizon United States,Cost Center Mismatch,10
+2025-10-01,Verizon United States,Owner Mismatch,6
+2025-10-01,AT&T United States,Missing in Tangoe,7
+2025-10-01,AT&T United States,Missing on Carrier Bill,2
+2025-10-01,AT&T United States,Plan Mismatch,7
+2025-10-01,AT&T United States,Cost Center Mismatch,7
+2025-10-01,AT&T United States,Owner Mismatch,1
+2025-10-01,T-Mobile United States,Missing in Tangoe,3
+2025-10-01,T-Mobile United States,Missing on Carrier Bill,2
+2025-10-01,T-Mobile United States,Plan Mismatch,3
+2025-10-01,T-Mobile United States,Cost Center Mismatch,1
+2025-10-01,T-Mobile United States,Owner Mismatch,4
+2025-10-01,Bell Canada,Missing in Tangoe,1
+2025-10-01,Bell Canada,Missing on Carrier Bill,2
+2025-10-01,Bell Canada,Plan Mismatch,5
+2025-10-01,Bell Canada,Cost Center Mismatch,1
+2025-10-01,Bell Canada,Owner Mismatch,1
+2025-10-01,Rogers Canada,Missing in Tangoe,2
+2025-10-01,Rogers Canada,Missing on Carrier Bill,0
+2025-10-01,Rogers Canada,Plan Mismatch,2
+2025-10-01,Rogers Canada,Cost Center Mismatch,3
+2025-10-01,Rogers Canada,Owner Mismatch,0
+2025-11-01,Verizon United States,Missing in Tangoe,7
+2025-11-01,Verizon United States,Missing on Carrier Bill,3
+2025-11-01,Verizon United States,Plan Mismatch,11
+2025-11-01,Verizon United States,Cost Center Mismatch,5
+2025-11-01,Verizon United States,Owner Mismatch,5
+2025-11-01,AT&T United States,Missing in Tangoe,9
+2025-11-01,AT&T United States,Missing on Carrier Bill,6
+2025-11-01,AT&T United States,Plan Mismatch,11
+2025-11-01,AT&T United States,Cost Center Mismatch,7
+2025-11-01,AT&T United States,Owner Mismatch,9
+2025-11-01,T-Mobile United States,Missing in Tangoe,0
+2025-11-01,T-Mobile United States,Missing on Carrier Bill,3
+2025-11-01,T-Mobile United States,Plan Mismatch,1
+2025-11-01,T-Mobile United States,Cost Center Mismatch,4
+2025-11-01,T-Mobile United States,Owner Mismatch,1
+2025-11-01,Bell Canada,Missing in Tangoe,0
+2025-11-01,Bell Canada,Missing on Carrier Bill,3
+2025-11-01,Bell Canada,Plan Mismatch,5
+2025-11-01,Bell Canada,Cost Center Mismatch,0
+2025-11-01,Bell Canada,Owner Mismatch,2
+2025-11-01,Rogers Canada,Missing in Tangoe,3
+2025-11-01,Rogers Canada,Missing on Carrier Bill,5
+2025-11-01,Rogers Canada,Plan Mismatch,0
+2025-11-01,Rogers Canada,Cost Center Mismatch,3
+2025-11-01,Rogers Canada,Owner Mismatch,0
+2025-12-01,Verizon United States,Missing in Tangoe,10
+2025-12-01,Verizon United States,Missing on Carrier Bill,4
+2025-12-01,Verizon United States,Plan Mismatch,11
+2025-12-01,Verizon United States,Cost Center Mismatch,6
+2025-12-01,Verizon United States,Owner Mismatch,3
+2025-12-01,AT&T United States,Missing in Tangoe,3
+2025-12-01,AT&T United States,Missing on Carrier Bill,8
+2025-12-01,AT&T United States,Plan Mismatch,5
+2025-12-01,AT&T United States,Cost Center Mismatch,5
+2025-12-01,AT&T United States,Owner Mismatch,4
+2025-12-01,T-Mobile United States,Missing in Tangoe,0
+2025-12-01,T-Mobile United States,Missing on Carrier Bill,0
+2025-12-01,T-Mobile United States,Plan Mismatch,3
+2025-12-01,T-Mobile United States,Cost Center Mismatch,3
+2025-12-01,T-Mobile United States,Owner Mismatch,3
+2025-12-01,Bell Canada,Missing in Tangoe,1
+2025-12-01,Bell Canada,Missing on Carrier Bill,3
+2025-12-01,Bell Canada,Plan Mismatch,2
+2025-12-01,Bell Canada,Cost Center Mismatch,5
+2025-12-01,Bell Canada,Owner Mismatch,1
+2025-12-01,Rogers Canada,Missing in Tangoe,1
+2025-12-01,Rogers Canada,Missing on Carrier Bill,0
+2025-12-01,Rogers Canada,Plan Mismatch,3
+2025-12-01,Rogers Canada,Cost Center Mismatch,4
+2025-12-01,Rogers Canada,Owner Mismatch,3
+2026-01-01,Verizon United States,Missing in Tangoe,9
+2026-01-01,Verizon United States,Missing on Carrier Bill,8
+2026-01-01,Verizon United States,Plan Mismatch,10
+2026-01-01,Verizon United States,Cost Center Mismatch,9
+2026-01-01,Verizon United States,Owner Mismatch,0
+2026-01-01,AT&T United States,Missing in Tangoe,4
+2026-01-01,AT&T United States,Missing on Carrier Bill,5
+2026-01-01,AT&T United States,Plan Mismatch,7
+2026-01-01,AT&T United States,Cost Center Mismatch,4
+2026-01-01,AT&T United States,Owner Mismatch,1
+2026-01-01,T-Mobile United States,Missing in Tangoe,6
+2026-01-01,T-Mobile United States,Missing on Carrier Bill,2
+2026-01-01,T-Mobile United States,Plan Mismatch,3
+2026-01-01,T-Mobile United States,Cost Center Mismatch,0
+2026-01-01,T-Mobile United States,Owner Mismatch,3
+2026-01-01,Bell Canada,Missing in Tangoe,0
+2026-01-01,Bell Canada,Missing on Carrier Bill,1
+2026-01-01,Bell Canada,Plan Mismatch,0
+2026-01-01,Bell Canada,Cost Center Mismatch,0
+2026-01-01,Bell Canada,Owner Mismatch,2
+2026-01-01,Rogers Canada,Missing in Tangoe,0
+2026-01-01,Rogers Canada,Missing on Carrier Bill,0
+2026-01-01,Rogers Canada,Plan Mismatch,5
+2026-01-01,Rogers Canada,Cost Center Mismatch,1
+2026-01-01,Rogers Canada,Owner Mismatch,1
+2026-02-01,Verizon United States,Missing in Tangoe,8
+2026-02-01,Verizon United States,Missing on Carrier Bill,6
+2026-02-01,Verizon United States,Plan Mismatch,9
+2026-02-01,Verizon United States,Cost Center Mismatch,7
+2026-02-01,Verizon United States,Owner Mismatch,6
+2026-02-01,AT&T United States,Missing in Tangoe,0
+2026-02-01,AT&T United States,Missing on Carrier Bill,3
+2026-02-01,AT&T United States,Plan Mismatch,10
+2026-02-01,AT&T United States,Cost Center Mismatch,4
+2026-02-01,AT&T United States,Owner Mismatch,3
+2026-02-01,T-Mobile United States,Missing in Tangoe,2
+2026-02-01,T-Mobile United States,Missing on Carrier Bill,0
+2026-02-01,T-Mobile United States,Plan Mismatch,3
+2026-02-01,T-Mobile United States,Cost Center Mismatch,0
+2026-02-01,T-Mobile United States,Owner Mismatch,1
+2026-02-01,Bell Canada,Missing in Tangoe,4
+2026-02-01,Bell Canada,Missing on Carrier Bill,2
+2026-02-01,Bell Canada,Plan Mismatch,5
+2026-02-01,Bell Canada,Cost Center Mismatch,3
+2026-02-01,Bell Canada,Owner Mismatch,0
+2026-02-01,Rogers Canada,Missing in Tangoe,6
+2026-02-01,Rogers Canada,Missing on Carrier Bill,1
+2026-02-01,Rogers Canada,Plan Mismatch,0
+2026-02-01,Rogers Canada,Cost Center Mismatch,3
+2026-02-01,Rogers Canada,Owner Mismatch,4
+2026-03-01,Verizon United States,Missing in Tangoe,9
+2026-03-01,Verizon United States,Missing on Carrier Bill,7
+2026-03-01,Verizon United States,Plan Mismatch,9
+2026-03-01,Verizon United States,Cost Center Mismatch,7
+2026-03-01,Verizon United States,Owner Mismatch,1
+2026-03-01,AT&T United States,Missing in Tangoe,5
+2026-03-01,AT&T United States,Missing on Carrier Bill,7
+2026-03-01,AT&T United States,Plan Mismatch,7
+2026-03-01,AT&T United States,Cost Center Mismatch,4
+2026-03-01,AT&T United States,Owner Mismatch,4
+2026-03-01,T-Mobile United States,Missing in Tangoe,0
+2026-03-01,T-Mobile United States,Missing on Carrier Bill,0
+2026-03-01,T-Mobile United States,Plan Mismatch,5
+2026-03-01,T-Mobile United States,Cost Center Mismatch,6
+2026-03-01,T-Mobile United States,Owner Mismatch,2
+2026-03-01,Bell Canada,Missing in Tangoe,0
+2026-03-01,Bell Canada,Missing on Carrier Bill,0
+2026-03-01,Bell Canada,Plan Mismatch,1
+2026-03-01,Bell Canada,Cost Center Mismatch,5
+2026-03-01,Bell Canada,Owner Mismatch,3
+2026-03-01,Rogers Canada,Missing in Tangoe,0
+2026-03-01,Rogers Canada,Missing on Carrier Bill,1
+2026-03-01,Rogers Canada,Plan Mismatch,0
+2026-03-01,Rogers Canada,Cost Center Mismatch,0
+2026-03-01,Rogers Canada,Owner Mismatch,0
+2026-04-01,Verizon United States,Missing in Tangoe,8
+2026-04-01,Verizon United States,Missing on Carrier Bill,3
+2026-04-01,Verizon United States,Plan Mismatch,8
+2026-04-01,Verizon United States,Cost Center Mismatch,6
+2026-04-01,Verizon United States,Owner Mismatch,4
+2026-04-01,AT&T United States,Missing in Tangoe,7
+2026-04-01,AT&T United States,Missing on Carrier Bill,1
+2026-04-01,AT&T United States,Plan Mismatch,3
+2026-04-01,AT&T United States,Cost Center Mismatch,5
+2026-04-01,AT&T United States,Owner Mismatch,1
+2026-04-01,T-Mobile United States,Missing in Tangoe,4
+2026-04-01,T-Mobile United States,Missing on Carrier Bill,2
+2026-04-01,T-Mobile United States,Plan Mismatch,2
+2026-04-01,T-Mobile United States,Cost Center Mismatch,3
+2026-04-01,T-Mobile United States,Owner Mismatch,3
+2026-04-01,Bell Canada,Missing in Tangoe,3
+2026-04-01,Bell Canada,Missing on Carrier Bill,3
+2026-04-01,Bell Canada,Plan Mismatch,4
+2026-04-01,Bell Canada,Cost Center Mismatch,4
+2026-04-01,Bell Canada,Owner Mismatch,0
+2026-04-01,Rogers Canada,Missing in Tangoe,3
+2026-04-01,Rogers Canada,Missing on Carrier Bill,1
+2026-04-01,Rogers Canada,Plan Mismatch,4
+2026-04-01,Rogers Canada,Cost Center Mismatch,1
+2026-04-01,Rogers Canada,Owner Mismatch,0
+2026-05-01,Verizon United States,Missing in Tangoe,9
+2026-05-01,Verizon United States,Missing on Carrier Bill,3
+2026-05-01,Verizon United States,Plan Mismatch,8
+2026-05-01,Verizon United States,Cost Center Mismatch,5
+2026-05-01,Verizon United States,Owner Mismatch,7
+2026-05-01,AT&T United States,Missing in Tangoe,6
+2026-05-01,AT&T United States,Missing on Carrier Bill,6
+2026-05-01,AT&T United States,Plan Mismatch,8
+2026-05-01,AT&T United States,Cost Center Mismatch,2
+2026-05-01,AT&T United States,Owner Mismatch,4
+2026-05-01,T-Mobile United States,Missing in Tangoe,4
+2026-05-01,T-Mobile United States,Missing on Carrier Bill,0
+2026-05-01,T-Mobile United States,Plan Mismatch,7
+2026-05-01,T-Mobile United States,Cost Center Mismatch,0
+2026-05-01,T-Mobile United States,Owner Mismatch,2
+2026-05-01,Bell Canada,Missing in Tangoe,4
+2026-05-01,Bell Canada,Missing on Carrier Bill,0
+2026-05-01,Bell Canada,Plan Mismatch,4
+2026-05-01,Bell Canada,Cost Center Mismatch,0
+2026-05-01,Bell Canada,Owner Mismatch,2
+2026-05-01,Rogers Canada,Missing in Tangoe,2
+2026-05-01,Rogers Canada,Missing on Carrier Bill,0
+2026-05-01,Rogers Canada,Plan Mismatch,0
+2026-05-01,Rogers Canada,Cost Center Mismatch,0
+2026-05-01,Rogers Canada,Owner Mismatch,2
+2026-06-01,Verizon United States,Missing in Tangoe,8
+2026-06-01,Verizon United States,Missing on Carrier Bill,3
+2026-06-01,Verizon United States,Plan Mismatch,7
+2026-06-01,Verizon United States,Cost Center Mismatch,7
+2026-06-01,Verizon United States,Owner Mismatch,2
+2026-06-01,AT&T United States,Missing in Tangoe,7
+2026-06-01,AT&T United States,Missing on Carrier Bill,2
+2026-06-01,AT&T United States,Plan Mismatch,5
+2026-06-01,AT&T United States,Cost Center Mismatch,3
+2026-06-01,AT&T United States,Owner Mismatch,1
+2026-06-01,T-Mobile United States,Missing in Tangoe,0
+2026-06-01,T-Mobile United States,Missing on Carrier Bill,1
+2026-06-01,T-Mobile United States,Plan Mismatch,0
+2026-06-01,T-Mobile United States,Cost Center Mismatch,1
+2026-06-01,T-Mobile United States,Owner Mismatch,0
+2026-06-01,Bell Canada,Missing in Tangoe,4
+2026-06-01,Bell Canada,Missing on Carrier Bill,2
+2026-06-01,Bell Canada,Plan Mismatch,1
+2026-06-01,Bell Canada,Cost Center Mismatch,1
+2026-06-01,Bell Canada,Owner Mismatch,3
+2026-06-01,Rogers Canada,Missing in Tangoe,1
+2026-06-01,Rogers Canada,Missing on Carrier Bill,0
+2026-06-01,Rogers Canada,Plan Mismatch,4
+2026-06-01,Rogers Canada,Cost Center Mismatch,5
+2026-06-01,Rogers Canada,Owner Mismatch,2
+2026-07-01,Verizon United States,Missing in Tangoe,8
+2026-07-01,Verizon United States,Missing on Carrier Bill,5
+2026-07-01,Verizon United States,Plan Mismatch,10
+2026-07-01,Verizon United States,Cost Center Mismatch,9
+2026-07-01,Verizon United States,Owner Mismatch,4
+2026-07-01,AT&T United States,Missing in Tangoe,6
+2026-07-01,AT&T United States,Missing on Carrier Bill,0
+2026-07-01,AT&T United States,Plan Mismatch,10
+2026-07-01,AT&T United States,Cost Center Mismatch,7
+2026-07-01,AT&T United States,Owner Mismatch,5
+2026-07-01,T-Mobile United States,Missing in Tangoe,0
+2026-07-01,T-Mobile United States,Missing on Carrier Bill,4
+2026-07-01,T-Mobile United States,Plan Mismatch,1
+2026-07-01,T-Mobile United States,Cost Center Mismatch,1
+2026-07-01,T-Mobile United States,Owner Mismatch,4
+2026-07-01,Bell Canada,Missing in Tangoe,2
+2026-07-01,Bell Canada,Missing on Carrier Bill,3
+2026-07-01,Bell Canada,Plan Mismatch,1
+2026-07-01,Bell Canada,Cost Center Mismatch,1
+2026-07-01,Bell Canada,Owner Mismatch,1
+2026-07-01,Rogers Canada,Missing in Tangoe,2
+2026-07-01,Rogers Canada,Missing on Carrier Bill,0
+2026-07-01,Rogers Canada,Plan Mismatch,5
+2026-07-01,Rogers Canada,Cost Center Mismatch,1
+2026-07-01,Rogers Canada,Owner Mismatch,0
+2026-08-01,Verizon United States,Missing in Tangoe,5
+2026-08-01,Verizon United States,Missing on Carrier Bill,3
+2026-08-01,Verizon United States,Plan Mismatch,9
+2026-08-01,Verizon United States,Cost Center Mismatch,8
+2026-08-01,Verizon United States,Owner Mismatch,3
+2026-08-01,AT&T United States,Missing in Tangoe,4
+2026-08-01,AT&T United States,Missing on Carrier Bill,7
+2026-08-01,AT&T United States,Plan Mismatch,10
+2026-08-01,AT&T United States,Cost Center Mismatch,4
+2026-08-01,AT&T United States,Owner Mismatch,0
+2026-08-01,T-Mobile United States,Missing in Tangoe,3
+2026-08-01,T-Mobile United States,Missing on Carrier Bill,5
+2026-08-01,T-Mobile United States,Plan Mismatch,1
+2026-08-01,T-Mobile United States,Cost Center Mismatch,3
+2026-08-01,T-Mobile United States,Owner Mismatch,1
+2026-08-01,Bell Canada,Missing in Tangoe,3
+2026-08-01,Bell Canada,Missing on Carrier Bill,2
+2026-08-01,Bell Canada,Plan Mismatch,3
+2026-08-01,Bell Canada,Cost Center Mismatch,4
+2026-08-01,Bell Canada,Owner Mismatch,0
+2026-08-01,Rogers Canada,Missing in Tangoe,0
+2026-08-01,Rogers Canada,Missing on Carrier Bill,0
+2026-08-01,Rogers Canada,Plan Mismatch,5
+2026-08-01,Rogers Canada,Cost Center Mismatch,0
+2026-08-01,Rogers Canada,Owner Mismatch,3

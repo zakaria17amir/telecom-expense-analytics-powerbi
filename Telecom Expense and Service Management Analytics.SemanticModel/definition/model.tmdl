@@ -1,0 +1,45 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-US
+	maxParallelismPerRefresh: 1
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 0
+
+annotation PBI_QueryOrder = ["Monthly Billings All","Device Depot Inventory","Reissued Devices","VVIP List","Exception List","All Measures","Tangoe Devices","Granite Overall","Granite Rock Report","All Carriers","Returned Devices","Tangoe Activities","ServiceNow Tickets","Out Of Contract Devices","Active Inactive Users","Zero Use Report","Multiple Devices","Unassigned Lines","Carrier Discrepancies","Verizon Activation","Upgrades and Order Approvals","Device Orders","Device Upgrade","All Lines Report"]
+
+annotation PBI_RemovedChildren = [{"remoteItemId":{"foreignKeyRelationship":{"fromTableLocalLineageTag":"37b3be2b-9ab6-41d3-aadc-2e44845d5256","fromColumnLocalLineageTag":"a1eb8434-ecfa-45d5-bb02-5d65b659c6e4","toTableLocalLineageTag":"ce4ca3dc-130d-443d-a8ec-1fbff9a333c0","toColumnLocalLineageTag":"4cacbc9f-eccc-4566-bf7b-7739d085d8aa"}},"objectType":"Relationship"}]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table 'Monthly Billings All'
+ref table Dim_Calendar
+ref table 'Device Depot Inventory'
+ref table 'Reissued Devices'
+ref table 'VVIP List'
+ref table 'Exception List'
+ref table 'All Measures'
+ref table 'Tangoe Devices'
+ref table 'Granite Overall'
+ref table 'Granite Rock Report'
+ref table 'All Carriers'
+ref table 'Returned Devices'
+ref table 'Tangoe Activities'
+ref table 'Upgrades and Order Approvals'
+ref table 'ServiceNow Tickets'
+ref table 'Out Of Contract Devices'
+ref table 'Active Inactive Users'
+ref table 'Zero Use Report'
+ref table 'Multiple Devices'
+ref table 'Unassigned Lines'
+ref table 'Carrier Discrepancies'
+ref table 'Verizon Activation'
+ref table 'Device Orders'
+ref table 'Device Upgrade'
+ref table 'All Lines Report'
+ref table 'Dim Device Category'
+
+

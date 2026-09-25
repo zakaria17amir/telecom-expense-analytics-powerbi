@@ -1,0 +1,32 @@
+table 'Multiple Devices'
+	lineageTag: 918e6e89-53d8-4d31-ad68-029e1a15524d
+
+	column 'Owner -> Email'
+		dataType: string
+		lineageTag: 6d8956e6-05e2-454e-9e68-60590e3d62bb
+		summarizeBy: none
+		sourceColumn: Owner -> Email
+
+		annotation SummarizationSetBy = Automatic
+
+	column Count
+		dataType: int64
+		formatString: 0
+		lineageTag: d455e38a-87ab-40e7-999d-c6ec01a0d15a
+		summarizeBy: none
+		sourceColumn: Count
+
+		annotation SummarizationSetBy = User
+
+	partition 'Multiple Devices' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("Multiple Devices", {{"Owner -> Email", type text}, {"Count", Int64.Type}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

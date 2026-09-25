@@ -1,0 +1,139 @@
+table 'Granite Rock Report'
+	lineageTag: 2a1b17b7-47d1-44bc-8344-ab9e6832a9c6
+
+	column 'Invoice Number'
+		dataType: int64
+		formatString: 0
+		lineageTag: ef18797a-3018-45c9-bbf5-60f4413f661e
+		summarizeBy: none
+		sourceColumn: Invoice Number
+
+		annotation SummarizationSetBy = User
+
+	column 'Invoice Date'
+		dataType: dateTime
+		formatString: mm/dd/yyyy
+		lineageTag: 970ba28c-5f61-44a8-878a-f25d1fb9c8e0
+		summarizeBy: none
+		sourceColumn: Invoice Date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+		annotation PBI_FormatHint = {"isDateTimeCustom":true}
+
+	column 'Parent Account'
+		dataType: int64
+		formatString: 0
+		lineageTag: 8052a10d-a5d6-44d0-bad5-1c9caa1e685e
+		summarizeBy: none
+		sourceColumn: Parent Account
+
+		annotation SummarizationSetBy = User
+
+	column 'Account #'
+		dataType: int64
+		formatString: 0
+		lineageTag: ce3c980b-0d6b-4f40-bf3d-d7ee3352c7cd
+		summarizeBy: none
+		sourceColumn: Account #
+
+		annotation SummarizationSetBy = User
+
+	column 'Location Name'
+		dataType: string
+		lineageTag: d79493ae-3730-4efd-b8e2-1d51e29f6e31
+		summarizeBy: none
+		sourceColumn: Location Name
+
+		annotation SummarizationSetBy = Automatic
+
+	column Status
+		dataType: string
+		lineageTag: f6ed9cd3-88ec-4846-ba87-47778cdf629a
+		summarizeBy: none
+		sourceColumn: Status
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Current Due'
+		dataType: double
+		lineageTag: b2ccf782-ac96-49ea-8f99-7a20655e26d7
+		summarizeBy: none
+		sourceColumn: Current Due
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Previous
+		dataType: double
+		lineageTag: 73d4eddc-df29-4421-959b-ef32b061e4b2
+		summarizeBy: none
+		sourceColumn: Previous
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'New Charges'
+		dataType: double
+		lineageTag: cc92ee1c-9e22-42ea-a939-bbfa9ea7ef77
+		summarizeBy: none
+		sourceColumn: New Charges
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Payments
+		dataType: double
+		lineageTag: dc62c9bc-06ef-446d-ae91-73e2fb3b3a8f
+		summarizeBy: none
+		sourceColumn: Payments
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Adjustments
+		dataType: double
+		lineageTag: 873a3eda-4394-4cd9-95d3-12eeed59ee2c
+		summarizeBy: none
+		sourceColumn: Adjustments
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Applied
+		dataType: double
+		lineageTag: e32c8e9e-8e2c-42c8-a150-b1d857f6b87f
+		summarizeBy: none
+		sourceColumn: Applied
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Carrier
+		dataType: string
+		lineageTag: 29b028a8-4238-41bc-bfe2-55e9d7200f68
+		summarizeBy: none
+		sourceColumn: Carrier
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Granite Rock Report' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("Granite Rock Report", {{"Invoice Number", Int64.Type}, {"Invoice Date", type date}, {"Parent Account", Int64.Type}, {"Account #", Int64.Type}, {"Location Name", type text}, {"Status", type text}, {"Current Due", type number}, {"Previous", type number}, {"New Charges", type number}, {"Payments", type number}, {"Adjustments", type number}, {"Applied", type number}, {"Carrier", type text}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

@@ -1,0 +1,40 @@
+table 'VVIP List'
+	lineageTag: ce4ca3dc-130d-443d-a8ec-1fbff9a333c0
+
+	column Name
+		dataType: string
+		lineageTag: f2f82545-1d35-43c7-984e-df817e7f6655
+		summarizeBy: none
+		sourceColumn: Name
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Device number'
+		dataType: int64
+		formatString: 0
+		lineageTag: 4cacbc9f-eccc-4566-bf7b-7739d085d8aa
+		summarizeBy: none
+		sourceColumn: Device number
+
+		annotation SummarizationSetBy = Automatic
+
+	column Carrier
+		dataType: string
+		lineageTag: 51823334-95e8-4bf1-b872-3b97c4af7336
+		summarizeBy: none
+		sourceColumn: Carrier
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'VVIP List' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("VVIP List", {{"Name", type text}, {"Device number", Int64.Type}, {"Carrier", type text}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

@@ -1,0 +1,32 @@
+table 'Dim Device Category'
+	lineageTag: 05c89aaa-ae1d-4303-a0ba-d67a0886bd59
+
+	column 'Device Category'
+		lineageTag: 4315db3b-d04e-4b88-a8c0-017f5e86ac8a
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Device Category]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Dim Device Category' = calculated
+		mode: import
+		source =
+				
+				DISTINCT(
+				    UNION(
+				        SELECTCOLUMNS(
+				            'Tangoe Devices',
+				            "Device Category",
+				            'Tangoe Devices'[Device Category]
+				        ),
+				        SELECTCOLUMNS(
+				            'Granite Overall',
+				            "Device Category",
+				            'Granite Overall'[Device Type]
+				        )
+				    )
+				)
+
+	annotation PBI_Id = d4d885c6c1db44a69e50c7cae1326eb9
+

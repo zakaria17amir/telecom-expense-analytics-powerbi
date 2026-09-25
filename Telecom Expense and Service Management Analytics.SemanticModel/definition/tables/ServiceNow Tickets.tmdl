@@ -1,0 +1,194 @@
+table 'ServiceNow Tickets'
+	lineageTag: f08b9600-1974-4c50-b282-704ecba35662
+
+	column number
+		dataType: string
+		lineageTag: 5d7f7062-ea8a-49a3-9f0c-41b03e149eac
+		summarizeBy: none
+		sourceColumn: number
+
+		annotation SummarizationSetBy = Automatic
+
+	column priority
+		dataType: string
+		lineageTag: ccd3164b-d657-4f8d-91e7-64740f71541a
+		summarizeBy: none
+		sourceColumn: priority
+
+		annotation SummarizationSetBy = Automatic
+
+	column state
+		dataType: string
+		lineageTag: cb97d01b-9206-4378-8b66-102ef070875e
+		summarizeBy: none
+		sourceColumn: state
+
+		annotation SummarizationSetBy = Automatic
+
+	column region
+		dataType: string
+		lineageTag: ddf706c4-bea2-4fb5-b8a2-384635e77a45
+		summarizeBy: none
+		sourceColumn: region
+
+		annotation SummarizationSetBy = Automatic
+
+	column country
+		dataType: string
+		lineageTag: 65e9d09a-f622-4cf0-b8eb-c2616e4a5ffd
+		summarizeBy: none
+		sourceColumn: country
+
+		annotation SummarizationSetBy = Automatic
+
+	column assigned_to
+		dataType: string
+		lineageTag: a1d1c9c2-5626-4ce0-aee1-afc9fb9a26d8
+		summarizeBy: none
+		sourceColumn: assigned_to
+
+		annotation SummarizationSetBy = Automatic
+
+	column short_description
+		dataType: string
+		lineageTag: 3f0c089b-7361-4eab-9fe0-26b98394c76d
+		summarizeBy: none
+		sourceColumn: short_description
+
+		annotation SummarizationSetBy = Automatic
+
+	column sys_class_name
+		dataType: string
+		lineageTag: 45e97620-f006-4ff3-b224-a77beaeb1f46
+		summarizeBy: none
+		sourceColumn: sys_class_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'assigned_to.active'
+		dataType: string
+		lineageTag: 697bbb04-dcf0-4651-a600-ae440e465204
+		summarizeBy: none
+		sourceColumn: assigned_to.active
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'assigned_to.user_name'
+		dataType: string
+		lineageTag: 56f420db-7dff-47ca-9acf-13d123c29c58
+		summarizeBy: none
+		sourceColumn: assigned_to.user_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column assignment_group
+		dataType: string
+		lineageTag: 10fd9da2-c304-41f3-9c49-8e709ef6da70
+		summarizeBy: none
+		sourceColumn: assignment_group
+
+		annotation SummarizationSetBy = Automatic
+
+	column work_notes
+		dataType: string
+		lineageTag: 8a5eb09a-0ab3-456a-beb0-021eca27cb55
+		summarizeBy: none
+		sourceColumn: work_notes
+
+		annotation SummarizationSetBy = Automatic
+
+	column sys_updated_on
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 63173850-6dbc-490c-9d62-b9f1dab9447a
+		summarizeBy: none
+		sourceColumn: sys_updated_on
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column sys_updated_by
+		dataType: string
+		lineageTag: 01aad9de-620c-4503-a935-6bc6a46e89fd
+		summarizeBy: none
+		sourceColumn: sys_updated_by
+
+		annotation SummarizationSetBy = Automatic
+
+	column sys_created_on
+		dataType: dateTime
+		formatString: mm/dd/yyyy
+		lineageTag: 96c167ca-7283-4ba1-8432-43d64d590b92
+		summarizeBy: none
+		sourceColumn: sys_created_on
+
+		changedProperty = DataType
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isDateTimeCustom":true}
+
+	column u_request_type1
+		dataType: string
+		lineageTag: 3742ac42-0231-46f3-aa6d-1a2b0c2beb87
+		summarizeBy: none
+		sourceColumn: u_request_type1
+
+		annotation SummarizationSetBy = Automatic
+
+	column sys_created_by
+		dataType: string
+		lineageTag: 3bbe3c9b-dfc7-4def-8752-9d0ca87530eb
+		summarizeBy: none
+		sourceColumn: sys_created_by
+
+		annotation SummarizationSetBy = Automatic
+
+	column closed_at
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 04f90569-33b4-4330-87db-71cc72edbe88
+		summarizeBy: none
+		sourceColumn: closed_at
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column description
+		dataType: string
+		lineageTag: 7a972c64-b9f4-4c65-9c71-583fe1f169b6
+		summarizeBy: none
+		sourceColumn: description
+
+		annotation SummarizationSetBy = Automatic
+
+	column u_task_for
+		dataType: string
+		lineageTag: 5eb56aff-e7fe-4381-910b-4ed69c2ed1ff
+		summarizeBy: none
+		sourceColumn: u_task_for
+
+		annotation SummarizationSetBy = Automatic
+
+	column closed_by
+		dataType: string
+		lineageTag: 4fe8fdb7-9cfb-4a3f-8fd5-8b3a6a0b6fe9
+		summarizeBy: none
+		sourceColumn: closed_by
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'ServiceNow Tickets' = m
+		mode: import
+		source =
+				let
+				    Source = LoadCsv("ServiceNow Tickets", {{"number", type text}, {"priority", type text}, {"state", type text}, {"region", type text}, {"country", type text}, {"assigned_to", type text}, {"short_description", type text}, {"sys_class_name", type text}, {"assigned_to.active", type text}, {"assigned_to.user_name", type text}, {"assignment_group", type text}, {"work_notes", type text}, {"sys_updated_on", type date}, {"sys_updated_by", type text}, {"sys_created_on", type date}, {"u_request_type1", type text}, {"sys_created_by", type text}, {"closed_at", type date}, {"description", type text}, {"u_task_for", type text}, {"closed_by", type text}})
+				in
+				    Source
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
